@@ -1,0 +1,208 @@
+---
+title: "Product Demand Forecast-Monthly By Node Group Model (hts)"
+author: "Microsoft"
+output: 
+    rmarkdown::html_vignette:
+        toc: true
+
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+```{r setup, echo=FALSE}
+
+knitr::opts_chunk$set(fig.width = 6,
+                      fig.height = 4,
+                      fig.align='center',
+                      dev = "png")
+
+```
+
+# Introduction
+In this documentation, we are trying to build a monthly by node group demand forecast model on product booking quantity data using the package 'hts'. We implement the advanced analysis process with R in the principle of step-by-step. 
+
+## Product booking quantity data
+Let's load the data and take a brief glimpse of it. 
+```{r, message=FALSE}
+##########################################################################
+## Set directory
+##########################################################################
+setwd("C:/Users/zhouf/Documents/Rproject")
+data.path <- "C:/Users/zhouf/Documents/Rproject"
+```
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Read data
+##########################################################################
+data <- read.table("Data/After scramble-Node group.csv", header=TRUE, sep=",")
+dim(data) # 120 17
+str(data)
+head(data)
+```
+
+## Handling missing value
+To clean the data, we remove some of columns with too many NAs (>10%) and replace other missing values with last-observation-carried-forward method. 
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Clean missing value
+##########################################################################
+library(plyr)
+
+# remove columns with only NA
+data <- Filter(function(x)!all(is.na(x)), data)
+dim(data) # 120 16
+
+# remove columns with too many NAs 
+data <- Filter(function(x)!(sum(is.na(x))/length(x)) > 0.1, data)
+dim(data) # 120 10
+
+# remove rows with only missing values
+missingRows <- apply(data, 1, function(x) all(is.na(x)))
+data <- data[!missingRows, ]
+dim(data)
+
+# replace NA values with last-observation-carried-forward method
+library(zoo)
+data[,3:10] <- lapply(data[,3:10], function(x) { 
+  x <- na.locf(x)
+  x
+})
+head(data)
+```
+
+## Model building
+We aim to build a time series model to fit the whole product booking quantity data. 
+
+### Hierachical time series model
+Hierarchical time series forecasting methods can be implemented in the hts package (Hyndman et al. 2014) for R (R Core Team 2013).
+
+We can use hts function to create a hierarchical time series. The required inputs are the bottom-level time series, and information about the hierarchical structure. Here, we try two hierarchical structure: first, each bottom series belong to a group; second, the series for product 1,3,4,5,6 belong to one group, series for product 8,9,10 belong to the second group, and other bottom series belong to the third group.
+
+Let's have a look at 2-level hierarchical time series. 
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Hierarchical time series modeling 
+##########################################################################
+library(hts)
+
+# construct time series matrix
+bts <- ts(data[, 4:10], frequency=12, start=c(2006, 1))
+head(bts)
+
+# create 2-level hierarchical time series
+demandgts <- hts(bts)
+print(demandgts)
+alldemand <- aggts(demandgts) 
+head(alldemand)
+plot(demandgts, levels=c(0,1))
+
+# forecast 3-step-ahead demand using the bottom-up method
+demandforecast <- forecast(demandgts, h=3, method="bu", fmethod="arima", 
+                           keep.fitted = TRUE)
+# plot the forecasts inlcluding the last ten historical years (120 historical months)
+plot(demandforecast, include=120)
+aggts(demandforecast)
+summary(demandforecast)
+
+# set up the training sample and testing sample
+train <- window(demandgts, start=c(2006, 1), end=c(2014, 12))
+test <- window(demandgts, start=c(2015, 1), end=c(2015, 12))
+demandforecast <- forecast(train, h=12, method="bu", fmethod="arima")
+# calculate perforemance metrics
+accuracy.gts(demandforecast, test)
+aggts(demandforecast)
+plot(demandforecast)
+```
+
+Let's try a 3-level hierarchical time series.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+# put the series within the same group together and construct new time series matrix
+newdata <- data[, -5]
+newdata$Product.2 <- data[, 5]
+head(newdata)
+bts <- ts(newdata[, 4:10], frequency=12, start=c(2006, 1))
+head(bts)
+
+# create multi-level hierarchical time seris
+demandgts <- hts(bts, nodes=list(3, c(4,2,1)))
+print(demandgts)
+alldemand <- aggts(demandgts) 
+head(alldemand)
+plot(demandgts)
+
+# forecast 3-step-ahead demand using the bottom-up method
+demandforecast <- forecast(demandgts, h=3, method="bu", fmethod="arima", 
+                           keep.fitted=TRUE)
+# plot the forecasts inlcluding the last ten historical years (120 historical months)
+plot(demandforecast, include=120)
+aggts(demandforecast)
+summary(demandforecast)
+
+# set up the training sample and testing sample
+train <- window(demandgts, start=c(2006, 1), end=c(2014, 12))
+test <- window(demandgts, start=c(2015, 1), end=c(2015, 12))
+demandforecast <- forecast(train, h=12, method="bu", fmethod="arima", keep.fitted=TRUE)
+summary(demandforecast)
+# calculate perforemance metrics
+accuracy.gts(demandforecast, test)
+aggts(demandforecast)
+plot(demandforecast)
+``` 
+
+From a model performance metrics perspective, there seems to be no much difference between 2-level and 3-level hierarchical time series model.
+
+### Cross-validation for hierarchical time series
+
+Next, we use cross validation to compare performance of different forecast methods for hierarchical time series model.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+# use time series cross validation to compare model performance
+library(fpp)
+
+k <- 96 # minimum data length for fitting a model
+n <- dim(demandgts$bts)[1]
+st <- tsp(demandgts$bts)[1]+(k-2)/12
+mape11 <- mape12 <- mape13 <- mape21 <- mape22 <- mape23 <- mape31 <- mape32 <- mape33 <- matrix(NA,n-k,12)
+for(i in 1:(n-k))
+{
+  xshort <- window(demandgts, end=st + i/12)
+  xnext <- window(demandgts, start=st + (i+1)/12, end=st + (i+12)/12)
+  fcast11 <- forecast(xshort, h=12, method="bu", fmethod="arima", keep.fitted = TRUE)
+  fcast12 <- forecast(xshort, h=12, method="bu", fmethod="ets", keep.fitted=TRUE)
+  fcast13 <- forecast(xshort, h=12, method="bu", fmethod="rw", keep.fitted=TRUE)
+  fcast21 <- forecast(xshort, h=12, method="comb", fmethod="arima", keep.fitted = TRUE)
+  fcast22 <- forecast(xshort, h=12, method="comb", fmethod="ets", keep.fitted=TRUE)
+  fcast23 <- forecast(xshort, h=12, method="comb", fmethod="rw", keep.fitted=TRUE)
+  fcast31 <- forecast(xshort, h=12, method="tdgsa", fmethod="arima", keep.fitted = TRUE)
+  fcast32 <- forecast(xshort, h=12, method="tdgsa", fmethod="ets", keep.fitted=TRUE)
+  fcast33 <- forecast(xshort, h=12, method="tdgsa", fmethod="rw", keep.fitted=TRUE)
+  mape11[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast11), aggts(xnext))[1, "MAPE"]
+  mape12[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast12), aggts(xnext))[1, "MAPE"]
+  mape13[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast13), aggts(xnext))[1, "MAPE"]
+  mape21[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast21), aggts(xnext))[1, "MAPE"]
+  mape22[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast22), aggts(xnext))[1, "MAPE"]
+  mape23[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast23), aggts(xnext))[1, "MAPE"]
+  mape31[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast31), aggts(xnext))[1, "MAPE"]
+  mape32[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast32), aggts(xnext))[1, "MAPE"]
+  mape33[i,1:dim(xnext$bts)[1]] <- accuracy(aggts(fcast33), aggts(xnext))[1, "MAPE"]
+}
+
+plot(1:12, colMeans(mape11,na.rm=TRUE), type="l", col=2, 
+     xlab="horizon", ylab="Overall MAPE", ylim=c(10, 25))
+lines(1:12, colMeans(mape12,na.rm=TRUE), type="l",col=3)
+lines(1:12, colMeans(mape13,na.rm=TRUE), type="l",col=4)
+lines(1:12, colMeans(mape21,na.rm=TRUE), type="l",col=5)
+lines(1:12, colMeans(mape22,na.rm=TRUE), type="l",col=6)
+lines(1:12, colMeans(mape23,na.rm=TRUE), type="l",col=7)
+lines(1:12, colMeans(mape31,na.rm=TRUE), type="l",col=8)
+lines(1:12, colMeans(mape32,na.rm=TRUE), type="l",col=9)
+lines(1:12, colMeans(mape33,na.rm=TRUE), type="l",col=10)
+legend("topleft", legend=c("bu-ARIMA","bu-ETS","bu-RW", "comb-ARIMA", "comb-ETS", "comb-RW", "tdgsa-ARIMA", "tdgsa-ETS", "tdgsa-RW"), col=2:10, lty=1, cex=0.5)
+```
+

@@ -1,0 +1,281 @@
+---
+title: "Product Demand (Booking) Forecast - Monthly by Node Group Model (baselineforecast)"
+author: "Microsoft"
+output: html_document
+---
+
+```{r}
+setwd("C:/Users/zhouf/Documents/Rproject")
+
+library("readxl")
+library("dplyr")
+library("lubridate")
+library("stringr")
+library("baselineforecast")
+```
+
+```{r}
+###############################################################################
+kFirstYear <- 2000
+kMaxHorizon <- 12
+kDateFormat <- "%Y-M%m"
+###############################################################################
+# parameters for caret
+kMachineLearningParameters <- list(
+ list(method = "rf",
+      tuneGrid = data.frame(.mtry = round(seq(1, 20, length = 5)))
+ ), list(method = "glmnet",
+         tuneGrid = expand.grid(alpha = c(0, 0.3, 0.5, 0.7, 1),
+                                lambda = 10^(seq(1, 5, length.out = 100)))
+ )
+)
+kTimeSeriesParameters <- list(
+  initialWindow = 5 * kMaxHorizon,
+  horizon = kMaxHorizon,
+  fixedWindow = FALSE
+)
+
+#xgbTree  xgboost, plyr
+# nrounds, max_depth, eta, gamma, colsample_bytree, min_child_weight
+```
+
+```{r}
+###############################################################################
+FitModelByCaret <- function(
+  dataFrame, mlparams, returnModel = FALSE,
+  tsparams = list(initialWindow = max(as.numeric(dataFrame[["horizon"]])),
+                  horizon = max(as.numeric(dataFrame[["horizon"]])),
+                  fixedWindow = FALSE)) {
+  ### define a couple of worker functions
+  ###------------------------------------------------------
+  MakeCleanDataFrame <- function(dataFrame, targetColumnName = "target",
+                                 columnsToDrop = c("t_plus_h", "numericIndex",
+                                                   "target", "dataType")) {
+    output <- data.frame(
+      target = GetTarget(dataFrame, columnToKeep = targetColumnName),
+      GetFeatures(dataFrame, convertToMatrix = FALSE,
+                  columnsToDrop = columnsToDrop), stringsAsFactors = FALSE)
+    output
+  } # end MakeCleanDataFrame()
+  ###------------------------------------------------------
+  ComputeResiduals <- function(modelObject, dataFrame) {
+    output <- modelObject
+    output[["residuals"]] <-
+      predict(modelObject, dataFrame) - dataFrame[["target"]]
+    output
+  } # end ComputeResiduals()
+  ###------------------------------------------------------
+  # Create time series crossvalidation slices
+  trainDataFrame <- dataFrame[dataFrame[["dataType"]] %in%
+                                c("training", "validating"), ]
+  testDataFrame <- dataFrame[dataFrame[["dataType"]] == "testing", ]
+  trainTrend <- trainDataFrame[["trend"]]
+  trendUnique <- unique(trainTrend)
+  slices <- do.call(caret::createTimeSlices, c(list(y = trendUnique), tsparams))
+  cvtrainidx <- lapply(slices[["train"]],
+                       function(x) which(trainTrend %in% trendUnique[x]))
+  cvtestidx <- lapply(slices[["test"]],
+                      function(x) which(trainTrend %in% trendUnique[x]))
+  caretTrainControl <- caret::trainControl(index = cvtrainidx,
+                                           indexOut = cvtestidx,
+                                           savePredictions = "all",
+                                           verboseIter = TRUE)
+  # Remove fields not used by models
+  trainDataFrameClean <- MakeCleanDataFrame(trainDataFrame)
+  testDataFrameClean  <- MakeCleanDataFrame(testDataFrame)
+  # remove zero variance columns
+  dataPreProcessing <- caret::preProcess(
+    vapply(trainDataFrameClean, as.numeric, numeric(nrow(trainDataFrameClean))),
+    method = "zv")
+  trainDataFrameClean <- predict(dataPreProcessing, trainDataFrameClean)
+  testDataFrameClean  <- predict(dataPreProcessing, testDataFrameClean)
+
+  # Model using various machines
+  trainedModels <- lapply(mlparams,
+                          function(x) do.call(caret::train,
+                                              c(list(
+                                                form = target ~ .,
+                                                data = trainDataFrameClean,
+                                                trControl = caretTrainControl),
+                                                x)))
+  names(trainedModels) <- vapply(mlparams, "[[", character(1), "method")
+  predictionsOnTestData <- lapply(trainedModels,
+                                  function(x) predict(x, testDataFrameClean))
+  trainedModels <- lapply(trainedModels, ComputeResiduals,
+                          dataFrame = trainDataFrameClean)
+  names(predictionsOnTestData) <- vapply(trainedModels,
+                                         function(x) x[["method"]],
+                                         character(1))
+  output <- list(predictions = predictionsOnTestData)
+  if (returnModel) output[["models"]] <- trainedModels
+  output
+} # end FitModelByCaret()
+```
+
+```{r}
+###############################################################################
+
+rawData <- read_excel("Data/After scramble-Node group.xls")
+# clean names up a bit
+names(rawData) <- str_replace_all(tolower(names(rawData)), "-", "")
+# get rid of some of the columns since they are mostly missing
+data <- rawData
+# product 14 is missing everywhere, confirm and get rid of it
+stopifnot(length(data[["product14"]]) == sum(is.na(data[["product14"]])))
+data[["product14"]] <- NULL
+# some rows only have missing values
+missingRows <- apply(data, 1, function(x) all(is.na(x)))
+data <- data[!missingRows, ]
+# product11 is character with NAs, fix this
+data[["product11"]] <- as.numeric(data[["product11"]])
+# product6, product12, and product13 have A LOT of missing values,
+# we will not use them
+data[["product6"]]  <- NULL
+data[["product12"]] <- NULL
+data[["product13"]] <- NULL
+# now let's add a year; we will add years from 2000 onward, since
+# no year info was provided to us. This is purely to make time-series
+# methods work, year can be adjusted later.
+cleanData <- data %>%
+  mutate(
+    year = kFirstYear + floor((period - 1) / 12),
+    ymdString = str_c(year, "-", month, "-01"),
+    date = as.Date(ymdString, format = "%Y-%b-%d")
+  ) %>%
+  select(date, product1:product11)
+print(head(cleanData), width = Inf)
+allRemainingProducts <-
+  names(cleanData)[str_detect(names(cleanData), "product")]
+numberOfProducts <- length(allRemainingProducts)
+
+bfDatasets <- vector("list", numberOfProducts)
+names(bfDatasets) <- allRemainingProducts
+
+for (p in seq_along(allRemainingProducts)) {
+  # p = 1
+  currentName <- allRemainingProducts[[p]]
+  print(str_c("Step ", p, ", working with ", currentName))
+  series <- zoo(
+    x = cleanData[[currentName]],
+    order.by = as.yearmon(cleanData[["date"]]),
+    frequency = 12
+  )
+  series <- na.locf(series)
+  plot(series, main = currentName, type = 'o')
+  currentData <- ConstructDataset(series,
+                                  extraData = NULL,
+                                  maxHorizon = kMaxHorizon,
+                                  dateFormat = kDateFormat,
+                                  seriesName = "series",
+                                  lagsToConstructTarget = c(1, 2, 3, 6, 12),
+                                  burnIn = 25,
+                                  dateCutoffs = NULL)
+  yearMonth <- AsPeriod(x = currentData[["t_plus_h"]], frequency = 12,
+                        dateFormat = kDateFormat)
+  years    <- ConstructCategoricalPredictor(inputVector = yearMonth,
+                                            featurizerFunction = year,
+                                            createIndicators = FALSE,
+                                            dateFormat = kDateFormat)
+  quarters <- ConstructCategoricalPredictor(inputVector = yearMonth,
+                                            featurizerFunction = quarter,
+                                            createIndicators = FALSE,
+                                            dateFormat = kDateFormat)
+  months   <- ConstructCategoricalPredictor(inputVector = yearMonth,
+                                            featurizerFunction = month,
+                                            createIndicators = FALSE,
+                                            dateFormat = kDateFormat)
+  seriesData <- data.frame(currentData,
+                           year = years[["year"]],
+                           quarter = quarters[["quarter"]],
+                           month = months[["month"]],
+                           product = currentName,
+                           stringsAsFactors = FALSE)
+
+  bfDatasets[[p]] <- seriesData
+}
+bfData <- do.call(rbind, bfDatasets)
+bfData[["product"]] <- as.factor(bfData[["product"]])
+str(bfData)
+
+caretOutput <- FitModelByCaret(dataFrame = bfData,
+                               mlparams = kMachineLearningParameters,
+                               tsparams = kTimeSeriesParameters)
+
+testData <- bfData %>%
+  filter(dataType == "testing") %>%
+  select(t_plus_h, horizon, product, target) %>%
+  mutate(
+    rf     = caretOutput[["predictions"]][["rf"]],
+    glmnet = caretOutput[["predictions"]][["glmnet"]]
+  ) %>%
+  gather(method, predictions, rf:glmnet) %>%
+  mutate(ape = ComputeAPE(target, predictions))
+
+errorsByHorizon <- testData %>%
+  group_by(method, horizon) %>%
+  summarize(
+    minApe = Round(ape, min),
+    p05Ape = Round(ape, quantile, probs = 0.05),
+    p10Ape = Round(ape, quantile, probs = 0.10),
+    p25Ape = Round(ape, quantile, probs = 0.25),
+    p50Ape = Round(ape, quantile, probs = 0.50),
+    p75Ape = Round(ape, quantile, probs = 0.75),
+    p90Ape = Round(ape, quantile, probs = 0.90),
+    p95Ape = Round(ape, quantile, probs = 0.95),
+    maxApe = Round(ape, max),
+    avgApe = Round(ape, mean)
+  )
+print(errorsByHorizon, n = nrow(errorsByHorizon), width = Inf)
+
+errorsByProduct <- testData %>%
+  group_by(method, product) %>%
+  summarize(
+    minApe = Round(ape, min),
+    p05Ape = Round(ape, quantile, probs = 0.05),
+    p10Ape = Round(ape, quantile, probs = 0.10),
+    p25Ape = Round(ape, quantile, probs = 0.25),
+    p50Ape = Round(ape, quantile, probs = 0.50),
+    p75Ape = Round(ape, quantile, probs = 0.75),
+    p90Ape = Round(ape, quantile, probs = 0.90),
+    p95Ape = Round(ape, quantile, probs = 0.95),
+    maxApe = Round(ape, max),
+    avgApe = Round(ape, mean)
+  )
+print(errorsByProduct, n = nrow(errorsByProduct), width = Inf)
+
+errorsByMethod <- testData %>%
+  group_by(method) %>%
+  summarize(
+    minApe = Round(ape, min),
+    p05Ape = Round(ape, quantile, probs = 0.05),
+    p10Ape = Round(ape, quantile, probs = 0.10),
+    p25Ape = Round(ape, quantile, probs = 0.25),
+    p50Ape = Round(ape, quantile, probs = 0.50),
+    p75Ape = Round(ape, quantile, probs = 0.75),
+    p90Ape = Round(ape, quantile, probs = 0.90),
+    p95Ape = Round(ape, quantile, probs = 0.95),
+    maxApe = Round(ape, max),
+    avgApe = Round(ape, mean)
+  )
+print(errorsByMethod, n = nrow(errorsByMethod), width = Inf)
+
+errorsByDate <- testData %>%
+  group_by(method, t_plus_h) %>%
+  summarize(
+    minApe = Round(ape, min),
+    p05Ape = Round(ape, quantile, probs = 0.05),
+    p10Ape = Round(ape, quantile, probs = 0.10),
+    p25Ape = Round(ape, quantile, probs = 0.25),
+    p50Ape = Round(ape, quantile, probs = 0.50),
+    p75Ape = Round(ape, quantile, probs = 0.75),
+    p90Ape = Round(ape, quantile, probs = 0.90),
+    p95Ape = Round(ape, quantile, probs = 0.95),
+    maxApe = Round(ape, max),
+    avgApe = Round(ape, mean)
+  )
+print(errorsByDate, n = nrow(errorsByDate), width = Inf)
+
+
+# View(data)
+```
+

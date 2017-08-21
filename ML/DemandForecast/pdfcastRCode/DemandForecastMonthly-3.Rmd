@@ -1,0 +1,223 @@
+---
+title: "Product Demand Forecast-Monthly Model"
+author: "Microsoft"
+output: 
+    rmarkdown::html_vignette:
+        toc: true
+
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+```{r setup, echo=FALSE}
+
+knitr::opts_chunk$set(fig.width = 6,
+                      fig.height = 4,
+                      fig.align='center',
+                      dev = "png")
+
+```
+
+# Introduction
+In this documentation, we are trying to build a monthly demand forecast model for total booking quantity data by using various regression models. When building the model, we include lagged total booking quantity as features into the model.
+
+## Total booking quantity data
+Let's load the data and take a brief glimpse of it. 
+```{r, message=FALSE}
+##########################################################################
+## Set directory
+##########################################################################
+setwd("C:/Users/zhouf/Documents/Rproject")
+data.path <- "C:/Users/zhouf/Documents/Rproject"
+```
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Read data
+##########################################################################
+library("readxl")
+library("stringr")
+rawData <- read_excel("Data/After scramble.xls")
+# clean names up a bit
+names(rawData) <- c("year", "month", "booking_qty", "sell_through_qty", "doi", "cogs", "casd")
+# delete the first 6 rows
+data <- rawData[-seq(1:6), ]
+dim(data) # 108 7
+str(data)
+head(data)
+```
+
+## Data cleaning and feature engineering
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+###############################################################################################
+## Data cleaning and feature engineering
+###############################################################################################
+library(tseries)
+library(forecast)
+library(fpp)
+
+#------ identify lag --------------# 
+y <- ts(data[, 3], frequency=12, start=c(2006, 1))
+plot(y, xlab="Year", main="Monthly total booking quantity")
+par(mfrow=c(1,2))
+Acf(y, main="Total")
+Pacf(y, main="Total") # lag 1, 7 , 12
+
+#------ feature engineering ------------#
+# lag features
+shift = function(lag, x){c(rep(NA, lag), head(x,-lag))}
+shift = Vectorize(shift, vectorize.args = "lag")
+
+addlags = function(lags, df, var){
+  res = shift(lags, x=df[,var])
+  colnames(res) = paste("lag", lags, sep = "")
+  return(cbind(df,res))
+}
+
+nlags = c(1, 7, 12)
+
+newdata= addlags(nlags, data, var = "booking_qty")
+
+head(newdata)
+
+data <- newdata
+```
+
+## Data split
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+###############################################################################################
+## Split data into training and testing sets
+###############################################################################################
+## Data for training
+out <- data
+out.length <- dim(out)[1]
+test.length <- 24
+train.length <- out.length - test.length
+
+train <- data.frame(out[1:train.length, ])
+train <- train[complete.cases(train), ]
+#train <- subset(train, select=-c(year,month))
+
+## Data for testing
+test  <- data.frame(out[(train.length+1):(train.length+test.length), ])
+```
+
+## Regression forest model
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+###############################################################################################
+## Train model
+###############################################################################################
+#create training formula
+labelVar = "booking_qty"
+featureVars = rxGetVarNames(train)
+featureVars = featureVars[which((featureVars!=labelVar)&(featureVars!="year")&(featureVars!="month"))]
+formula = as.formula(paste(paste(labelVar,"~"),paste(featureVars,collapse="+")))
+
+#train regression forest model
+regForest = rxDForest(formula, data = train, reportProgress=0)  
+regForest
+```
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+###############################################################################################
+## Score model
+###############################################################################################
+pred <- rxPredict(regForest, data=test, overwrite=TRUE)
+result <- data.frame(year=test$year, 
+                     month=test$month,
+                     booking_qty=test$booking_qty, 
+                     booking_qty_pred=pred)
+head(result)
+```
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+###############################################################################################
+## Evaluate model
+###############################################################################################
+MAPE <- mean(abs(result$booking_qty_Pred - result$booking_qty)/result$booking_qty)
+MAPE
+```
+
+## Cross-validation to compare three regression models with same lagged and non-lagged features
+Next, we use cross validation to compare performance of different classes of models.
+
+### Models with all features
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+###############################################################################################
+## Time series cross validation to compare model performance
+###############################################################################################
+library(fpp)
+library(e1071)
+
+# model including all features
+bts_mon <- ts(data[, 3:10], frequency=12, start=c(2006, 1))
+head(bts_mon)
+k <- 84 # minimum data length for fitting a model
+n <- dim(bts_mon)[1]
+st <- tsp(bts_mon)[1]+(k-2)/12
+mape1 <- mape2 <- mape3 <- matrix(NA,n-k,12)
+for(i in 1:(n-k))
+{
+  xshort <- window(bts_mon, end=st + i/12)
+  xnext <- window(bts_mon, start=st + (i+1)/12, end=st + (i+12)/12)
+  fit1 <- lm(formula, data=as.data.frame(xshort))
+  fcast1 <- forecast(fit1, newdata=as.data.frame(xnext), h=12)
+  fit2 <- svm(formula, data=xshort)
+  fcast2 <- predict(fit2, newdata=xnext)
+  fcast2 <- ts(fcast2, frequency=12, start=st + (i+1)/12, end=st + (i+12)/12)
+  fit3 <- rxDForest(formula, data=xshort, reportProgress=0)
+  fcast3 <- rxPredict(fit3, data=as.data.frame(xnext), overwrite=TRUE)
+  fcast3 <- ts(fcast3, frequency=12, start=st + (i+1)/12, end=st + (i+12)/12)
+  mape1[i,1:dim(xnext)[1]] <- accuracy(fcast1, xnext[, 1])[2, "MAPE"]
+  mape2[i,1:dim(xnext)[1]] <- accuracy(fcast2, xnext[, 1])[1, "MAPE"]
+  mape3[i,1:dim(xnext)[1]] <- accuracy(fcast3, xnext[, 1])[1, "MAPE"]
+}
+
+plot(1:12, colMeans(mape1,na.rm=TRUE), type="l", col=2, 
+     xlab="horizon", ylab="MAPE", ylim=c(0, 20))
+lines(1:12, colMeans(mape2,na.rm=TRUE), type="l",col=3)
+lines(1:12, colMeans(mape3,na.rm=TRUE), type="l",col=4)
+legend("topleft",legend=c("Linear with lags","SVM with lags","rxDForest with lags"),col=2:4,lty=1,cex=0.5)
+```
+
+### Models without quaterly features
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+labelVar = "booking_qty"
+featureVars = rxGetVarNames(data)
+featureVars = featureVars[which((featureVars!=labelVar)&(featureVars!="year")&(featureVars!="month")&(featureVars!="doi")&(featureVars!="cogs"))]
+formula = as.formula(paste(paste(labelVar,"~"),paste(featureVars,collapse="+")))
+
+k <- 84 # minimum data length for fitting a model
+n <- dim(bts_mon)[1]
+st <- tsp(bts_mon)[1]+(k-2)/12
+mape1 <- mape2 <- mape3 <- matrix(NA,n-k,12)
+for(i in 1:(n-k))
+{
+  xshort <- window(bts_mon, end=st + i/12)
+  xnext <- window(bts_mon, start=st + (i+1)/12, end=st + (i+12)/12)
+  fit1 <- lm(formula, data=as.data.frame(xshort))
+  fcast1 <- forecast(fit1, newdata=as.data.frame(xnext), h=12)
+  fit2 <- svm(formula, data=xshort)
+  fcast2 <- predict(fit2, newdata=xnext)
+  fcast2 <- ts(fcast2, frequency=12, start=st + (i+1)/12, end=st + (i+12)/12)
+  fit3 <- rxDForest(formula, data=xshort, reportProgress=0)
+  fcast3 <- rxPredict(fit3, data=as.data.frame(xnext), overwrite=TRUE)
+  fcast3 <- ts(fcast3, frequency=12, start=st + (i+1)/12, end=st + (i+12)/12)
+  mape1[i,1:dim(xnext)[1]] <- accuracy(fcast1, xnext[, 1])[2, "MAPE"]
+  mape2[i,1:dim(xnext)[1]] <- accuracy(fcast2, xnext[, 1])[1, "MAPE"]
+  mape3[i,1:dim(xnext)[1]] <- accuracy(fcast3, xnext[, 1])[1, "MAPE"]
+}
+
+plot(1:12, colMeans(mape1,na.rm=TRUE), type="l", col=2, 
+     xlab="horizon", ylab="MAPE", ylim=c(0, 20))
+lines(1:12, colMeans(mape2,na.rm=TRUE), type="l",col=3)
+lines(1:12, colMeans(mape3,na.rm=TRUE), type="l",col=4)
+legend("topleft",legend=c("Linear with lags","SVM with lags","rxDForest with lags"),col=2:4,lty=1,cex=0.5)
+```
+
+
+
+

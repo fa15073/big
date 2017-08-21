@@ -1,0 +1,189 @@
+---
+title: "Product Demand Forecast-Monthly Model"
+author: "Microsoft"
+output: 
+    rmarkdown::html_vignette:
+        toc: true
+
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+```{r setup, echo=FALSE}
+
+knitr::opts_chunk$set(fig.width = 6,
+                      fig.height = 4,
+                      fig.align='center',
+                      dev = "png")
+
+```
+
+# Introduction
+In this documentation, we are trying to build a monthly demand forecast model for total booking quantity data. We implement the advanced analysis process with R in the principle of step-by-step. 
+
+## Total booking quantity data
+Let's load the data and take a brief glimpse of it. 
+```{r, message=FALSE}
+##########################################################################
+## Set directory
+##########################################################################
+setwd("C:/Users/zhouf/Documents/Rproject")
+data.path <- "C:/Users/zhouf/Documents/Rproject"
+```
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Read data
+##########################################################################
+library("readxl")
+library("stringr")
+rawData <- read_excel("Data/After scramble.xls")
+# clean names up a bit
+names(rawData) <- c("year", "month", "booking_qty", "sell_through_qty", "doi", "cogs", "casd")
+# delete the first 6 rows
+data <- rawData[-seq(1:6), ]
+dim(data) # 108 7
+str(data)
+head(data)
+```
+
+## Model building
+
+Let's visualize the monthly time series in the data.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Time series analysis
+##########################################################################
+library(tseries)
+library(forecast)
+library(fpp)
+
+# visualize monthly time series 
+bts_mon <- ts(data[, 3:7], frequency=12, start=c(2006, 1))
+head(bts_mon)
+plot(bts_mon, xlab="Year", main="Monthly total booking quantity and features")
+
+# partition data into train and test data set
+train_mon <- window(bts_mon, start=c(2006, 1), end=c(2013, 12))
+test_mon <- window(bts_mon, start=c(2014, 1), end=c(2014, 12))
+
+# create training formula
+labelVar = "booking_qty"
+featureVars = colnames(train_mon)
+featureVars = featureVars[which(featureVars!=labelVar)]
+formula = as.formula(paste(paste(labelVar,"~"),paste(featureVars,collapse="+")))
+```
+
+### Regression model
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+library(MASS)
+fit <- lm(formula, data=train_mon)
+fit
+stepfit <- stepAIC(fit, direction="both")
+stepfit$anova # display results 
+fcast <- forecast(stepfit, newdata=as.data.frame(test_mon), h=12)
+accuracy(fcast, test_mon[, 1])
+fit <- lm(booking_qty ~ sell_through_qty + casd, data=train_mon)
+fit
+fcast <- forecast(fit, newdata=as.data.frame(test_mon), h=12)
+fcast <- ts(fcast$mean, frequency=12, start=c(2014, 1))
+accuracy(fcast, test_mon[, 1])
+plot(fcast, type="l", col=2,
+     xlab="Year", ylab="Total Booking Qty",
+     main="Forecasts from regression",
+     ylim=c(14000, 18000))
+lines(test_mon[, 1], type="l", col=3)
+legend("topleft",legend=c("Forecast","True"),col=2:3,lty=1)
+```
+
+
+### Support vector machine
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+library(e1071)
+fit <- svm(booking_qty ~ sell_through_qty + casd, data=train_mon)
+fit
+fcast <- predict(fit, newdata=test_mon)
+fcast <- ts(fcast, frequency=12, start=c(2014, 1))
+accuracy(fcast, test_mon[, 1])
+plot(fcast, type="l", col=2,
+     xlab="Year", ylab="Total Booking Qty",
+     main="Forecasts from support vector machine",
+     ylim=c(14000, 18000))
+lines(test_mon[, 1], type="l", col=3)
+legend("topleft",legend=c("Forecast","True"),col=2:3,lty=1)
+```
+
+### Regression forest (RevoScaleR)
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+fit <- rxDForest(booking_qty ~ sell_through_qty + casd, data=train_mon, reportProgress=0)
+fit
+fcast <- rxPredict(fit, data=as.data.frame(test_mon), overwrite=TRUE)
+fcast <- ts(fcast, frequency=12, start=c(2014, 1))
+accuracy(fcast, test_mon[, 1])
+plot(fcast, type="l", col=2,
+     xlab="Year", ylab="Total Booking Qty",
+     main="Forecasts from ScaleR regression forecast",
+     ylim=c(14000, 18000))
+lines(test_mon[, 1], type="l", col=3)
+legend("topleft",legend=c("Forecast","True"),col=2:3,lty=1)
+```
+
+### Regression with ARIMA errors
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+tsdisplay(diff(train_mon[, 1], 12))
+tsdisplay(diff(diff(train_mon[, 1], 12)))
+fit <- auto.arima(train_mon[,1], d=1, D=1, xreg=train_mon[, c(2,5)])
+fit
+fcast <- forecast(fit, xreg=test_mon[, c(2,5)], h=12)
+accuracy(fcast, test_mon[, 1])
+plot(fcast, xlab="Year", main="Forecasts from regression with ARIMA errors")
+```
+
+### Cross-validation
+Next, we use cross validation to compare performance of different classes of models.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+# use time series cross validation to compare model performance
+library(fpp)
+
+k <- 84 # minimum data length for fitting a model
+n <- dim(bts_mon)[1]
+st <- tsp(bts_mon)[1]+(k-2)/12
+mape1 <- mape2 <- mape3 <-mape4 <- matrix(NA,n-k,12)
+for(i in 1:(n-k))
+{
+  xshort <- window(bts_mon, end=st + i/12)
+  xnext <- window(bts_mon, start=st + (i+1)/12, end=st + (i+12)/12)
+  fit1 <- lm(booking_qty ~ sell_through_qty + casd, data=xshort)
+  fcast1 <- forecast(fit1, newdata=as.data.frame(xnext), h=12)
+  fit2 <- svm(booking_qty ~ sell_through_qty + casd, data=xshort)
+  fcast2 <- predict(fit2, newdata=xnext)
+  fcast2 <- ts(fcast2, frequency=12, start=st + (i+1)/12, end=st + (i+12)/12)
+  fit3 <- rxDForest(booking_qty ~ sell_through_qty + casd, data=xshort, reportProgress=0)
+  fcast3 <- rxPredict(fit3, data=as.data.frame(xnext), overwrite=TRUE)
+  fcast3 <- ts(fcast3, frequency=12, start=st + (i+1)/12, end=st + (i+12)/12)
+  #fit4 <- auto.arima(xshort[, 1], d=1, D=1, xreg=xshort[, c(2,5)])
+  #fcast4 <- forecast(fit4, xreg=xnext[, c(2,5)], h=12)
+  mape1[i,1:dim(xnext)[1]] <- accuracy(fcast1, xnext[, 1])[2, "MAPE"]
+  mape2[i,1:dim(xnext)[1]] <- accuracy(fcast2, xnext[, 1])[1, "MAPE"]
+  mape3[i,1:dim(xnext)[1]] <- accuracy(fcast3, xnext[, 1])[1, "MAPE"]
+  #mape4[i,1:dim(xnext)[1]] <- accuracy(fcast4, xnext[, 1])[2, "MAPE"]
+}
+
+plot(1:12, colMeans(mape1,na.rm=TRUE), type="l", col=2, 
+     xlab="horizon", ylab="MAPE", ylim=c(0, 20))
+lines(1:12, colMeans(mape2,na.rm=TRUE), type="l",col=3)
+lines(1:12, colMeans(mape3,na.rm=TRUE), type="l",col=4)
+#lines(1:12, colMeans(mape4,na.rm=TRUE), type="l",col=5)
+#legend("topleft",legend=c("Linear","SVM","rxDForest","Reg with ARIMA"),col=2:5,lty=1,cex=0.5)
+legend("topleft",legend=c("Linear","SVM","rxDForest"),col=2:4,lty=1,cex=0.5)
+```
+
+
+
+

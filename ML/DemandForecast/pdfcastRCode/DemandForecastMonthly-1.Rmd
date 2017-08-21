@@ -1,0 +1,211 @@
+---
+title: "Product Demand Forecast-Monthly Model"
+author: "Microsoft"
+output: 
+    rmarkdown::html_vignette:
+        toc: true
+
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+
+```{r setup, echo=FALSE}
+
+knitr::opts_chunk$set(fig.width = 6,
+                      fig.height = 4,
+                      fig.align='center',
+                      dev = "png")
+
+```
+
+# Introduction
+In this documentation, we are trying to build a monthly demand forecast model for total booking quantity data. We implement the advanced analysis process with R in the principle of step-by-step. 
+
+## Product booking quantity data
+Let's load the data and take a brief glimpse of it. 
+```{r, message=FALSE}
+##########################################################################
+## Set directory
+##########################################################################
+setwd("C:/Users/anliu/Documents/Rproject")
+data.path <- "C:/Users/anliu/Documents/Rproject"
+```
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Read data
+##########################################################################
+data <- read.table("Data/After scramble-Node group.csv", header=TRUE, sep=",")
+dim(data) # 120 17
+str(data)
+head(data)
+```
+
+## Handling missing value
+To clean the data, we remove some of columns with too many NAs (>10%) and replace other missing values with last-observation-carried-forward method. 
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Clean missing value
+##########################################################################
+library(plyr)
+
+# remove columns with only NA
+data <- Filter(function(x)!all(is.na(x)), data)
+dim(data) # 120 16
+
+# remove columns with too many NAs 
+data <- Filter(function(x)!(sum(is.na(x))/length(x)) > 0.1, data)
+dim(data) # 120 10
+
+# replace NA values with last-observation-carried-forward method
+library(zoo)
+data[,3:10] <- lapply(data[,3:10], function(x) { 
+  x <- na.locf(x)
+  x
+})
+head(data)
+```
+
+## Model building
+We extract the monthly total booking quantity from the data, and try various time series models in order to forecast monthly demand in the next 3 months. Before the model building, we transform the data into time series object and draw time series plot to visualize total booking quantity.
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+##########################################################################
+## Time series analysis on total monthly demand
+##########################################################################
+library(tseries)
+library(forecast)
+
+# visualize total monthly demand time series
+bts <- ts(data[, 3:10], frequency=12, start=c(2006, 1))
+x <- bts[, 1]
+plot(x, xlab="Time", ylab="Total")
+```
+
+### ARIMA model
+Now, we try to build an ARIMA model on the monthly total demand time series. In order to determine appropriate values of orders (p,d,q) in this model, we rely on ACF/PACF plots along with residual analysis. 
+
+There are some principles of ACF/PACF analysis.The data may follow an ARIMA(p,d,0) model if the ACF and PACF plots of the differenced data show the following patterns:
+
+•the ACF is exponentially decaying or sinusoidal;
+
+•there is a significant spike at lag p in PACF, but none beyond lag p.
+
+The data may follow an ARIMA(0,d,q) model if the ACF and PACF plots of the differenced data show the following patterns:
+
+•the PACF is exponentially decaying or sinusoidal;
+
+•there is a significant spike at lag q in ACF, but none beyond lag q.
+
+The seasonal part of an AR or MA model will be seen in the seasonal lags of the PACF and ACF. For example, an ARIMA(0,0,0)(0,0,1)12 model will show:
+
+•a spike at lag 12 in the ACF but no other significant spikes.
+
+•The PACF will show exponential decay in the seasonal lags; that is, at lags 12, 24, 36, ….
+
+Similarly, an ARIMA(0,0,0)(1,0,0)12 model will show:
+
+•exponential decay in the seasonal lags of the ACF
+
+•a single significant spike at lag 12 in the PACF.
+
+Let's have a look at ACF/PACF plots for the monthly total demand time series.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+# determine the order of ARIMA model with ACF/PACF
+par(mfrow=c(1,2))
+Acf(x)
+Pacf(x)
+```
+
+From the ACF/PACF plot, we can see there is a single singnificant spike at lag 12 in the PACF, which indicates the data are clearly non-stationary, with some seasonality, so we will first take a seasonal difference. The seasonally differenced data also appear to be non-stationary, and so we take an additional first difference 
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+tsdisplay(diff(x, 12)) # ARIMA(p,d,q)(0,1,0)
+```
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+tsdisplay(diff(diff(x,12))) # ARIMA(0,1,0)(0,1,0)
+```
+
+From the above plot, we know there are spikes at lag 1 and 12 in both ACF and PACF plot. So we start to fit an initial ARIMA(0,1,1)(0,1,1)12 model and adjust the orders via residual analysis until the residual series is almost like white noise.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+fit <- Arima(x, order=c(0,1,13), seasonal=list(order=c(0,1,1), period=12), lambda=0)
+fit
+tsdisplay(residuals(fit))
+Box.test(residuals(fit), lag=16, fitdf=4, type="Ljung")
+```
+
+We can use the initial fitted ARIMA model to forecast total demand in the next year. 
+
+```{r}
+plot(forecast(fit, h=12))
+```
+
+### Exponential smoothing model
+Then, we try exponential smoothing model. From the relationships between ETS and ARIMA models, we know EST(A,A,A) is just equivalent to ARIMA(0,1,m+1)(0,1,0)m, where m=12 in this case. 
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+fit <- ets(x, model="AAA")
+fit
+plot(fit)
+plot(forecast(fit, h=12))
+```
+
+### STL decomposition
+Next, we fit the model using STL decomposition and generate forecast based on a naïve forecast of the seasonally adjusted data and a seasonal naïve forecast of the seasonal component, after an an STL decomposition of the data.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+fit <- stl(x, s.window="periodic", robust=TRUE)
+summary(fit)
+plot(fit)
+plot(forecast(fit, h=12, method="naive"))
+```
+
+### Time series cross-validation
+Next, we use time series cross validation to compare performance of different classes of time series models.
+
+```{r, message=FALSE, warning=FALSE, error=FALSE}
+# use time series cross validation to compare model performance
+library(fpp)
+
+k <- 96 # minimum data length for fitting a model
+n <- length(x)
+st <- tsp(x)[1]+(k-2)/12
+mape1 <- mape2 <- mape3 <- mape4 <- matrix(NA,n-k,12)
+for(i in 1:(n-k))
+{
+  xshort <- window(x, end=st + i/12)
+  xnext <- window(x, start=st + (i+1)/12, end=st + (i+12)/12)
+  fit1 <- tslm(xshort ~ trend + season, lambda=0)
+  fcast1 <- forecast(fit1, h=12)
+  fit2 <- Arima(xshort, order=c(0,1,13), seasonal=list(order=c(0,1,1), period=12), 
+                include.drift=TRUE, lambda=0, method="ML")
+  fcast2 <- forecast(fit2, h=12)
+  fit3 <- ets(xshort, model="AAA")
+  fcast3 <- forecast(fit3, h=12)
+  fit4 <- stl(xshort, s.window="periodic", robust=TRUE)
+  fcast4 <- forecast(fit4, h=12)
+  mape1[i,1:length(xnext)] <- accuracy(fcast1, xnext)[2, "MAPE"]
+  mape2[i,1:length(xnext)] <- accuracy(fcast2, xnext)[2, "MAPE"]
+  mape3[i,1:length(xnext)] <- accuracy(fcast3, xnext)[2, "MAPE"]
+  mape4[i,1:length(xnext)] <- accuracy(fcast4, xnext)[2, "MAPE"]
+}
+
+plot(1:12, colMeans(mape1,na.rm=TRUE), type="l", col=2, 
+     xlab="horizon", ylab="MAPE", ylim=c(8, 16))
+lines(1:12, colMeans(mape2,na.rm=TRUE), type="l",col=3)
+lines(1:12, colMeans(mape3,na.rm=TRUE), type="l",col=4)
+lines(1:12, colMeans(mape4,na.rm=TRUE), type="l",col=5)
+legend("topleft",legend=c("LM","ARIMA","ETS","STL"),col=2:5,lty=1)
+```
+
+The cross-validation result indicates that STL model is the optimal model. So, we will use this model to forecast the total demand in the next 12 months. The forecast result is as shown in the session of STL decomposition. 
+
+
+
+
+
