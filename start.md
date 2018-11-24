@@ -2,7 +2,7 @@
 $\overline {oo}$
 $\check {oo}$
 $\underline {ABCD}$
-$\underline a$. test$\fbox {b. test}$
+$\fbox {\mathstrut a. test}$$\fbox {b. test}$
 $\bar a$
 $\acute a$
 $\check a$
@@ -13,6 +13,6 @@ $\tilde a$
 $\dot a$$\ddot a$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDA4NTM2MywtMjYyMDYwNjgwLC0xOD
-QxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTEzODYzMzkwNTYsLTI2MjA2MDY4MCwtMT
+g0MTUwODIxXX0=
 -->
