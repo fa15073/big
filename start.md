@@ -2,7 +2,8 @@
 $\overline {oo}$
 $\check {oo}$
 $\underline {ABCD}$
-$\fbox {\vphantom{b} a. test}$$\fbox {\vphantom{c} b. test}$
+$\fbox {\vphantom{b}a. test}$
+$\fbox {b. test}$
 $\bar a$
 $\acute a$
 $\check a$
@@ -13,6 +14,6 @@ $\tilde a$
 $\dot a$$\ddot a$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyODc5ODY3LC0yNjIwNjA2ODAsLTE4ND
-E1MDgyMV19
+eyJoaXN0b3J5IjpbLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMT
+g0MTUwODIxXX0=
 -->
