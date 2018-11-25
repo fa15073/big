@@ -56,11 +56,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 12. an *anonymous* donor: ( a. generous, b. stingy, c. well-known, d. one whose name is not known, e. reluctant )
 13. performed an *autopsy*: ( a. examination of living tissue, b. examination of a corpse to determine the cause of death, c. process in the manufacture of optical lenses, d. operation to cure a disease, e. series of questions to determine the causes of delinquent behaviour )
 14. an *indefatigable* worker: ( a. well-paid, b. tired, c. skilful, d. tireless, e. pleasant )
-15. a confirmed *atheist*: ( a. true, b. , c. believer in religion, d. believe in science, e. priest )
+15. a confirmed *atheist*: ( a. bachelor, b. disbeliever in God, c. believer in religion, d. believe in science, e. priest )
+16. endless *loquacity*: ( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTk2Nzg0MSwtMjA2NDU5NTA5NiwtMT
-c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
-MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
-wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbOTM3ODczNjIsLTIwNjQ1OTUwOTYsLTE3OT
+gzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIz
+MjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLT
+I2MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
