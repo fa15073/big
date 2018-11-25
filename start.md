@@ -51,11 +51,11 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 7. *prevalent* disease: $\left( a. dangerous, b. catching, c. childhood, d. fatal, e. widespread \right)$
 8. *ominous* report: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
 9. an *incredible* story: $\left( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown \right)$
-10. an *ophthalmologist*: $\left( a. eye doctor, b. , c. puzzling, d. long, e. new \right)$ 
+10. an *ophthalmologist*: ( a. eye doctor, b. skin doctor, c. foot doctor, d. heart doctor, e. cancer specialist) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEyNzE5MDcsLTIwNjQ1OTUwOTYsLT
+eyJoaXN0b3J5IjpbLTE0MjQ0NzE2ODAsLTIwNjQ1OTUwOTYsLT
 E3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5
 NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNj
 ksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
