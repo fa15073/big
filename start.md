@@ -53,11 +53,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 9. an *incredible* story: ( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown )
 10. an *ophthalmologist*: ( a. eye doctor, b. skin doctor, c. foot doctor, d. heart doctor, e. cancer specialist )
 11. will *supersede* the old law: ( a. enforce, b. specify penalties for, c. take the place of, d. repeal, e. continue )
-12. an *anonymous* donor: ( a. eye doctor, b. skin doctor, c. , d. one whose name is not known, e. reluctant )
+12. an *anonymous* donor: ( a. generous, b. stingy, c. well-known, d. one whose name is not known, e. reluctant )
+13. performed an *autopsy*: ( a. true, b. interesting, c. well-known, d. unbelievable, e. series of questions to determine the causes of delinquent behaviour )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MDkwMzk0LC0yMDY0NTk1MDk2LC0xNz
-k4MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUy
-MzI0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC
-0yNjIwNjA2ODAsLTE4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbLTQyNjQ4NDg2MSwtMjA2NDU5NTA5NiwtMT
+c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
+MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
+wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
 -->
