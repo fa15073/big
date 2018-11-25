@@ -22,10 +22,11 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
     Today, by comparison, you are a rank and bumbling amateur.
     Dose this statement sound insulting?
     It may be - but if you are the average adult, it is a statement that is, unfortunately, only too true.
-    Educational testing indicates that children 
+    Educational testing indicates that children of ten who have grown up in families in which English is the native language have recognition vocabularies of over twenty thousand words -
+    And 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNTE0Njc3LC0xNzk4MzkzMzI4LC03Nj
-AxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3
-NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLT
-E4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbLTIwMjEwMDQ4OTIsLTE3OTgzOTMzMjgsLT
+c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
+MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
+wtMTg0MTUwODIxXX0=
 -->
