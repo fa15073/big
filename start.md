@@ -40,7 +40,7 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
 **A test of vocabulary range**
 Here are sixty brief phrases, each containing one italicized word; it is up to you to find the closest definition of each such word. To keep your score valid, refrain, as far as possible, from wild guessing. The key will be found at the end of the test.
 
-[//]:# "multiple choice"
+[//]:# "multiple choice@p12"
 
 1. *dishevelled* appearance: $\left( a. untidy, b. fierce, c. foolish, d. peculiar, e. unhappy \right)$
 2. a *baffling* problem: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
@@ -53,8 +53,8 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLT
-c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
-MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
-wtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbLTUyODMxMTk0NSwtMjA2NDU5NTA5NiwtMT
+c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
+MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
+wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
 -->
