@@ -42,13 +42,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 [//]:# "multiple choice"
 
-1. *dishevelled* appearance: $\left(a. untidy, b. fierce, c. foolish, d. peculiar, e. unhappy \right)$
-2. a *baffling* problem: $\left(a. difficult, b. simple, c. pu
+1. *dishevelled* appearance: $\left( a. untidy, b. fierce, c. foolish, d. peculiar, e. unhappy \right)$
+2. a *baffling* problem: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
+3. *lenient* parent: $\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDcxMTE1LC0xNzk4MzkzMzI4LC03Nj
-AxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3
-NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLT
-E4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbLTEwMzkyODU0NDEsLTE3OTgzOTMzMjgsLT
+c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
+MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
+wtMTg0MTUwODIxXX0=
 -->
