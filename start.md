@@ -15,12 +15,15 @@ $\hat a$
 $\tilde a$
 $\dot a$$\ddot u$
 
-[//]: # "p 1"
+[//]: # "p 11"
 
-
+## HOW TO TEST YOUR PRESENT VOCABULARY
+Once - as a child - you were an expert, an accomplished  virtuoso, at learning new words.
+Today, by comparison, you are a rank and bumbling amateur.
+Dose this statemen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNj
-EwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1
-MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX
-0=
+eyJoaXN0b3J5IjpbLTE5NzYxMzIxNTIsLTE3OTgzOTMzMjgsLT
+c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
+MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
+wtMTg0MTUwODIxXX0=
 -->
