@@ -60,12 +60,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 [//]: # "p 13"
 
-16. endless *loquacity*: ( a. misery, b. fantasy, c. repetitiousness, d. ill health, e. talkative )
+16. endless *loquacity*: ( a. misery, b. fantasy, c. repetitiousness, d. ill health, e. talkativeness )
 17. a *glib* talker: ( a. smooth, b. awkward, c. loud, d. friendly, e. boring )
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzQ5NzcyOSwtMjA2NDU5NTA5NiwtMT
-c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
-MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
-wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTIxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLT
+E3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5
+NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNj
+ksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
