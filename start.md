@@ -34,9 +34,14 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
     Or, as with most adults, has your rate of increase dropped drastically since you left school? And if so, do you now feel that your vocabulary is somewhat limited, your verbal skills not as sharp as you would like them to be?
     Let us find out.
     I challenge you to a series of tests that will measure your vocabulary range, as well as your verbal speed and responsiveness.
-    
+
+[//]: # "p 12"
+
+**A test of vocabulary range**
+Here are sixty brief phrases, each con
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjQ1MTk1MSwtMTc5ODM5MzMyOCwtNz
+eyJoaXN0b3J5IjpbMTc0NjE0Mjc4NCwtMTc5ODM5MzMyOCwtNz
 YwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkx
 NzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC
 0xODQxNTA4MjFdfQ==
