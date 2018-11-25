@@ -46,12 +46,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 2. a *baffling* problem: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
 3. *lenient* parent: $\left( a. tall, b. not strict, c. wise, d. foolsih, e. severe \right)$
 4. *repulsive* personality: $\left( a. disgusting, b. attractive, c. normal, d. confused, e. conceited \right)$
-5. audacious attempt: $\left( a. useless, b. bold, c. puzzling, d. long, e. new \right)$
+5. *audacious* attempt: $\left( a. useless, b. bold, c. foolish, d. crazy, e. necessary \right)$
+6. *prevalent* disease: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU3MDczNjIsLTE3OTgzOTMzMjgsLT
-c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
-MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
-wtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbLTk2MjU5NDM0NiwtMTc5ODM5MzMyOCwtNz
+YwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkx
+NzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC
+0xODQxNTA4MjFdfQ==
 -->
