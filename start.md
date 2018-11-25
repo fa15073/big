@@ -31,9 +31,12 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
     Responsive to any situation in which you may find yourself?
     Truly indicative of your intellectual potential?
     More important, is it still growing at the same rapid rate as when you were a child?
-    Or, as with most adults, has your rate of increase dropped drastically since you left school? And if so,, do you now feel that your vocabulary is somewhat limited, your verbal skills n
+    Or, as with most adults, has your rate of increase dropped drastically since you left school? And if so, do you now feel that your vocabulary is somewhat limited, your verbal skills not as sharp as you would like them to be?
+    Let us find out.
+    I challenge you to a series of tests that will measure your vocabulary range, as well as your verbal speed and responsiveness.
+    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjY2NjQ3MSwtMTc5ODM5MzMyOCwtNz
+eyJoaXN0b3J5IjpbMjA1MjQ1MTk1MSwtMTc5ODM5MzMyOCwtNz
 YwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkx
 NzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC
 0xODQxNTA4MjFdfQ==
