@@ -40,7 +40,7 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
 **A test of vocabulary range**
 Here are sixty brief phrases, each containing one italicized word; it is up to you to find the closest definition of each such word. To keep your score valid, refrain, as far as possible, from wild guessing. The key will be found at the end of the test.
 
-[//]:# "multiple choice@p12"
+[//]:# "multiple choice 1@p12"
 
 1. *dishevelled* appearance: $\left( a. untidy, b. fierce, c. foolish, d. peculiar, e. unhappy \right)$
 2. a *baffling* problem: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
@@ -50,11 +50,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 6. *parry* a blow: $\left( a. ward off, b. fear, c. expect, d. invite, e. ignore \right)$
 7. *prevalent* disease: $\left( a. dangerous, b. catching, c. childhood, d. fatal, e. widespread \right)$
 8. *ominous* report: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
+9. an *incredible* story: $\left( a. difficult, b. simple, c. well-known, d. unbelievable, e. unknown \right)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODMxMTk0NSwtMjA2NDU5NTA5NiwtMT
-c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
-MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
-wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTUxNTMyOTMsLTIwNjQ1OTUwOTYsLT
+E3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5
+NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNj
+ksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
