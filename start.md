@@ -39,12 +39,15 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
 
 **A test of vocabulary range**
 Here are sixty brief phrases, each containing one italicized word; it is up to you to find the closest definition of each such word. To keep your score valid, refrain, as far as possible, from wild guessing. The key will be found at the end of the test.
-```test mchoice`
+
+[//]:# "multiple choice"
+
+1. dishevelled appearance: 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODA4MjkyLC0xNzk4MzkzMzI4LC03Nj
-AxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3
-NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLT
-E4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbMTM0NjI1MTAyMiwtMTc5ODM5MzMyOCwtNz
+YwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkx
+NzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC
+0xODQxNTA4MjFdfQ==
 -->
