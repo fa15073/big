@@ -47,12 +47,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 3. *lenient* parent: $\left( a. tall, b. not strict, c. wise, d. foolsih, e. severe \right)$
 4. *repulsive* personality: $\left( a. disgusting, b. attractive, c. normal, d. confused, e. conceited \right)$
 5. *audacious* attempt: $\left( a. useless, b. bold, c. foolish, d. crazy, e. necessary \right)$
-6. *prevalent* disease: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
+6. P
+7. *prevalent* disease: $\left( a. dangerous, b. catching, c. childhood, d. fatal, e. widespread \right)$
+8. *ominous* report:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjU5NDM0NiwtMTc5ODM5MzMyOCwtNz
-YwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkx
-NzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC
-0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbODEwOTQxNDcsLTE3OTgzOTMzMjgsLTc2MD
+E3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2
+MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMT
+g0MTUwODIxXX0=
 -->
