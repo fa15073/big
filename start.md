@@ -19,11 +19,13 @@ $\dot a$$\ddot u$
 
 ## HOW TO TEST YOUR PRESENT VOCABULARY
 Once - as a child - you were an expert, an accomplished  virtuoso, at learning new words.
-Today, by comparison, you are a rank and bumbling amateur.
-Dose this statemen
+    Today, by comparison, you are a rank and bumbling amateur.
+    Dose this statement sound insulting?
+    It may be - but if you are the average adult, it is a statement that is, unfortunately, only too true.
+    Educational testing indicates that children 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYxMzIxNTIsLTE3OTgzOTMzMjgsLT
-c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
-MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
-wtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbNjAxNTE0Njc3LC0xNzk4MzkzMzI4LC03Nj
+AxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3
+NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLT
+E4NDE1MDgyMV19
 -->
