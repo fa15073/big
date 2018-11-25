@@ -42,21 +42,21 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 [//]:# "multiple choice 1@p12"
 
-1. *dishevelled* appearance: $\left( a. untidy, b. fierce, c. foolish, d. peculiar, e. unhappy \right)$
-2. a *baffling* problem: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
-3. *lenient* parent: $\left( a. tall, b. not strict, c. wise, d. foolsih, e. severe \right)$
-4. *repulsive* personality: $\left( a. disgusting, b. attractive, c. normal, d. confused, e. conceited \right)$
-5. *audacious* attempt: $\left( a. useless, b. bold, c. foolish, d. crazy, e. necessary \right)$
-6. *parry* a blow: $\left( a. ward off, b. fear, c. expect, d. invite, e. ignore \right)$
-7. *prevalent* disease: $\left( a. dangerous, b. catching, c. childhood, d. fatal, e. widespread \right)$
-8. *ominous* report: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
-9. an *incredible* story: $\left( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown \right)$
-10. an *ophthalmologist*: ( a. eye doctor, b. skin doctor, c. foot doctor, d. heart doctor, e. cancer specialist) 
+1. *dishevelled* appearance: ( a. untidy, b. fierce, c. foolish, d. peculiar, e. unhappy )
+2. a *baffling* problem: ( a. difficult, b. simple, c. puzzling, d. long, e. new )
+3. *lenient* parent: ( a. tall, b. not strict, c. wise, d. foolish, e. severe )
+4. *repulsive* personality: ( a. disgusting, b. attractive, c. normal, d. confused, e. conceited )
+5. *audacious* attempt: ( a. useless, b. bold, c. foolish, d. crazy, e. necessary )
+6. *parry* a blow: ( a. ward off, b. fear, c. expect, d. invite, e. ignore )
+7. *prevalent* disease: $\left( a. dangerous, b. catching, c. childhood, d. fatal, e. widespread )
+8. *ominous* report: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new )
+9. an *incredible* story: $\left( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown \)
+10. an *ophthalmologist*: ( a. eye doctor, b. skin doctor, c. foot doctor, d. heart doctor, e. cancer specialist )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ0NzE2ODAsLTIwNjQ1OTUwOTYsLT
-E3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5
-NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNj
-ksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbMTI5MjI4NTAyNCwtMjA2NDU5NTA5NiwtMT
+c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
+MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
+wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
 -->
