@@ -45,11 +45,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 1. *dishevelled* appearance: $\left( a. untidy, b. fierce, c. foolish, d. peculiar, e. unhappy \right)$
 2. a *baffling* problem: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new \right)$
 3. *lenient* parent: $\left( a. tall, b. not strict, c. wise, d. foolsih, e. severe \right)$
-4. *repulsive* personality: $\left( a. disgusting, b. attractive, c. normal, d. confused, e. new \right)$
+4. *repulsive* personality: $\left( a. disgusting, b. attractive, c. normal, d. confused, e. conceited \right)$
+5. audacious attempt: $\left( a. useless, b. bold, c. puzzling, d. long, e. new \right)$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjUzOTU5NTcsLTE3OTgzOTMzMjgsLT
+eyJoaXN0b3J5IjpbLTE3OTU3MDczNjIsLTE3OTgzOTMzMjgsLT
 c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
 MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
 wtMTg0MTUwODIxXX0=
