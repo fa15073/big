@@ -54,11 +54,11 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 10. an *ophthalmologist*: ( a. eye doctor, b. skin doctor, c. foot doctor, d. heart doctor, e. cancer specialist )
 11. will *supersede* the old law: ( a. enforce, b. specify penalties for, c. take the place of, d. repeal, e. continue )
 12. an *anonymous* donor: ( a. generous, b. stingy, c. well-known, d. one whose name is not known, e. reluctant )
-13. performed an *autopsy*: ( a. true, b. interesting, c. well-known, d. unbelievable, e. series of questions to determine the causes of delinquent behaviour )
+13. performed an *autopsy*: ( a. true, b. examination of a corpse to determine the cause of death, c. process in the manufacture of optical lenses, d. operation to cure a disease, e. series of questions to determine the causes of delinquent behaviour )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjQ4NDg2MSwtMjA2NDU5NTA5NiwtMT
-c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
-MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
-wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ3OTk5NjQsLTIwNjQ1OTUwOTYsLT
+E3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5
+NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNj
+ksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
