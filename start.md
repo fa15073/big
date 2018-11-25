@@ -24,10 +24,15 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
     It may be - but if you are the average adult, it is a statement that is, unfortunately, only too true.
     Educational testing indicates that children of ten who have grown up in families in which English is the native language have recognition vocabularies of over twenty thousand words -
     And that these same ten-year-olds have been learning new words at a rate of many hundreds a year since the age of four.
-    In astonishing contrast, studies show that adults who are no longer attending school increase their vocabularies at a pace slower t
+    In astonishing contrast, studies show that adults who are no longer attending school increase their vocabularies at a pace slower than twenty-five to fifty words annually.
+    How do you assess your own vocabulary?
+    Is it quantitatively healthy?
+    Rich in overall range?
+    Responsive to any situation in which you may find yourself?
+    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY0Mzg1ODQsLTE3OTgzOTMzMjgsLT
-c2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5
-MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MC
-wtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbMTExNjA1OTI3NCwtMTc5ODM5MzMyOCwtNz
+YwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkx
+NzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC
+0xODQxNTA4MjFdfQ==
 -->
