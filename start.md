@@ -1,5 +1,5 @@
 ə
-$\overline {oo}$
+$\overline {\space}$
 $\check {oo}$
 $\underline {ABCD}$
 $\fbox {\vphantom{b}a. test}$
@@ -12,12 +12,12 @@ $\acute a$
 $\grave a$
 $\hat a$
 $\tilde a$
-$\dot a$$\ddot a$
+$\dot a$$\ddot u$
 
 $\underline 1$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0yMj
-Y4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0xODQxNTA4
-MjFdfQ==
+eyJoaXN0b3J5IjpbNTkwODg1NjYsLTE1Njk1MjMyNDAsNDgxND
+kxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgw
+LC0xODQxNTA4MjFdfQ==
 -->
