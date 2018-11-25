@@ -38,10 +38,12 @@ Once - as a child - you were an expert, an accomplished  virtuoso, at learning n
 [//]: # "p 12"
 
 **A test of vocabulary range**
-Here are sixty brief phrases, each containing one italicized word; it is up to you to find the closest definition of each such word. To keep your score valid, refrain, as far as possible, from wild guessing. The key will be found
+Here are sixty brief phrases, each containing one italicized word; it is up to you to find the closest definition of each such word. To keep your score valid, refrain, as far as possible, from wild guessing. The key will be found at the end of the test.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzU2MzMwMSwtMTc5ODM5MzMyOCwtNz
+eyJoaXN0b3J5IjpbLTU4MTcyNTM0OCwtMTc5ODM5MzMyOCwtNz
 YwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkx
 NzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC
 0xODQxNTA4MjFdfQ==
