@@ -48,15 +48,15 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 4. *repulsive* personality: ( a. disgusting, b. attractive, c. normal, d. confused, e. conceited )
 5. *audacious* attempt: ( a. useless, b. bold, c. foolish, d. crazy, e. necessary )
 6. *parry* a blow: ( a. ward off, b. fear, c. expect, d. invite, e. ignore )
-7. *prevalent* disease: $\left( a. dangerous, b. catching, c. childhood, d. fatal, e. widespread )
-8. *ominous* report: $\left( a. difficult, b. simple, c. puzzling, d. long, e. new )
-9. an *incredible* story: $\left( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown \)
+7. *prevalent* disease: ( a. dangerous, b. catching, c. childhood, d. fatal, e. widespread )
+8. *ominous* report: ( a. difficult, b. simple, c. puzzling, d. long, e. new )
+9. an *incredible* story: ( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown )
 10. an *ophthalmologist*: ( a. eye doctor, b. skin doctor, c. foot doctor, d. heart doctor, e. cancer specialist )
-
+11. will *supersede* the old law: ( a. eye doctor, b. specify penal, c. take the place of, d. repeal, e. continue )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjI4NTAyNCwtMjA2NDU5NTA5NiwtMT
-c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
-MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
-wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTE4NjA3OTUwMDYsLTIwNjQ1OTUwOTYsLT
+E3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5
+NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNj
+ksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
