@@ -60,11 +60,11 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 [//]: # "p 13"
 
-16. endless *loquacity*: ( a. true, b. interesting, c. well-known, d. unbelievable, e. unknown )
-17. a *glib* talker: [//]:# 
+16. endless *loquacity*: ( a. misery, b. fantasy, c. repetitiousness, d. ill health, e. talkative )
+17. a *glib* talker: ( a. smooth, b. awkward, c. loud, d. friendly, e. boring )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTI4NzMyMCwtMjA2NDU5NTA5NiwtMT
+eyJoaXN0b3J5IjpbLTg2NzQ5NzcyOSwtMjA2NDU5NTA5NiwtMT
 c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
 MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
 wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
