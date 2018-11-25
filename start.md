@@ -55,11 +55,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 11. will *supersede* the old law: ( a. enforce, b. specify penalties for, c. take the place of, d. repeal, e. continue )
 12. an *anonymous* donor: ( a. generous, b. stingy, c. well-known, d. one whose name is not known, e. reluctant )
 13. performed an *autopsy*: ( a. examination of living tissue, b. examination of a corpse to determine the cause of death, c. process in the manufacture of optical lenses, d. operation to cure a disease, e. series of questions to determine the causes of delinquent behaviour )
-14. an *indefatigable* worker: ( a. well, b. tired, c. skilful, d. tireless, e. pleasant )
+14. an *indefatigable* worker: ( a. well-paid, b. tired, c. skilful, d. tireless, e. pleasant )
+15. a confirmed *atheist*: ( a. true, b. , c. believer in religion, d. believe in science, e. priest )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMjYzMzk2LC0yMDY0NTk1MDk2LC0xNz
-k4MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUy
-MzI0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC
-0yNjIwNjA2ODAsLTE4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbLTQ5OTk2Nzg0MSwtMjA2NDU5NTA5NiwtMT
+c5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1
+MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OS
+wtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
 -->
