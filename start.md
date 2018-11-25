@@ -4,7 +4,7 @@ $\check {oo}$
 $\underline {ABCD}$
 $\fbox {\vphantom{b}a. test}$
 $\left(a. test, b. test\right)$
-$\fbox {b. test}$
+$\fbox {b. test, a.test}$
 $\bar a$
 $\acute a$
 $\check a$
@@ -15,6 +15,6 @@ $\tilde a$
 $\dot a$$\ddot a$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNj
-IwNjA2ODAsLTE4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOT
+Y0NDM2OSwtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
 -->
