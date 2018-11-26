@@ -15,10 +15,6 @@ $\hat a$
 $\tilde a$
 $\dot a$$\ddot u$
 
--[] check
-
- - [ ] List item
-
 [//]: # "p 11"
 
 ## HOW TO TEST YOUR PRESENT VOCABULARY
@@ -69,9 +65,9 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODcyNjk1OSwtMjEwNDg4ODM4MCwtMj
-A2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3
-OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNC
-wtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTIxMDQ4ODgzODAsLTIxMDQ4ODgzODAsLT
+IwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEw
+NzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1Mj
+QsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
 
 -->
