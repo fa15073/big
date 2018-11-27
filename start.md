@@ -79,13 +79,17 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 32. feel *antipathy*: ( a. bashfulness, b. stage fright, d. friendliness, d. hostility, e. suspense )
 33. be more *circumspect*: ( a. restrained, b. confident, c. cautious, d. honest, e. intelligent )
 34. an *intrepid* fighter for human rights: ( a. fearless, b. eloquent, c. popular, d. experienced, e. famous )
-35. *diaphanous* material: ( a. strong, b. sheer and gauzy, c. colourfu
+
+[//]: # "p 14"
+
+36. *diaphanous* material: ( a. strong, b. sheer and gauzy, c. colourful, d. expensive, e. synthetic )
+37. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTUwNTg2MCwtMjEwNDg4ODM4MCwtMj
-EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
-MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
-YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
-ODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTEwMjQyOTczMzEsLTIxMDQ4ODgzODAsLT
+IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
+MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
+c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
+MTg0MTUwODIxXX0=
 -->
