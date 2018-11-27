@@ -67,11 +67,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 20. a notorious *demagogue*: ( a. rabble-rouser, b. gambler, c. perpetrator of financial frauds, d. liar, e. spendthrift )
 21. a *naïve* attitude: ( a. unwise, b. hostile, c. unsophisticated, d. friendly, e. contemptuous )
 22. living in *affluence*: ( a. difficult circumstances, b. countrified surroundings, c. fear, d. wealth, e. poverty )
-23. in *retrop
+23. in *retrospect*: ( a. view of the past, b. artistic balance, c. anticipation, d. admiration, e. second thoughts )
+24. a *gourmet*: ( a. seasoned traveller, b. greedy eater, c. vegetarian, d. connoisseur of good food, e. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjM0Mzg0NywtMjEwNDg4ODM4MCwtMj
+eyJoaXN0b3J5IjpbMTQzMTgyMDA3NiwtMjEwNDg4ODM4MCwtMj
 EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
 MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
 YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
