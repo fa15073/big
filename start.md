@@ -71,13 +71,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 24. a *gourmet*: ( a. seasoned traveller, b. greedy eater, c. vegetarian, d. connoisseur of good food, e. skilful chef )
 25. to *simulate* interest: ( a. pretend, b. feel, c. lose, d. stir up, e. ask for )
 26. a *magnanimous* action: ( a. puzzling, b. generous, c. foolish, d. unnecessary, e. wise )
-27. 
+27. a *clandestine* meeting: ( a. prearranged, b. hurried, c. important, d. secret, e. public )
+28. the *apathetic* citizens: ( a. made
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MTg5OTQxLC0yMTA0ODg4MzgwLC0yMT
-A0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAx
-Nzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3Nj
-EsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4
-NDE1MDgyMV19
+eyJoaXN0b3J5IjpbLTE3MDU1NDk5MjksLTIxMDQ4ODgzODAsLT
+IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
+MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
+c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
+MTg0MTUwODIxXX0=
 -->
