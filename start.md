@@ -73,12 +73,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 26. a *magnanimous* action: ( a. puzzling, b. generous, c. foolish, d. unnecessary, e. wise )
 27. a *clandestine* meeting: ( a. prearranged, b. hurried, c. important, d. secret, e. public )
 28. the *apathetic* citizens: ( a. made up of separate ethnic groups, b. keenly vigilant of their rights, c. politically conservative, d. indifferent, uninterested, uninvolved, e. terrified )
+29. to *placate* his son: ( a. please, b. help, c. find a job for, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY1NTkyNTUsLTIxMDQ4ODgzODAsLT
-IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
-MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
-c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
-MTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbLTIzODk5NjQ1NCwtMjEwNDg4ODM4MCwtMj
+EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
+MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
+YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
+ODQxNTA4MjFdfQ==
 -->
