@@ -85,10 +85,11 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 36. *diaphanous* material: ( a. strong, b. sheer and gauzy, c. colourful, d. expensive, e. synthetic )
 37. to *malign* his friend: ( a. accuse, b. help, c. disbelieve, d. slander, e. introduce )
 38. a *congenital* deformity: ( a. hereditary, b. crippling, c. slight, d. incurable, e. occurring at or during birth )
+39. a definite *neurosis*: ( a. plan, b. emotional disturbance, c. physical disease, d. feeling of fear, e. allergic reaction )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTI0NDkzLC0yMTA0ODg4MzgwLC0yMT
+eyJoaXN0b3J5IjpbMTI3ODU4NjU5LC0yMTA0ODg4MzgwLC0yMT
 A0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAx
 Nzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3Nj
 EsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4
