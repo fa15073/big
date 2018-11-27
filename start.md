@@ -70,13 +70,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 23. in *retrospect*: ( a. view of the past, b. artistic balance, c. anticipation, d. admiration, e. second thoughts )
 24. a *gourmet*: ( a. seasoned traveller, b. greedy eater, c. vegetarian, d. connoisseur of good food, e. skilful chef )
 25. to *simulate* interest: ( a. pretend, b. feel, c. lose, d. stir up, e. ask for )
-26. 
+26. a *magnanimous* action: ( a. puzzling, b. generous, c. foolish, d. unnecessary, e. wise )
+27. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDM5ODYwMywtMjEwNDg4ODM4MCwtMj
-EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
-MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
-YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
-ODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbNzI3MTg5OTQxLC0yMTA0ODg4MzgwLC0yMT
+A0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAx
+Nzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3Nj
+EsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4
+NDE1MDgyMV19
 -->
