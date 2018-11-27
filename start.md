@@ -68,11 +68,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 21. a *naïve* attitude: ( a. unwise, b. hostile, c. unsophisticated, d. friendly, e. contemptuous )
 22. living in *affluence*: ( a. difficult circumstances, b. countrified surroundings, c. fear, d. wealth, e. poverty )
 23. in *retrospect*: ( a. view of the past, b. artistic balance, c. anticipation, d. admiration, e. second thoughts )
-24. a *gourmet*: ( a. seasoned traveller, b. greedy eater, c. vegetarian, d. connoisseur of good food, e. 
+24. a *gourmet*: ( a. seasoned traveller, b. greedy eater, c. vegetarian, d. connoisseur of good food, e. skilful chef )
+25. to *simulate* interest: ( a. pretend, b. feel, c. lose, d. stir up, e. ask for )
+26. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTgyMDA3NiwtMjEwNDg4ODM4MCwtMj
+eyJoaXN0b3J5IjpbMTg4NDM5ODYwMywtMjEwNDg4ODM4MCwtMj
 EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
 MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
 YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
