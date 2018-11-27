@@ -88,13 +88,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 39. a definite *neurosis*: ( a. plan, b. emotional disturbance, c. physical disease, d. feeling of fear, e. allergic reaction )
 40. made an *unequivocal* statement: ( a. hard to understand, b. lengthy, c. politically motivated, d. clear and forthright, e. supporting )
 41. *vicarious* enjoyment: ( a. complete, b. unspoiled, c. occurring from a feeling of identification with another, d. long-continuing, e. temporary )
-42. *psychogenic* ailment: ( a. 
+42. *psychogenic* ailment: ( a. incurable, b. contagious, c. originating in the mind, d. intestinal, imaginary )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk2MDM2MjUsLTIxMDQ4ODgzODAsLT
-IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
-MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
-c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
-MTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbMTE3NTExNjI2MywtMjEwNDg4ODM4MCwtMj
+EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
+MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
+YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
+ODQxNTA4MjFdfQ==
 -->
