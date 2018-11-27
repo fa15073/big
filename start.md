@@ -74,11 +74,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 27. a *clandestine* meeting: ( a. prearranged, b. hurried, c. important, d. secret, e. public )
 28. the *apathetic* citizens: ( a. made up of separate ethnic groups, b. keenly vigilant of their rights, c. politically conservative, d. indifferent, uninterested, uninvolved, e. terrified )
 29. to *placate* his son: ( a. please, b. help, c. find a job for, d. make arrangements for, e. change a feeling of hostility to one of friendliness )
-30. to *vacillate* continually: ( a. avoid, b. swing back nad forth in indecision, c. inject, d. treat, e. scold )
+30. to *vacillate* continually: ( a. avoid, b. swing back and forth in indecision, c. inject, d. treat, e. scold )
+31. a *nostalgic* feeling: ( a. nauseated, b. homesick, c. sharp, d. painful, e. delighted )
+32. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY3NTAzNTYsLTIxMDQ4ODgzODAsLT
+eyJoaXN0b3J5IjpbLTEyNDY2NjcwODIsLTIxMDQ4ODgzODAsLT
 IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
 MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
 c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
