@@ -72,11 +72,11 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 25. to *simulate* interest: ( a. pretend, b. feel, c. lose, d. stir up, e. ask for )
 26. a *magnanimous* action: ( a. puzzling, b. generous, c. foolish, d. unnecessary, e. wise )
 27. a *clandestine* meeting: ( a. prearranged, b. hurried, c. important, d. secret, e. public )
-28. the *apathetic* citizens: ( a. made
+28. the *apathetic* citizens: ( a. made up of separate ethnic groups, b. keenly vigilant of their rights, c. politically conservative, d. indifferent, uninterested, uninvolved, e. terrified )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU1NDk5MjksLTIxMDQ4ODgzODAsLT
+eyJoaXN0b3J5IjpbLTExNjY1NTkyNTUsLTIxMDQ4ODgzODAsLT
 IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
 MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
 c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
