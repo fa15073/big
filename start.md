@@ -62,12 +62,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 16. endless *loquacity*: ( a. misery, b. fantasy, c. repetitiousness, d. ill health, e. talkativeness )
 17. a *glib* talker: ( a. smooth, b. awkward, c. loud, d. friendly, e. boring )
+18. an incorrigible optimist: ( a. happy, b. beyond correction or reform, c. foolish, d. hopeful, e. u )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ4ODgzODAsLTIxMDQ4ODgzODAsLT
-IwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEw
-NzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1Mj
-QsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
-
+eyJoaXN0b3J5IjpbODgzNzIzMzg3LC0yMTA0ODg4MzgwLC0yMT
+A0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAx
+Nzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3Nj
+EsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4
+NDE1MDgyMV19
 -->
