@@ -62,13 +62,15 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 16. endless *loquacity*: ( a. misery, b. fantasy, c. repetitiousness, d. ill health, e. talkativeness )
 17. a *glib* talker: ( a. smooth, b. awkward, c. loud, d. friendly, e. boring )
-18. an incorrigible optimist: ( a. happy, b. beyond correction or reform, c. foolish, d. hopeful, e. u )
+18. an *incorrigible* optimist: ( a. happy, b. beyond correction or reform, c. foolish, d. hopeful, e. unreasonable )
+19. an *ocular* problem: ( a. unexpected, b. insoluble, c. visual, d. continual, e. imaginary )
+20. a notorious *demagogue*: ( a. rabble-rouser, b. gambler, c. perpetrator of financial frauds, d. liar, e. spendthrift )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzNzIzMzg3LC0yMTA0ODg4MzgwLC0yMT
-A0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAx
-Nzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3Nj
-EsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4
-NDE1MDgyMV19
+eyJoaXN0b3J5IjpbMTQ5NTk3MzYyNSwtMjEwNDg4ODM4MCwtMj
+EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
+MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
+YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
+ODQxNTA4MjFdfQ==
 -->
