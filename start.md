@@ -76,13 +76,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 29. to *placate* his son: ( a. please, b. help, c. find a job for, d. make arrangements for, e. change a feeling of hostility to one of friendliness )
 30. to *vacillate* continually: ( a. avoid, b. swing back and forth in indecision, c. inject, d. treat, e. scold )
 31. a *nostalgic* feeling: ( a. nauseated, b. homesick, c. sharp, d. painful, e. delighted )
-32. 
+32. feel *antipathy*: ( a. bashfulness, b. stage fright, d. friendliness, d. hostility, e. suspense )
+33. be more *circumspect*: ( a. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY2NjcwODIsLTIxMDQ4ODgzODAsLT
-IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
-MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
-c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
-MTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbMTMxNTA5MTYxOSwtMjEwNDg4ODM4MCwtMj
+EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
+MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
+YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
+ODQxNTA4MjFdfQ==
 -->
