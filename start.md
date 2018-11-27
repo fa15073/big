@@ -66,13 +66,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 19. an *ocular* problem: ( a. unexpected, b. insoluble, c. visual, d. continual, e. imaginary )
 20. a notorious *demagogue*: ( a. rabble-rouser, b. gambler, c. perpetrator of financial frauds, d. liar, e. spendthrift )
 21. a *naïve* attitude: ( a. unwise, b. hostile, c. unsophisticated, d. friendly, e. contemptuous )
-22. 
+22. living in *affluence*: ( a. difficult circumstances, b. countrified surroundings, c. fear, d. wealth, e. poverty )
+23. in *retrop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc4MDE0MzEsLTIxMDQ4ODgzODAsLT
-IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
-MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
-c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
-MTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbMTAyNjM0Mzg0NywtMjEwNDg4ODM4MCwtMj
+EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
+MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
+YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
+ODQxNTA4MjFdfQ==
 -->
