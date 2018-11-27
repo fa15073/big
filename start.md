@@ -87,10 +87,11 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 38. a *congenital* deformity: ( a. hereditary, b. crippling, c. slight, d. incurable, e. occurring at or during birth )
 39. a definite *neurosis*: ( a. plan, b. emotional disturbance, c. physical disease, d. feeling of fear, e. allergic reaction )
 40. made an *unequivocal* statement: ( a. hard to understand, b. lengthy, c. politically motivated, d. clear and forthright, e. supporting )
+41. *vicarous* enjoyment: ( a. complete, b. unspoiled, c. occurring from a feeling of identification with another, d. long
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYwNDY1MTIsLTIxMDQ4ODgzODAsLT
+eyJoaXN0b3J5IjpbLTEyNDAzODgxODksLTIxMDQ4ODgzODAsLT
 IxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2
 MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MT
 c2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwt
