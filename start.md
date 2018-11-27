@@ -77,13 +77,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 30. to *vacillate* continually: ( a. avoid, b. swing back and forth in indecision, c. inject, d. treat, e. scold )
 31. a *nostalgic* feeling: ( a. nauseated, b. homesick, c. sharp, d. painful, e. delighted )
 32. feel *antipathy*: ( a. bashfulness, b. stage fright, d. friendliness, d. hostility, e. suspense )
-33. be more *circumspect*: ( a. 
+33. be more *circumspect*: ( a. restrained, b. confident, c. cautious, d. honest, e. intelligent )
+34. an *intrepid* fighter for human rights: ( a. fearless, b. eloquent, c. popular, d. experienced, e. famous )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTA5MTYxOSwtMjEwNDg4ODM4MCwtMj
-EwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYw
-MTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNz
-YxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0x
-ODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbNDYxNzQyODgxLC0yMTA0ODg4MzgwLC0yMT
+A0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAx
+Nzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3Nj
+EsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4
+NDE1MDgyMV19
 -->
