@@ -119,17 +119,28 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 41-c, 42-c, 43-c, 44-b, 45-b, 46-c, 47-a, 48-b, 49-c, 50-e,
 51-c, 52-b, 53-c, 54-b, 55-d, 56-c, 57-a, 58-d, 59-b, 60-d,
 ```
-Your score
+Your score (one point for each correct choice): ______
+*The meaning of your score:*
+0-11: below average
+12-35: average
+36-48: above average
+49-54: excellent
+55-60: superior
+
+[//]: # "p 16"
+
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTY4MTA1NywxODY3OTc4MjEwLDIxMD
-YwNzAzNTYsMTE3NTExNjI2MywtMjEwNDg4ODM4MCwtMjEwNDg4
-ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYwMTc3OT
-EsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0y
-MjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0xODQxNT
-A4MjFdfQ==
+eyJoaXN0b3J5IjpbODc1MjUzNTAsMTg2Nzk3ODIxMCwyMTA2MD
+cwMzU2LDExNzUxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4ODgz
+ODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC
+0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2
+ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MTUwOD
+IxXX0=
 -->
