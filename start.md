@@ -113,7 +113,8 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 ```
 1-a, 2-c, 3-b, 4-a, 5-b, 6-a,
-11-c
+1-b, 2-b, 3-b, 4-b, 5-b, 6-b, 7-b, 8-b, 9-b, 10-b
+
 ```
 
 
@@ -121,9 +122,10 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Nzk3ODIxMCwyMTA2MDcwMzU2LDExNz
-UxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4ODgzODAsLTIwNjQ1
-OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNT
-I5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEw
-MDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbLTEzNzgyOTU1MjQsMTg2Nzk3ODIxMCwyMT
+A2MDcwMzU2LDExNzUxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4
+ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3Nz
+kxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwt
+MjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MT
+UwODIxXX0=
 -->
