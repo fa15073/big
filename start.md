@@ -90,11 +90,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 41. *vicarious* enjoyment: ( a. complete, b. unspoiled, c. occurring from a feeling of identification with another, d. long-continuing, e. temporary )
 42. *psychogenic* ailment: ( a. incurable, b. contagious, c. originating in the mind, d. intestinal, imaginary )
 43. an *anachronous* attitude: ( a. unexplainable, b. unreasonable, c. belonging to a different time, d. out of place, e. unusual )
-44. her *iconoclastic* phase: ( a. artistic, b. sneering at tradition, c. troubled. d. 
+44. her *iconoclastic* phase: ( a. artistic, b. sneering at tradition, c. troubled. d. difficult, e. religious )
+45. a *tyro*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjIzOTgyMiwxMTc1MTE2MjYzLC0yMT
+eyJoaXN0b3J5IjpbLTcwMjgzNzA5NSwxMTc1MTE2MjYzLC0yMT
 A0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4
 MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMz
 I0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0y
