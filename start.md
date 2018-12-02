@@ -108,11 +108,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 56. an *inveterate* gambler: ( a. impoverished, b. successful, c. habitual, d. occasional, e. superstitious )
 57. an *egregious* error: ( a. outstandingly bad, b. slight, c. irreparable, d. unnecessary, e. deliberate )
 58. *cacophony* of a large city: ( a. political administration, b. crowded living conditions, c. cultural advantages. d. unpleasant noises, harsh sounds, e. busy traffic )
-59. a *prurient* adolescent: ( a. tall and gangling, b. 
+59. a *prurient* adolescent: ( a. tall and gangling, b. sexually longing, c. clumsy, awkward, d. sexually attractive, e. soft-spoken )
+60. *uxorious* husband: ( a. henpecked, b. suspicious, c. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTg2MDYwMywyMTA2MDcwMzU2LDExNz
+eyJoaXN0b3J5IjpbLTkyMjQ1ODUwNywyMTA2MDcwMzU2LDExNz
 UxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4ODgzODAsLTIwNjQ1
 OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNT
 I5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEw
