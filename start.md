@@ -134,7 +134,8 @@ Your score (one point for each correct choice): ______
 Part 1
 *This is a timed test.*
   *In no more than three minutes* (time yourself, or have someone time you), decide whether the word in column B is the *same* (or *approximately the same*) in meaning as the word in column A; *opposite* (or *approximately opposite*) in meaning; or whether the two words are merely *different*.
-  Circle S for same
+  Circle **S** for *same*, **O** for *opposite*, and **D** for *different*.
+  You will not have time to dawdle or think too long, so go as fast as you can.
 
 
 
@@ -142,10 +143,10 @@ Part 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTc2MDMyMywxODY3OTc4MjEwLDIxMD
-YwNzAzNTYsMTE3NTExNjI2MywtMjEwNDg4ODM4MCwtMjEwNDg4
-ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYwMTc3OT
-EsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0y
-MjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0xODQxNT
-A4MjFdfQ==
+eyJoaXN0b3J5IjpbLTcwMzMxMjc2LDE4Njc5NzgyMTAsMjEwNj
+A3MDM1NiwxMTc1MTE2MjYzLC0yMTA0ODg4MzgwLC0yMTA0ODg4
+MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAxNzc5MS
+wtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3NjEsLTIy
+Njg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4NDE1MD
+gyMV19
 -->
