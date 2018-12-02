@@ -91,13 +91,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 42. *psychogenic* ailment: ( a. incurable, b. contagious, c. originating in the mind, d. intestinal, imaginary )
 43. an *anachronous* attitude: ( a. unexplainable, b. unreasonable, c. belonging to a different time, d. out of place, e. unusual )
 44. her *iconoclastic* phase: ( a. artistic, b. sneering at tradition, c. troubled. d. difficult, e. religious )
-45. a *tyro*
+45. a *tyro*: ( a. dominating personality, b. beginner, c. accomplished musician, d. dabbler, e. serious student )
+46. a *laconic* reply: (a. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjgzNzA5NSwxMTc1MTE2MjYzLC0yMT
-A0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4
-MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMz
-I0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0y
-NjIwNjA2ODAsLTE4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbOTI0ODM4MzcyLDExNzUxMTYyNjMsLTIxMD
+Q4ODgzODAsLTIxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgz
+OTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMj
+QwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2
+MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
