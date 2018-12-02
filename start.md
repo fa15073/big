@@ -92,13 +92,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 43. an *anachronous* attitude: ( a. unexplainable, b. unreasonable, c. belonging to a different time, d. out of place, e. unusual )
 44. her *iconoclastic* phase: ( a. artistic, b. sneering at tradition, c. troubled. d. difficult, e. religious )
 45. a *tyro*: ( a. dominating personality, b. beginner, c. accomplished musician, d. dabbler, e. serious student )
-46. a *laconic* reply: (a. 
+46. a *laconic* reply: (a. immediate, b. assured, c. terse and meaningful, d. unintelligible, e. angry )
+47. *semantic* confusion: ( a. relating to the meaning 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0ODM4MzcyLDExNzUxMTYyNjMsLTIxMD
-Q4ODgzODAsLTIxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgz
-OTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMj
-QwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2
-MjA2MDY4MCwtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbLTE0MjU2MDY4MDgsMTE3NTExNjI2MywtMj
+EwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5
+ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1Mj
+MyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwt
+MjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
 -->
