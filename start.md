@@ -95,11 +95,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 46. a *laconic* reply: (a. immediate, b. assured, c. terse and meaningful, d. unintelligible, e. angry )
 47. *semantic* confusion: ( a. relating to the meaning of words, b. pertaining to money, c. having to do with the emotions, d. relating to mathematics, e. caused by inner turmoil )
 48. *cavalier* treatment: ( a. courteous, b. haughty and highhanded, c. negligent, d. affectionate, e. expensive )
-49. an *anomalous* situation: (a. 
+49. an *anomalous* situation: ( a. dangerous, b. intriguing, c. unusual, d. pleasant, e. unhappy )
+50. *posthumous* child: ( a. cranky, b. brilliant, c. physically weak, d. illegitimate, e. born after teh 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYzOTUwNTAsMTE3NTExNjI2MywtMj
+eyJoaXN0b3J5IjpbLTE5MjQ4NDU1MjMsMTE3NTExNjI2MywtMj
 EwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5
 ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1Mj
 MyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwt
