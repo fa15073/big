@@ -98,13 +98,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 49. an *anomalous* situation: ( a. dangerous, b. intriguing, c. unusual, d. pleasant, e. unhappy )
 50. *posthumous* child: ( a. cranky, b. brilliant, c. physically weak, d. illegitimate, e. born after the death of the father )
 51. feels *enervated*: ( a. full of ambition, b. full of strength, c. completely exhausted, d. troubled, e. full of renewed energy )
-52. shows *perspicacity*:
+52. shows *perspicacity*: ( a. sincerity, b. mental keenness, c. love, d. faithfulness, e. longing )
+53. an unpopular *martinet*: ( a. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQyNTMyODIsMTE3NTExNjI2MywtMj
-EwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5
-ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1Mj
-MyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwt
-MjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbMTkwMTMzOTU5LDExNzUxMTYyNjMsLTIxMD
+Q4ODgzODAsLTIxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgz
+OTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMj
+QwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2
+MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
