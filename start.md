@@ -139,19 +139,125 @@ Part 1
 
 [//]: # "p 17"
 
+**VOCABULARY AND SUCCESS**
+
+  Now you know where you stand. If you are in the below average or average group, you must consider, seriously, whether an inadequate vocabulary may be holding you back. (If you tested out on the above average, excellent, or superior level, you have doubtless already discovered the unique and far-reaching value of a rich vocabulary, and you are eager to add still further to your knowledge of words.) 
+  Let us examine, briefly, some of the evidence that points to the close relationship between vocabulary and personal, professional, and intellectual growth.
+  The Human Engineering Laboratory found that the only common characteristic of successful people in this country is an unusual grasp of the meanings of words. The Laboratory tested the vocabularies of thousands of people in all age groups and in all walks of life—and discovered that those people drawing down the highest salaries made the highest scores. Consider very thoughtfully the explanation that the director of the Laboratory offered for the relationship between vocabulary and success:
+  "Why do large vocabularies characterize executives and possibly outstanding men and women in other fields? The final answer seems to be that words are the instruments by means of which men and women grasp the thoughts of others and with which they do much of their own thinking. They are the tools of thought."
+  There is other evidence.
+  At many universities, groups of freshmen were put into experimental classes for the sole purpose of increasing their knowledge of English words. *These groups did better in their sophomore, junior, and senior years than control groups of similarly endowed students who did not receive such training.*
+
+[//]: # "p 18"
+
+  And still more evidence: 
+  At the University of Illinois, entering students were given a simple twenty-nine-word vocabulary test. The results of this test could be used, according to Professor William D. Templeman, to make an accurate prediction of future academic success—or lack of success—over the entire four year college course. "If a student has a superior vocabulary," states Professor Templeman, "it will 
+probably follow that he will do better work academically."
+  And finally: 
+  Educational research has discovered that your I.Q. is intimately related to your vocabulary. Take a standard vocabulary test and then an intelligence test—the results in both will be substantially the same. 
+  
+**YOU CAN INCREASE YOUR VOCABULARY**
+
+  The more extensive your vocabulary, the better your chances for success, other things being equal—success in attaining your educational goals, success in moving ahead in your business or professional career, success in achieving your intellectual potential.
+  And you can increase your vocabulary—faster and easier than you may realize. 
+  You can, in fact, accomplish a tremendous gain in less than two to three months of concentrated effort, even if you do only One session a day—in less time if you do two or more sessions a day.
+  Furthermore— 
+  You can start improving your vocabulary immediately—and within a few days you can be cruising along at such a rapid rate that there will be an actual change in your thinking, in your ability to express your thoughts, and in your powers of understanding.
+  Does this sound as if I am promising you the whole world in a neat package with a pretty pink ribbon tied around it? I am. And I am willing to make such an unqualified promise because I have seen what happens to those of my students at New York University and at Rio Hondo College in Whittier, California, who make sincere, methodical efforts to learn more, many more, words. 
+
+[//]: # "p 19"
+
+## HOW TO START BUILDING YOUR VOCABULARY
+When you have finished working with this book, you will no longer be the same person. 
+  You can't be. 
+  If you honestly read every page, if you do every exercise, if you take every test, if you follow every principle, you will go through an intellectual experience that will effect a radical change in you.
+  For if you systematically increase your vocabulary, you will also sharpen and enrich your thinking; push back your intellectual horizons; build your self-assurance; improve your facility in handling the English language and thereby your ability to express your thoughts effectively; and acquire a deeper understanding of the world in general and of yourself in particular.
+  Increasing your vocabulary does not mean merely learning the definitions of large numbers of obscure words; it does not mean memorizing scores of unrelated terms. What it means—what it can only mean—is becoming acquainted with the multitudinous and fascinating phenomena of human existence for which words are, obviously, only the verbal descriptions.
+  Increasing your vocabulary—properly, intelligently, and systematically—means treating yourself to an all-round, liberal education. 
+
+[//]: # "p 20"
 
 
+[//]: # "p 26"
 
+## HOW TO TALK ABOUT PERSONALITY TYPES
+**TEASER PREVIEW**
+What word best describes your personality if you:
+- are interested solely in your own welfare?
+- constantly talk about yourself?
+- dedicate your life to helping others?
+- turn your mind inward?
+- turn your mind outward?
+- hate humanity?
+- hate women?
+- hate marriage?
+- lead a lonely, austere existence?
 
- 
-$\underline 1$
+[//]: # "p 27"
+
+**SESSION 1**
+
+Every human being is, in one way or another, unique.
+  Everyone's personality is determined by a combination of genetic and environmental factors. 
+  Let us examine ten personality types (one of which might by chance be your very own) that result from the way culture, growth, family background, and environment interact with heredity. 
+  And, of course, we begin not with the words, but with the ideas.
+
+**IDEAS**
+
+1. me first 
+  Your attitude to life is simple, direct, and aboveboard—every decision you make is based on the answer to one question: "What's in it for me?" If your selfishness, greed, and ruthless desire for self-advancement hurt other people, that's too bad. "This is a tough world, pal, dog eat dog and all that, and I, for one, am not going to be left behind!"
+
+An egoist
+
+2. the height of conceit 
+  "Now, let's see. Have you heard about all the money I'm making? Did I tell you about my latest amorous conquest? Let me give you my opinion—I know, because I'm an expert at practically everything!" You are boastful to the point of being obnoxious—you have only one string to your conversational violin, namely, *yourself*; and on it you play a number of monotonous variations: what *you* think, what *you* have done, how good *you* are, how *you* would solve the problems of the world, etc. ad nauseam.
+
+[//]: # "p 28"
+
+An egotist
+
+3. let me help you
+  You have discovered the secret of true happiness—concerning yourself with the welfare of others. Never mind your own interests, how's the next fellow getting along?
+
+An altruist
+
+4. leave me alone 
+  Like a biochemist studying a colony of bacteria under the microscope, you minutely examine your every thought, feeling, and action. Probing, futile questions like "What do other people think of me?", "How do I look?" and "Maybe I shouldn't have said that?" are your constant nagging companions, for you are unable to realize that other people do not spend as much time and energy analyzing you as you think.
+  You may seem unsocial, yet your greatest desire is to be liked and accepted. You may be shy and quiet, you are often moody and unhappy, and you prefer solitude or at most the company of one person to a crowd. You have an aptitude for creative work and are uncomfortable engaging in activities that require co- 
+operation with other people. You may even be a genius, or eventually turn into one.
+
+An introvert
+
+5. let's do it together
+  You would be great as a teacher, counselor, administrator, insurance agent. You can always become interested—sincerely, vitally interested—in other people's problems. You're the life of the party, because you never worry about the effect of your actions, never inhibit yourself with doubt about dignity or propriety. You are usually happy, generally full of high spirits; you love to be with people—lots of people. Your thoughts, your interests, your whole personality are turned outward.
+
+[//]: # "p 29"
+
+An extrovert
+
+6. neither extreme
+  You have both introverted and extroverted tendencies—at different times and on different occasions. Your interests are turned, in about equal proportions, both inward and outward. Indeed, you're quite normal—in the sense that your personality is like that of most people.
+
+An ambivert
+
+7. people are no damn good
+  Cynical, embittered, suspicious, you hate everyone. (Especially, but never to be admitted, *yourself*?) The perfectibility of the human race? "Nonsense! No way!" The stupidity, the meanness, 
+and the crookedness of most mortals ("Most? Probably all!")—that is your favorite theme.
+
+A misanthrope
+
+8. women are no damn good
+  Sometime in your dim past, you were crossed, scorned, or deeply wounded by a woman (a mother, or mother figure, perhaps?). So now you have a carefully constructed defense against further hurt—you hate *all* women.
+
+A misogynist
+
+9. "marriage is an institution—and who wants to live in an institution?"
+  You will not make the ultimate *legal* commitment. Members of the opposite sex are great as lovers, roommates, apartment- or house-sharers, but *not* as lawfully wedded spouses. The ties that 
+
+[//]: # "p 30"
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjAyODkyMCwtNzQyODk3OTAxLC03MD
-MzMTI3NiwxODY3OTc4MjEwLDIxMDYwNzAzNTYsMTE3NTExNjI2
-MywtMjEwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5NTA5Ni
-wtMTc5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1
-Njk1MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0ND
-M2OSwtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbMjA4MjI5OTkyMl19
 -->
