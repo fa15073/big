@@ -115,8 +115,9 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 1-a, 2-c, 3-b, 4-a, 5-b, 6-a, 7-e, 8-b, 9-d, 10-a,
 11-c, 12-d, 13-b, 14-d, 15-b, 16-e, 17-a, 18-b, 19-c, 20-a,
 21-c, 22-d, 23-a, 24-d, 25-a, 26-b, 27-d, 28-d, 29-e, 30-b,
-31-b, 32-d, 33-c, 34-a, 35-b, 36-b, 37-b, 38-b, 39-b, 40-b,
-
+31-b, 32-d, 33-c, 34-a, 35-b, 36-c, 37-d, 38-e, 39-b, 40-d,
+41-c, 42-c, 43-c, 44-b, 45-b, 46-c, 47-a, 48-b, 49-c, 50-e,
+51-b, 52-b, 53-b, 54-b, 55-b, 56-b, 57-b, 58-b, 59-b, 60-d,
 ```
 
 
@@ -124,10 +125,10 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NTU4ODg5LDE4Njc5NzgyMTAsMjEwNj
-A3MDM1NiwxMTc1MTE2MjYzLC0yMTA0ODg4MzgwLC0yMTA0ODg4
-MzgwLC0yMDY0NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAxNzc5MS
-wtMTYxMDc5MjUyOSwtMTU2OTUyMzI0MCw0ODE0OTE3NjEsLTIy
-Njg2NTI0LC0xMDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4NDE1MD
-gyMV19
+eyJoaXN0b3J5IjpbMTEwMTQ3ODMwMiwxODY3OTc4MjEwLDIxMD
+YwNzAzNTYsMTE3NTExNjI2MywtMjEwNDg4ODM4MCwtMjEwNDg4
+ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYwMTc3OT
+EsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0y
+MjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0xODQxNT
+A4MjFdfQ==
 -->
