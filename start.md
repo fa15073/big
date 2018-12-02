@@ -111,10 +111,9 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 59. a *prurient* adolescent: ( a. tall and gangling, b. sexually longing, c. clumsy, awkward, d. sexually attractive, e. soft-spoken )
 60. *uxorious* husband: ( a. henpecked, b. suspicious, c. guilty of infidelity, d. fondly and foolishly doting on his wife, e. tightfisted, penny pinching )
 
-```
-1-a, 2-c, 3-b, 4-a, 5-b, 6-a,
-1-b, 2-b, 3-b, 4-b, 5-b, 6-b, 7-b, 8-b, 9-b, 10-b
-
+```multiple choice 1@p12
+1-a, 2-c, 3-b, 4-a, 5-b, 6-a, 7-b, 8-b, 9-b, 10-b
+11-c, 12-b, 13-b, 14-b, 15-b, 16-b, 17-b, 18-b, 19-b, 20-b
 ```
 
 
@@ -122,10 +121,10 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgyOTU1MjQsMTg2Nzk3ODIxMCwyMT
-A2MDcwMzU2LDExNzUxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4
-ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3Nz
-kxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwt
-MjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MT
-UwODIxXX0=
+eyJoaXN0b3J5IjpbMTM4MTY5NDQyOSwxODY3OTc4MjEwLDIxMD
+YwNzAzNTYsMTE3NTExNjI2MywtMjEwNDg4ODM4MCwtMjEwNDg4
+ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYwMTc3OT
+EsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0y
+MjY4NjUyNCwtMTAwOTY0NDM2OSwtMjYyMDYwNjgwLC0xODQxNT
+A4MjFdfQ==
 -->
