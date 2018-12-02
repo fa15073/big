@@ -112,7 +112,7 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 60. *uxorious* husband: ( a. henpecked, b. suspicious, c. guilty of infidelity, d. fondly and foolishly doting on his wife, e. tightfisted, penny pinching )
 
 ```multiple choice 1@p12
-1-a, 2-c, 3-b, 4-a, 5-b, 6-a, 7-b, 8-b, 9-b, 10-b
+1-a, 2-c, 3-b, 4-a, 5-b, 6-a, 7-e, 8-b, 9-d, 10-a,
 11-c, 12-b, 13-b, 14-b, 15-b, 16-b, 17-b, 18-b, 19-b, 20-b
 ```
 
@@ -121,7 +121,7 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTY5NDQyOSwxODY3OTc4MjEwLDIxMD
+eyJoaXN0b3J5IjpbLTk0MDk4ODE1NSwxODY3OTc4MjEwLDIxMD
 YwNzAzNTYsMTE3NTExNjI2MywtMjEwNDg4ODM4MCwtMjEwNDg4
 ODM4MCwtMjA2NDU5NTA5NiwtMTc5ODM5MzMyOCwtNzYwMTc3OT
 EsLTE2MTA3OTI1MjksLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0y
