@@ -93,11 +93,12 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 44. her *iconoclastic* phase: ( a. artistic, b. sneering at tradition, c. troubled. d. difficult, e. religious )
 45. a *tyro*: ( a. dominating personality, b. beginner, c. accomplished musician, d. dabbler, e. serious student )
 46. a *laconic* reply: (a. immediate, b. assured, c. terse and meaningful, d. unintelligible, e. angry )
-47. *semantic* confusion: ( a. relating to the meaning 
+47. *semantic* confusion: ( a. relating to the meaning of words, b. pertaining to money, c. having to do with the emotions, d. relating to mathematics, e. caused by inner turmoil )
+48. *cavalier* treatmeat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2MDY4MDgsMTE3NTExNjI2MywtMj
+eyJoaXN0b3J5IjpbLTEwNDY4MTM0NTIsMTE3NTExNjI2MywtMj
 EwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5
 ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1Mj
 MyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwt
