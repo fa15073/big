@@ -104,12 +104,13 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 
 53. an unpopular *martinet*: ( a. candidate, b. supervisor, c. strict disciplinarian, d. military leader, e. discourteous snob )
 54. *gregarious* person: ( a. outwardly calm, b. very sociable, c. completely untrustworthy, d. vicious, e. self-effacing and timid )
+55. generally *phlegmatic*: ( a. smug, self-satisfied, b. easily pleased, c. nervous, self-strung, d. emotionally unr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjA3MDM1NiwxMTc1MTE2MjYzLC0yMT
-A0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4
-MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMz
-I0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0y
-NjIwNjA2ODAsLTE4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbLTEyMzE5OTQwMjksMjEwNjA3MDM1NiwxMT
+c1MTE2MjYzLC0yMTA0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0
+NTk1MDk2LC0xNzk4MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5Mj
+UyOSwtMTU2OTUyMzI0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0x
+MDA5NjQ0MzY5LC0yNjIwNjA2ODAsLTE4NDE1MDgyMV19
 -->
