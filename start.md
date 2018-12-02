@@ -106,13 +106,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 54. *gregarious* person: ( a. outwardly calm, b. very sociable, c. completely untrustworthy, d. vicious, e. self-effacing and timid )
 55. generally *phlegmatic*: ( a. smug, self-satisfied, b. easily pleased, c. nervous, self-strung, d. emotionally unresponsive, e. lacking in social graces )
 56. an *inveterate* gambler: ( a. impoverished, b. successful, c. habitual, d. occasional, e. superstitious )
-57. an *egregious* error: ( a. outstandingly bad, b. slight, c. irreparable, d. unnecessary, d. 
+57. an *egregious* error: ( a. outstandingly bad, b. slight, c. irreparable, d. unnecessary, e. deliberate )
+58. *cacophony* of a large city: ( a. political administration, b. crowded living conditions, c. cultrarural advantages. d. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MjU1NjUsMjEwNjA3MDM1NiwxMTc1MT
-E2MjYzLC0yMTA0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0NTk1
-MDk2LC0xNzk4MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOS
-wtMTU2OTUyMzI0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5
-NjQ0MzY5LC0yNjIwNjA2ODAsLTE4NDE1MDgyMV19
+eyJoaXN0b3J5IjpbLTQ2OTg3Njk5MCwyMTA2MDcwMzU2LDExNz
+UxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4ODgzODAsLTIwNjQ1
+OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNT
+I5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEw
+MDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MTUwODIxXX0=
 -->
