@@ -89,13 +89,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 40. made an *unequivocal* statement: ( a. hard to understand, b. lengthy, c. politically motivated, d. clear and forthright, e. supporting )
 41. *vicarious* enjoyment: ( a. complete, b. unspoiled, c. occurring from a feeling of identification with another, d. long-continuing, e. temporary )
 42. *psychogenic* ailment: ( a. incurable, b. contagious, c. originating in the mind, d. intestinal, imaginary )
-43. an *anachronous* attitude: ( a. unexplainable, b. unreasonable, c. belonging to a different time, c. 
+43. an *anachronous* attitude: ( a. unexplainable, b. unreasonable, c. belonging to a different time, d. out of place, e. unusual )
+44. her *iconoclastic* phase: ( a. artistic, b. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4ODI2MTY3LDExNzUxMTYyNjMsLTIxMD
-Q4ODgzODAsLTIxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgz
-OTMzMjgsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMj
-QwLDQ4MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2
-MjA2MDY4MCwtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbLTI4NTc1MDAxNiwxMTc1MTE2MjYzLC0yMT
+A0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4
+MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMz
+I0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0y
+NjIwNjA2ODAsLTE4NDE1MDgyMV19
 -->
