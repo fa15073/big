@@ -100,14 +100,16 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 51. feels *enervated*: ( a. full of ambition, b. full of strength, c. completely exhausted, d. troubled, e. full of renewed energy )
 52. shows *perspicacity*: ( a. sincerity, b. mental keenness, c. love, d. faithfulness, e. longing )
 
+[//]: # "p 15"
+
 53. an unpopular *martinet*: ( a. candidate, b. supervisor, c. strict disciplinarian, d. military leader, e. discourteous snob )
-54. 
+54. *gregarious* person: ( a. outwardly calm, b. very sociable, c. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEwMzkwNDIsMTE3NTExNjI2MywtMj
-EwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5NTA5NiwtMTc5
-ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1Njk1Mj
-MyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0NDM2OSwt
-MjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbLTY5MDgyMjk0MiwxMTc1MTE2MjYzLC0yMT
+A0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0NTk1MDk2LC0xNzk4
+MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOSwtMTU2OTUyMz
+I0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5NjQ0MzY5LC0y
+NjIwNjA2ODAsLTE4NDE1MDgyMV19
 -->
