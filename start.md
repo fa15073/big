@@ -2,7 +2,6 @@
 $\bar {oo}$
 $\check {oo}$
 $\overline {ABCD}$
-$\underline {ABCD}$
 $\fbox {\vphantom{b}a. test}$
 $\left(a. test, b. test\right)$
 $\fbox {b. test, a.test}$
@@ -144,14 +143,15 @@ Part 1
 
 
 
-
+ 
+$\underline 1$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mjg5NzkwMSwtNzAzMzEyNzYsMTg2Nz
-k3ODIxMCwyMTA2MDcwMzU2LDExNzUxMTYyNjMsLTIxMDQ4ODgz
-ODAsLTIxMDQ4ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMj
-gsLTc2MDE3NzkxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4
-MTQ5MTc2MSwtMjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MD
-Y4MCwtMTg0MTUwODIxXX0=
+eyJoaXN0b3J5IjpbMTI0MjAyODkyMCwtNzQyODk3OTAxLC03MD
+MzMTI3NiwxODY3OTc4MjEwLDIxMDYwNzAzNTYsMTE3NTExNjI2
+MywtMjEwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5NTA5Ni
+wtMTc5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1MjksLTE1
+Njk1MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAwOTY0ND
+M2OSwtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
 -->
