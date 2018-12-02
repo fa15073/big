@@ -129,7 +129,11 @@ Your score (one point for each correct choice): ______
 
 [//]: # "p 16"
 
+**A test of verbal speed**
 
+Part 1
+*This is a timed test.*
+  *In no more than three minutes* (time yourself, or have someone time you), decide whether the word in column B
 
 
 
@@ -137,10 +141,10 @@ Your score (one point for each correct choice): ______
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MjUzNTAsMTg2Nzk3ODIxMCwyMTA2MD
-cwMzU2LDExNzUxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4ODgz
-ODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3NzkxLC
-0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwtMjI2
-ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MTUwOD
-IxXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ3NDEzNDUsMTg2Nzk3ODIxMCwyMT
+A2MDcwMzU2LDExNzUxMTYyNjMsLTIxMDQ4ODgzODAsLTIxMDQ4
+ODgzODAsLTIwNjQ1OTUwOTYsLTE3OTgzOTMzMjgsLTc2MDE3Nz
+kxLC0xNjEwNzkyNTI5LC0xNTY5NTIzMjQwLDQ4MTQ5MTc2MSwt
+MjI2ODY1MjQsLTEwMDk2NDQzNjksLTI2MjA2MDY4MCwtMTg0MT
+UwODIxXX0=
 -->
