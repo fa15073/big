@@ -105,13 +105,14 @@ Here are sixty brief phrases, each containing one italicized word; it is up to y
 53. an unpopular *martinet*: ( a. candidate, b. supervisor, c. strict disciplinarian, d. military leader, e. discourteous snob )
 54. *gregarious* person: ( a. outwardly calm, b. very sociable, c. completely untrustworthy, d. vicious, e. self-effacing and timid )
 55. generally *phlegmatic*: ( a. smug, self-satisfied, b. easily pleased, c. nervous, self-strung, d. emotionally unresponsive, e. lacking in social graces )
-56. an *inveterate* gambler: ( a. impoverished, b. successful, c. habitual, d. occa
+56. an *inveterate* gambler: ( a. impoverished, b. successful, c. habitual, d. occasional, e. superstitious )
+57. an *egregious* error: ( a. outstandingly bad, b. slight, c. irreparable, d. unnecessary, d. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzM0MzE1LDIxMDYwNzAzNTYsMTE3NT
-ExNjI2MywtMjEwNDg4ODM4MCwtMjEwNDg4ODM4MCwtMjA2NDU5
-NTA5NiwtMTc5ODM5MzMyOCwtNzYwMTc3OTEsLTE2MTA3OTI1Mj
-ksLTE1Njk1MjMyNDAsNDgxNDkxNzYxLC0yMjY4NjUyNCwtMTAw
-OTY0NDM2OSwtMjYyMDYwNjgwLC0xODQxNTA4MjFdfQ==
+eyJoaXN0b3J5IjpbOTI1MjU1NjUsMjEwNjA3MDM1NiwxMTc1MT
+E2MjYzLC0yMTA0ODg4MzgwLC0yMTA0ODg4MzgwLC0yMDY0NTk1
+MDk2LC0xNzk4MzkzMzI4LC03NjAxNzc5MSwtMTYxMDc5MjUyOS
+wtMTU2OTUyMzI0MCw0ODE0OTE3NjEsLTIyNjg2NTI0LC0xMDA5
+NjQ0MzY5LC0yNjIwNjA2ODAsLTE4NDE1MDgyMV19
 -->
