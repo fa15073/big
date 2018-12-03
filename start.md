@@ -281,8 +281,74 @@ Can you pronounce the words?
 
 [//]: # "p 31"
 
+7. misanthrope 
+8. 
+misogynist 
+9. 
+misogamist 
+10. 
+ascetic 
+MIS'-an-thröp' 
+ma-SOJ'-o-nist 
+ma-SOG'-a-mist 
+a-SET'-ik 
+Can you work with the words? 
+You have taken two long steps toward mastery of the expressive 
+words in this chapter—you have thought about the ideas behind 
+them, and you have said them aloud. 
+For your third step, match each personality with the appro- 
+priate characteristic, action, or attitude. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+egoist 
+egotist 
+altruist 
+introvert 
+extrovert 
+ambivert 
+misanthrope 
+misogynist 
+misogamist 
+ascetic 
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+g. 
+h. 
+i. 
+j. 
+turns thoughts inward 
+hates marriage 
+talks about accomplishments 
+hates people 
+does not pursue pleasures of 
+the flesh 
+is interested in the welfare of 
+others 
+believes in self-advancement 
+turns thoughts both inward 
+and outward 
+hates women 
+turns thoughts outward 
+7—d, 84, 9—b, 10—e 
+KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 
+Do you understand the words? 
+Now that you are becoming more and more involved in these 
+ten words, find out if they can make an immediate, appeal to your 
+understanding. Here are ten questions—can you indicate, quickly, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDkwMzU4MSwxNjM0OTY0MjA2LDIwOD
-IyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1OTAxODA0MzMsMTcwMDkwMzU4MSwxNj
+M0OTY0MjA2LDIwODIyOTk5MjJdfQ==
 -->
