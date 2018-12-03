@@ -252,14 +252,12 @@ A misanthrope
 A misogynist
 
 9. "marriage is an institution—and who wants to live in an institution?"
-  You will not make the ultimate *legal* commitment. Members of the opposite sex are great as lovers, roommates, apartment- or house-sharers, but *not* as lawfully wedded spouses. The ties that 
+  You will not make the ultimate *legal* commitment. Members of the opposite sex are great as lovers, roommates, apartment- or house-sharers, but *not* as lawfully wedded spouses. The ties that bind are too binding for you. You may possibly believe, and possibly, for yourself, be right, that a commitment is deeper and more meaningful if freedom is available without judicial proceedings.
 
 [//]: # "p 30"
 
-bind are too binding for you. You may possibly believe, and pos- 
-sibly, for yourself, be right, that a commiünent is deeper and more 
-meaningful if freedom is available without judicial proceedings. 
-A misogamist 
+A misogamist
+
 10. ' 
 . . . that the flesh is heir to . . 
 Self-denial, austerity, lonely contemplation—these are the char- 
@@ -290,7 +288,7 @@ AL'-tr6ö-ist
 IN'-tta-vure 
 EKY-tra-vure 
 AM'-ba-vurt' 
-* See Introduction, Section 2, Master the pronunciation system. 
+  *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIxMTExNDEsMjA4MjI5OTkyMl19
+eyJoaXN0b3J5IjpbNDY1NTcxOTU3LDIwODIyOTk5MjJdfQ==
 -->
