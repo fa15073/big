@@ -342,18 +342,10 @@ KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 7—d, 8-i, 9—b, 10—e
 Do you understand the words? 
   Now that you are becoming more and more involved in these ten words, find out if they can make an immediate, appeal to your understanding. Here are ten questions—can you indicate, quickly, and without reference to any previous definitions, whether the correct answer to each of these questions is yes or no?
 
+[//]: # "p 32"
 
 1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-Is an egoist selfish? 
+. Is an egoist selfish? 
 Is modesty one of the characteristics of 
 the egotist? 
 Is an altruist selfish? 
@@ -410,7 +402,7 @@ Who hates people?
 Whose interests are turned 
 both inward and outward? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzczNjc3MiwtMTUyMDM5MjkzMCwxNj
-Y0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAzNTgxLDE2MzQ5NjQy
-MDYsMjA4MjI5OTkyMl19
+eyJoaXN0b3J5IjpbLTE1NjMxMTQ0OTMsLTE1MjAzOTI5MzAsMT
+Y2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMDkwMzU4MSwxNjM0OTY0
+MjA2LDIwODIyOTk5MjJdfQ==
 -->
