@@ -1,7 +1,6 @@
 ə
 $\bar {oo}$
 $\check {oo}$
-$\overline {ABCD}$
 $\fbox {\vphantom{b}a. test}$
 $\left(a. test, b. test\right)$
 $\fbox {b. test, a.test}$
@@ -348,7 +347,12 @@ understanding. Here are ten questions—can you indicate, quickly,
 [//]: # "p 32"
 
 
+
+ 
+$\underline 1$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NTIxNjQ4LDE3MDA5MDM1ODEsMTYzND
-k2NDIwNiwyMDgyMjk5OTIyXX0=
+eyJoaXN0b3J5IjpbMTY2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMD
+kwMzU4MSwxNjM0OTY0MjA2LDIwODIyOTk5MjJdfQ==
 -->
