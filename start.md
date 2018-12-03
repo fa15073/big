@@ -267,7 +267,8 @@ An ascetic
 
 You have been introduced to ten valuable words—but in each case, as you have noticed, you have first considered the ideas that these words represent. Now say the words—each one is respelled phonetically so that you will be sure to pronounce it correctly.* 
   *Say each word aloud*. This is the first important step to complete mastery. As you hear a word in your own voice, think of its meaning. Are you quite clear about it? If not, reinforce your learning by rereading the explanatory paragraph or paragraphs.
-Can you pronounce the words? 
+
+Can you pronounce the words?
 I. egoist 
 2. egotist 
 3. altruist 
@@ -282,5 +283,5 @@ EKY-tra-vure
 AM'-ba-vurt' 
   *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDM5OTY2LDIwODIyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
 -->
