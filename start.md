@@ -354,39 +354,20 @@ Do you understand the words?
 8. Does a misogynist enjoy the company of women?
 9. Does an ascetic lead a life of luxury?
 10. Does a misogamist try to avoid marriage?
-YES 
-YES 
-YEs 
-YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-KEY: I—yes, 2—no, 3—no, 4—yes, 5—no, 6—yes, 7—no, 8—no, 9—no, 
-10—yes 
+
+```
+KEY: I—yes, 2—no, 3—no, 4—yes, 5—no, 6—yes, 7—no, 8—no, 9—no, 10—yes
+```
+
 Can you recall the words? 
-You have thus far reinforced your learning by saying the words 
-aloud, by matching them to their definitions, and by responding to 
-meaning when they were used in context. 
-Can you recall each word, now, without further reference to 
+  You have thus far reinforced your learning by saying the words aloud, by matching them to their definitions, and by responding to meaning when they were used in context. 
+  Can you recall each word, now, without further reference to 
 previous material? And can you spell it correctly? 
-1. 
-2. 
-3. 
-4. 
-5. 
+11. 
+12. 
+13. 
+14. 
+15. 
 Who lives a lonely, austere 
 life? 
 Whose interests are turned 
@@ -396,7 +377,7 @@ Who hates people?
 Whose interests are turned 
 both inward and outward? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg0Njk0NDAsLTE1MjAzOTI5MzAsMT
-Y2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMDkwMzU4MSwxNjM0OTY0
-MjA2LDIwODIyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTg1NzcyNTYxMSwtMTUyMDM5MjkzMCwxNj
+Y0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAzNTgxLDE2MzQ5NjQy
+MDYsMjA4MjI5OTkyMl19
 -->
