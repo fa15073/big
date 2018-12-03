@@ -272,13 +272,13 @@ Can you pronounce the words?
 1. egoist  EE'-gö-ist
 2. egotist  EE'-gö-tist
 3. altruist  AL'-tr6ö-ist
-4. introvert  IN'-tta-vure
-5. extrovert  IN'-tta-vure
+4. introvert  IN'-trə-vurt'
+5. extrovert  EKS'-trə-vurt'
 6. ambivert  AM'-ba-vurt'
 
 
 *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM5OTYwMjEsMTYzNDk2NDIwNiwyMD
+eyJoaXN0b3J5IjpbLTE4ODMzMDI0NTcsMTYzNDk2NDIwNiwyMD
 gyMjk5OTIyXX0=
 -->
