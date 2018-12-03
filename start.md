@@ -207,49 +207,49 @@ Every human being is, in one way or another, unique.
 1. me first 
   Your attitude to life is simple, direct, and aboveboard—every decision you make is based on the answer to one question: "What's in it for me?" If your selfishness, greed, and ruthless desire for self-advancement hurt other people, that's too bad. "This is a tough world, pal, dog eat dog and all that, and I, for one, am not going to be left behind!"
 
-An egoist
+    An egoist
 
 2. the height of conceit 
   "Now, let's see. Have you heard about all the money I'm making? Did I tell you about my latest amorous conquest? Let me give you my opinion—I know, because I'm an expert at practically everything!" You are boastful to the point of being obnoxious—you have only one string to your conversational violin, namely, *yourself*; and on it you play a number of monotonous variations: what *you* think, what *you* have done, how good *you* are, how *you* would solve the problems of the world, etc. ad nauseam.
 
-[//]: # "p 28"
+    An egotist
 
-An egotist
+[//]: # "p 28"
 
 3. let me help you
   You have discovered the secret of true happiness—concerning yourself with the welfare of others. Never mind your own interests, how's the next fellow getting along?
 
-An altruist
+    An altruist
 
 4. leave me alone 
   Like a biochemist studying a colony of bacteria under the microscope, you minutely examine your every thought, feeling, and action. Probing, futile questions like "What do other people think of me?", "How do I look?" and "Maybe I shouldn't have said that?" are your constant nagging companions, for you are unable to realize that other people do not spend as much time and energy analyzing you as you think.
   You may seem unsocial, yet your greatest desire is to be liked and accepted. You may be shy and quiet, you are often moody and unhappy, and you prefer solitude or at most the company of one person to a crowd. You have an aptitude for creative work and are uncomfortable engaging in activities that require co- 
 operation with other people. You may even be a genius, or eventually turn into one.
 
-An introvert
+    An introvert
 
 5. let's do it together
   You would be great as a teacher, counselor, administrator, insurance agent. You can always become interested—sincerely, vitally interested—in other people's problems. You're the life of the party, because you never worry about the effect of your actions, never inhibit yourself with doubt about dignity or propriety. You are usually happy, generally full of high spirits; you love to be with people—lots of people. Your thoughts, your interests, your whole personality are turned outward.
 
-[//]: # "p 29"
+    An extrovert
 
-An extrovert
+[//]: # "p 29"
 
 6. neither extreme
   You have both introverted and extroverted tendencies—at different times and on different occasions. Your interests are turned, in about equal proportions, both inward and outward. Indeed, you're quite normal—in the sense that your personality is like that of most people.
 
-An ambivert
+    An ambivert
 
 7. people are no damn good
   Cynical, embittered, suspicious, you hate everyone. (Especially, but never to be admitted, *yourself*?) The perfectibility of the human race? "Nonsense! No way!" The stupidity, the meanness, 
 and the crookedness of most mortals ("Most? Probably all!")—that is your favorite theme.
 
-A misanthrope
+    A misanthrope
 
 8. women are no damn good
   Sometime in your dim past, you were crossed, scorned, or deeply wounded by a woman (a mother, or mother figure, perhaps?). So now you have a carefully constructed defense against further hurt—you hate *all* women.
 
-A misogynist
+    A misogynist
 
 9. "marriage is an institution—and who wants to live in an institution?"
   You will not make the ultimate *legal* commitment. Members of the opposite sex are great as lovers, roommates, apartment- or house-sharers, but *not* as lawfully wedded spouses. The ties that bind are too binding for you. You may possibly believe, and possibly, for yourself, be right, that a commitment is deeper and more meaningful if freedom is available without judicial proceedings.
@@ -283,6 +283,6 @@ EKY-tra-vure
 AM'-ba-vurt' 
   *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0OTAwNiwxNjM0OTY0MjA2LDIwODIyOT
-k5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjkyMzY4MTgsMTYzNDk2NDIwNiwyMD
+gyMjk5OTIyXX0=
 -->
