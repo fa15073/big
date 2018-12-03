@@ -277,8 +277,12 @@ Can you pronounce the words?
 6. ambivert    AM'-bə-vurt'
 
 
-*See Introduction, Section 2, Master the pronunciation system. 
+*See Introduction, Section 2, Master the pronunciation system.
+
+[//]: # "p 31"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzM1NjIwOCwxNjM0OTY0MjA2LDIwOD
+eyJoaXN0b3J5IjpbMTcwMDkwMzU4MSwxNjM0OTY0MjA2LDIwOD
 IyOTk5MjJdfQ==
 -->
