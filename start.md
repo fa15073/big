@@ -276,22 +276,19 @@ Can you pronounce the words?
 5. extrovert    EKS'-trə-vurt'
 6. ambivert    AM'-bə-vurt'
 
-
 *See Introduction, Section 2, Master the pronunciation system.
 
 [//]: # "p 31"
 
 7. misanthrope 
-8. 
-misogynist 
-9. 
-misogamist 
-10. 
-ascetic 
+8. misogynist 
+9. misogamist 
+10. ascetic 
 MIS'-an-thröp' 
 ma-SOJ'-o-nist 
 ma-SOG'-a-mist 
-a-SET'-ik 
+a-SET'-ik
+
 Can you work with the words? 
 You have taken two long steps toward mastery of the expressive 
 words in this chapter—you have thought about the ideas behind 
@@ -349,6 +346,6 @@ ten words, find out if they can make an immediate, appeal to your
 understanding. Here are ten questions—can you indicate, quickly, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAxODA0MzMsMTcwMDkwMzU4MSwxNj
-M0OTY0MjA2LDIwODIyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbNzQ0ODY4MTksMTcwMDkwMzU4MSwxNjM0OT
+Y0MjA2LDIwODIyOTk5MjJdfQ==
 -->
