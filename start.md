@@ -340,15 +340,77 @@ KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 7—d, 8-i, 9—b, 10—e
 ```
 
 Do you understand the words? 
-  Now that you are becoming more and more involved in these 
-ten words, find out if they can make an immediate, appeal to your 
-understanding. Here are ten questions—can you indicate, quickly, 
-
-[//]: # "p 32"
+  Now that you are becoming more and more involved in these ten words, find out if they can make an immediate, appeal to your understanding. Here are ten questions—can you indicate, quickly, and without reference to any previous definitions, whether the correct answer to each of these questions is yes or no?
 
 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+Is an egoist selfish? 
+Is modesty one of the characteristics of 
+the egotist? 
+Is an altruist selfish? 
+Does an introvert pay much attention to 
+himself? 
+Does an extrovert prefer solitude to 
+companionship? 
+Are most normal people ambiverts? 
+Does a misanthrope like people? 
+Does a misogynist enjoy the company 
+of women? 
+Does an ascetic lead a life of luxury? 
+Does a misogamist try to avoid 
+marriage? 
+YES 
+YES 
+YEs 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+KEY: I—yes, 2—no, 3—no, 4—yes, 5—no, 6—yes, 7—no, 8—no, 9—no, 
+10—yes 
+Can you recall the words? 
+You have thus far reinforced your learning by saying the words 
+aloud, by matching them to their definitions, and by responding to 
+meaning when they were used in context. 
+Can you recall each word, now, without further reference to 
+previous material? And can you spell it correctly? 
+1. 
+2. 
+3. 
+4. 
+5. 
+Who lives a lonely, austere 
+life? 
+Whose interests are turned 
+outward? 
+Who is supremely selfish? 
+Who hates people? 
+Whose interests are turned 
+both inward and outward? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAzOTI5MzAsMTY2NDM1OTAwNSw2Mz
-U1MjE2NDgsMTcwMDkwMzU4MSwxNjM0OTY0MjA2LDIwODIyOTk5
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTYxMzczNjc3MiwtMTUyMDM5MjkzMCwxNj
+Y0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAzNTgxLDE2MzQ5NjQy
+MDYsMjA4MjI5OTkyMl19
 -->
