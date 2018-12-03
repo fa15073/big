@@ -256,8 +256,41 @@ A misogynist
 
 [//]: # "p 30"
 
-
-
+bind are too binding for you. You may possibly believe, and pos- 
+sibly, for yourself, be right, that a commiünent is deeper and more 
+meaningful if freedom is available without judicial proceedings. 
+A misogamist 
+10. ' 
+. . . that the flesh is heir to . . 
+Self-denial, austerity, lonely contemplation—these are the char- 
+acteristics of the good life, so you claim. The simplest food and 
+the least amount of it that will keep body and soul together, com- 
+bined with abstinence from fleshly, earthly pleasures, will eventu- 
+ally lead to spiritual perfection—that is your philosophy. 
+An ascetic 
+USING THE WORDS 
+You have been introduced to ten valuable words—but in each 
+case, as you have noticed, you have first considered the ideas that 
+these words represent. Now say the words—each one is respelled 
+phonetically so that you will be sure to pronounce it correctly.* 
+Say each word aloud. This is the first important step to com- 
+plete mastery. As you hear a word in your own voice, think of its 
+meaning. Are you quite clear about it? If not, reinforce your 
+learning by rereading the explanatory paragraph or paragraphs. 
+Can you pronounce the words? 
+I. egoist 
+2. egotist 
+3. altruist 
+4. introvert 
+5. extrovert 
+6. ambivert 
+EE'-gö-ist 
+EE'-gö-tist 
+AL'-tr6ö-ist 
+IN'-tta-vure 
+EKY-tra-vure 
+AM'-ba-vurt' 
+* See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjI5OTkyMl19
+eyJoaXN0b3J5IjpbLTIwMzIxMTExNDEsMjA4MjI5OTkyMl19
 -->
