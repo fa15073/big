@@ -344,22 +344,16 @@ Do you understand the words?
 
 [//]: # "p 32"
 
-1. 
-. Is an egoist selfish? 
-Is modesty one of the characteristics of 
-the egotist? 
-Is an altruist selfish? 
-Does an introvert pay much attention to 
-himself? 
-Does an extrovert prefer solitude to 
-companionship? 
-Are most normal people ambiverts? 
-Does a misanthrope like people? 
-Does a misogynist enjoy the company 
-of women? 
-Does an ascetic lead a life of luxury? 
-Does a misogamist try to avoid 
-marriage? 
+1. Is an egoist selfish? 
+2. Is modesty one of the characteristics of the egotist?
+3. Is an altruist selfish?
+4. Does an introvert pay much attention to himself?
+5. Does an extrovert prefer solitude to companionship?
+6. Are most normal people ambiverts?
+7. Does a misanthrope like people?
+8. Does a misogynist enjoy the company of women?
+9. Does an ascetic lead a life of luxury?
+10. Does a misogamist try to avoid marriage?
 YES 
 YES 
 YEs 
@@ -402,7 +396,7 @@ Who hates people?
 Whose interests are turned 
 both inward and outward? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMxMTQ0OTMsLTE1MjAzOTI5MzAsMT
+eyJoaXN0b3J5IjpbLTE1MTg0Njk0NDAsLTE1MjAzOTI5MzAsMT
 Y2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMDkwMzU4MSwxNjM0OTY0
 MjA2LDIwODIyOTk5MjJdfQ==
 -->
