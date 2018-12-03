@@ -361,17 +361,15 @@ KEY: 1—yes, 2—no, 3—no, 4—yes, 5—no, 6—yes, 7—no, 8—no, 9—no, 
 
 Can you recall the words? 
   You have thus far reinforced your learning by saying the words aloud, by matching them to their definitions, and by responding to meaning when they were used in context. 
-  Can you recall each word, now, without further reference to 
-previous material? And can you spell it correctly?
+  Can you recall each word, now, without further reference to previous material? And can you spell it correctly?
  
 11. Who lives a lonely, austere life?
-12. Whose interests are turned outward? 
-1Who is supremely selfish? 
-Who hates people? 
-Whose interests are turned 
-both inward and outward? 
+12. Whose interests are turned outward?
+13. Who is supremely selfish?
+14. Who hates people?
+15. Whose interests are turned both inward and outward?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ4MTA0NzMsLTE1MjAzOTI5MzAsMT
-Y2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMDkwMzU4MSwxNjM0OTY0
-MjA2LDIwODIyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTUzMTQzNDY2OSwtMTUyMDM5MjkzMCwxNj
+Y0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAzNTgxLDE2MzQ5NjQy
+MDYsMjA4MjI5OTkyMl19
 -->
