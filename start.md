@@ -340,7 +340,7 @@ KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 7—d, 8-i, 9—b, 10—e
 ```
 
 Do you understand the words? 
-  Now that you are becoming more and more involved in these ten words, find out if they can make an immediate, appeal to your understanding. Here are ten questions—can you indicate, quickly, and without reference to any previous definitions, whether the correct answer to each of these questions is yes or no?
+  Now that you are becoming more and more involved in these ten words, find out if they can make an immediate, appeal to your understanding. Here are ten questions—can you indicate, quickly, and without reference to any previous definitions, whether the correct answer to each of these questions is *yes* or *no?*
 
 [//]: # "p 32"
 
@@ -356,28 +356,22 @@ Do you understand the words?
 10. Does a misogamist try to avoid marriage?
 
 ```
-KEY: I—yes, 2—no, 3—no, 4—yes, 5—no, 6—yes, 7—no, 8—no, 9—no, 10—yes
+KEY: 1—yes, 2—no, 3—no, 4—yes, 5—no, 6—yes, 7—no, 8—no, 9—no, 10—yes
 ```
 
 Can you recall the words? 
   You have thus far reinforced your learning by saying the words aloud, by matching them to their definitions, and by responding to meaning when they were used in context. 
   Can you recall each word, now, without further reference to 
-previous material? And can you spell it correctly? 
-11. 
-12. 
-13. 
-14. 
-15. 
-Who lives a lonely, austere 
-life? 
-Whose interests are turned 
-outward? 
-Who is supremely selfish? 
+previous material? And can you spell it correctly?
+ 
+11. Who lives a lonely, austere life?
+12. Whose interests are turned outward? 
+1Who is supremely selfish? 
 Who hates people? 
 Whose interests are turned 
 both inward and outward? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzcyNTYxMSwtMTUyMDM5MjkzMCwxNj
-Y0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAzNTgxLDE2MzQ5NjQy
-MDYsMjA4MjI5OTkyMl19
+eyJoaXN0b3J5IjpbLTE2NzQ4MTA0NzMsLTE1MjAzOTI5MzAsMT
+Y2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMDkwMzU4MSwxNjM0OTY0
+MjA2LDIwODIyOTk5MjJdfQ==
 -->
