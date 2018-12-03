@@ -302,16 +302,7 @@ Can you work with the words?
 8. misogynist
 9. misogamist
 10. ascetic
-a. 
-b. 
-c. 
-d. 
-e. 
-f. 
-g. 
-h. 
-i. 
-j. 
+ 
 a. turns thoughts inward
 b. hates marriage
 c. talks about accomplishments
@@ -322,6 +313,7 @@ g. believes in self-advancement
 h. turns thoughts both inward and outward 
 I. hates women
 j. turns thoughts outward
+
 ```
 KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 7—d, 8-i, 9—b, 10—e
 ```
@@ -356,7 +348,7 @@ Can you recall the words?
 14. Who hates people?
 15. Whose interests are turned both inward and outward?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDkyNzkwMiwtNTMxNDM0NjY5LC0xNT
-IwMzkyOTMwLDE2NjQzNTkwMDUsNjM1NTIxNjQ4LDE3MDA5MDM1
-ODEsMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
+eyJoaXN0b3J5IjpbLTEzNDgxOTY3NDEsLTUzMTQzNDY2OSwtMT
+UyMDM5MjkzMCwxNjY0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAz
+NTgxLDE2MzQ5NjQyMDYsMjA4MjI5OTkyMl19
 -->
