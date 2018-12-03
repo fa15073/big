@@ -291,10 +291,8 @@ a-SET'-ik
 Can you work with the words?
   You have taken two long steps toward mastery of the expressive words in this chapter—you have thought about the ideas behind them, and you have said them aloud.
   For your third step, match each personality with the appropriate characteristic, action, or attitude.
-|    Option           |         Description        | 
-| -------------------:| --------------------------------:|
-|1. egoist | a. turns thoughts inward |
 
+1. egoist
 2. egotist
 3. altruist
 4. introvert
@@ -305,6 +303,7 @@ Can you work with the words?
 9. misogamist
 10. ascetic
  
+a. turns thoughts inward
 b. hates marriage
 c. talks about accomplishments
 d. hates people
@@ -349,7 +348,7 @@ Can you recall the words?
 14. Who hates people?
 15. Whose interests are turned both inward and outward?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjc4MDMzNywtNTMxNDM0NjY5LC0xNT
-IwMzkyOTMwLDE2NjQzNTkwMDUsNjM1NTIxNjQ4LDE3MDA5MDM1
-ODEsMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
+eyJoaXN0b3J5IjpbLTEzNDgxOTY3NDEsLTUzMTQzNDY2OSwtMT
+UyMDM5MjkzMCwxNjY0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAz
+NTgxLDE2MzQ5NjQyMDYsMjA4MjI5OTkyMl19
 -->
