@@ -292,26 +292,16 @@ Can you work with the words?
   You have taken two long steps toward mastery of the expressive words in this chapter—you have thought about the ideas behind them, and you have said them aloud.
   For your third step, match each personality with the appropriate characteristic, action, or attitude.
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-egoist 
-egotist 
-altruist 
-introvert 
-extrovert 
-ambivert 
-misanthrope 
-misogynist 
-misogamist 
-ascetic 
+1. egoist
+2. egotist
+3. altruist
+4. introvert
+5. extrovert
+6. ambivert
+7. misanthrope
+8. misogynist
+7. misogamist
+8. ascetic
 a. 
 b. 
 c. 
@@ -369,7 +359,7 @@ Can you recall the words?
 14. Who hates people?
 15. Whose interests are turned both inward and outward?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTQzNDY2OSwtMTUyMDM5MjkzMCwxNj
-Y0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAzNTgxLDE2MzQ5NjQy
-MDYsMjA4MjI5OTkyMl19
+eyJoaXN0b3J5IjpbMTAxMDY1NTE1MCwtNTMxNDM0NjY5LC0xNT
+IwMzkyOTMwLDE2NjQzNTkwMDUsNjM1NTIxNjQ4LDE3MDA5MDM1
+ODEsMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
 -->
