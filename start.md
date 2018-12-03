@@ -259,18 +259,14 @@ A misogynist
 A misogamist
 
 10. ". . . that the flesh is heir to . . ."
-Self-denial, austerity, lonely contemplation—these are the characteristics of the good life, so you claim. The simplest food and the least amount of it that will keep body and soul together, combined with abstinence from fleshly, earthly pleasures, will eventu- 
-ally lead to spiritual perfection—that is your philosophy. 
-An ascetic 
-USING THE WORDS 
-You have been introduced to ten valuable words—but in each 
-case, as you have noticed, you have first considered the ideas that 
-these words represent. Now say the words—each one is respelled 
-phonetically so that you will be sure to pronounce it correctly.* 
-Say each word aloud. This is the first important step to com- 
-plete mastery. As you hear a word in your own voice, think of its 
-meaning. Are you quite clear about it? If not, reinforce your 
-learning by rereading the explanatory paragraph or paragraphs. 
+Self-denial, austerity, lonely contemplation—these are the characteristics of the good life, so you claim. The simplest food and the least amount of it that will keep body and soul together, combined with abstinence from fleshly, earthly pleasures, will eventually lead to spiritual perfection—that is your philosophy. 
+
+An ascetic
+
+**USING THE WORDS**
+
+You have been introduced to ten valuable words—but in each case, as you have noticed, you have first considered the ideas that these words represent. Now say the words—each one is respelled phonetically so that you will be sure to pronounce it correctly.* 
+  *Say each word aloud*. This is the first important step to complete mastery. As you hear a word in your own voice, think of its meaning. Are you quite clear about it? If not, reinforce your learning by rereading the explanatory paragraph or paragraphs.
 Can you pronounce the words? 
 I. egoist 
 2. egotist 
@@ -286,5 +282,5 @@ EKY-tra-vure
 AM'-ba-vurt' 
   *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzgyNjg2MTQsMjA4MjI5OTkyMl19
+eyJoaXN0b3J5IjpbLTI0NDM5OTY2LDIwODIyOTk5MjJdfQ==
 -->
