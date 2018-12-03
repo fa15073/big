@@ -347,12 +347,8 @@ understanding. Here are ten questions—can you indicate, quickly,
 [//]: # "p 32"
 
 
-
- 
-$\underline 1$
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMD
-kwMzU4MSwxNjM0OTY0MjA2LDIwODIyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1MjAzOTI5MzAsMTY2NDM1OTAwNSw2Mz
+U1MjE2NDgsMTcwMDkwMzU4MSwxNjM0OTY0MjA2LDIwODIyOTk5
+MjJdfQ==
 -->
