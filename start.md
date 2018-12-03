@@ -289,12 +289,10 @@ ma-SOJ'-o-nist
 ma-SOG'-a-mist 
 a-SET'-ik
 
-Can you work with the words? 
-  You have taken two long steps toward mastery of the expressive 
-words in this chapter—you have thought about the ideas behind 
-them, and you have said them aloud. 
-  For your third step, match each personality with the appro- 
-priate characteristic, action, or attitude. 
+Can you work with the words?
+  You have taken two long steps toward mastery of the expressive words in this chapter—you have thought about the ideas behind them, and you have said them aloud.
+  For your third step, match each personality with the appropriate characteristic, action, or attitude.
+  
 1. 
 2. 
 3. 
@@ -339,8 +337,7 @@ and outward
 hates women 
 turns thoughts outward
 ```
-7—d, 84, 9—b, 10—e 
-KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 
+KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 7—d, 8-i, 9—b, 10—e
 ```
 
 Do you understand the words? 
@@ -349,6 +346,6 @@ ten words, find out if they can make an immediate, appeal to your
 understanding. Here are ten questions—can you indicate, quickly, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2ODk0MDc5LDE3MDA5MDM1ODEsMTYzND
-k2NDIwNiwyMDgyMjk5OTIyXX0=
+eyJoaXN0b3J5IjpbMTQ5OTM4NzY5NCwxNzAwOTAzNTgxLDE2Mz
+Q5NjQyMDYsMjA4MjI5OTkyMl19
 -->
