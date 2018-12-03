@@ -281,9 +281,8 @@ Can you pronounce the words?
 
 7. misanthrope    MIS'-ən-thr$\bar o$p'
 8. misogynist    mə-SOJ'-ə-nist
-9. misogamist
+9. misogamist    mə-SOG'-ə-mist
 10. ascetic    ə-SET'-ik
-mə-SOG'-ə-mist
 
 Can you work with the words?
   You have taken two long steps toward mastery of the expressive words in this chapter—you have thought about the ideas behind them, and you have said them aloud.
@@ -345,7 +344,7 @@ Can you recall the words?
 14. Who hates people?
 15. Whose interests are turned both inward and outward?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0OTg2NTY3LC01MzE0MzQ2NjksLTE1Mj
-AzOTI5MzAsMTY2NDM1OTAwNSw2MzU1MjE2NDgsMTcwMDkwMzU4
-MSwxNjM0OTY0MjA2LDIwODIyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTk3ODM3OTExMSwtNTMxNDM0NjY5LC0xNT
+IwMzkyOTMwLDE2NjQzNTkwMDUsNjM1NTIxNjQ4LDE3MDA5MDM1
+ODEsMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
 -->
