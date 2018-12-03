@@ -280,7 +280,7 @@ Can you pronounce the words?
 
 [//]: # "p 31"
 
-7. misanthrope 
+7. misanthrope
 8. misogynist 
 9. misogamist 
 10. ascetic 
@@ -292,7 +292,7 @@ a-SET'-ik
 Can you work with the words?
   You have taken two long steps toward mastery of the expressive words in this chapter—you have thought about the ideas behind them, and you have said them aloud.
   For your third step, match each personality with the appropriate characteristic, action, or attitude.
-  
+
 1. 
 2. 
 3. 
@@ -345,7 +345,10 @@ Do you understand the words?
 ten words, find out if they can make an immediate, appeal to your 
 understanding. Here are ten questions—can you indicate, quickly, 
 
+[//]: # "p 32"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTM4NzY5NCwxNzAwOTAzNTgxLDE2Mz
-Q5NjQyMDYsMjA4MjI5OTkyMl19
+eyJoaXN0b3J5IjpbNjM1NTIxNjQ4LDE3MDA5MDM1ODEsMTYzND
+k2NDIwNiwyMDgyMjk5OTIyXX0=
 -->
