@@ -338,13 +338,55 @@ Can you recall the words?
   You have thus far reinforced your learning by saying the words aloud, by matching them to their definitions, and by responding to meaning when they were used in context. 
   Can you recall each word, now, without further reference to previous material? And can you spell it correctly?
  
-11. Who lives a lonely, austere life?
-12. Whose interests are turned outward?
-13. Who is supremely selfish?
-14. Who hates people?
-15. Whose interests are turned both inward and outward?
+1. Who lives a lonely, austere life?
+2. Whose interests are turned outward?
+3. Who is supremely selfish?
+4. Who hates people?
+5. Whose interests are turned both inward and outward?
+6. Who is incredibly conceited?
+7. Who is more interested in the welfare of others than in his own?
+8. Who hates women?
+9. Whose interests are turned inward?
+10. Who hates marriage?
+
+[//]: # "p 33"
+
+``` 
+KEY: 1—ascetic, 2—extrovert, 3—egoist, 4—misanthrope, 5—ambivert, 
+6—egotist, 7—altruist, 8—misogynist, 9—introvert, 10—misogamist
+```
+
+(End of Session 1)
+ 
+**SESSION 2**
+
+ORIGINS AND RELATED WORDS
+
+  Every word in the English language has a history—and these ten are no exception. In this section you will learn a good deal more about the .words you have been working with; in addition, you will make excursions into many other words allied either in meaning, form, or history to our basic ten.
+ 
+1. the ego
+
+  *Egoist* and *egotist* are built on the same Latin root—the pronoun *ego*, meaning *I*. *I* is the greatest concern in the *egoist's* mind, the most overused word in the *egotist's* vocabulary. (Keep the words differentiated in your own mind by thinking of the *t* in *talk*, and the additional *t* in *egotist*.) *Ego* itself has been taken over from Latin as an important English word and is commonly used to denote one's concept of oneself, as in, "What do you think your constant criticisms do to my *ego?" Ego* has also a special meaning in psychology—but for the moment you have enough problems without going into *that*.
+
+[//]: # "p 34"
+
+  If you are an egocentric (ee'-g$\bar o$-SEN'-trik), you consider yourself the *center* of the universe—you are an extreme form of the *egoist*. And if you are an *egomaniac* (ee-g$\bar o$-MAY'-nee-ak), you carry *egoism* to such an extreme that your needs, desires, and interests have become a morbid obsession, a *mania*. The *egoist* or *egotist* is obnoxious, the egocentric is intolerable, and the egomaniac is dangerous and slightly mad.
+  *Egocentric* is both a noun ("What an egocentric her new roommate is!") and an adjective ("He is the most egocentric person I have ever met!")
+  To derive the adjective form of *egomaniac*, add *-al*, a common adjective suffix. Say the adjective aloud: 
+    *egomaniacal*    ee'-g$\bar o$-mə-NI'-ə-kəl
+    
+2. others
+
+  In Latin, the word for *other* is *alter*, and a number of valuable English words are built on this root.
+  *Altruism* (AL'-tr$\bar {oo}$-iz-əm), the philosophy practiced by *altruists*, comes from one of the variant spellings of Latin alter, *other*. *Altruistic* (al-tr$\bar {oo}$-lS'-tik) actions look toward the benefit of *others*. If you *alternate* (AWL'-tər-nayt'), you skip one and take the *other*, so to speak, as when you play golf on *alternate* (AWL'-tər-nət) Saturdays.
+  An *alternate* (AWL'-tər-nət) in a debate, contest, or convention is the *other* person who will take over if the original choice is unable to attend. And if you have no *alternative* (awl-TUR'-nə-tiv), you have no *other* choice.
+  You see how easy it is to understand the meanings of these words once you realize that they all come from the same source.
+
+[//]: # "p 35"
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODM3OTExMSwtNTMxNDM0NjY5LC0xNT
-IwMzkyOTMwLDE2NjQzNTkwMDUsNjM1NTIxNjQ4LDE3MDA5MDM1
-ODEsMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
+eyJoaXN0b3J5IjpbLTE1OTA5NzAzMzNdfQ==
 -->
