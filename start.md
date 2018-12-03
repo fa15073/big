@@ -279,13 +279,13 @@ Can you pronounce the words?
 
 [//]: # "p 31"
 
-7. misanthrope    MIS'-an-thr$\bar o$p'
+7. misanthrope    MIS'-ən-thr$\bar o$p'
 8. misogynist 
 9. misogamist 
 10. ascetic 
 
-ma-SOJ'-o-nist 
-ma-SOG'-a-mist 
+mə-SOJ'-ə-nist 
+mə-SOG'-a-mist 
 a-SET'-ik
 
 Can you work with the words?
@@ -348,7 +348,7 @@ Can you recall the words?
 14. Who hates people?
 15. Whose interests are turned both inward and outward?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTg2MTQ1MywtNTMxNDM0NjY5LC0xNT
-IwMzkyOTMwLDE2NjQzNTkwMDUsNjM1NTIxNjQ4LDE3MDA5MDM1
-ODEsMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
+eyJoaXN0b3J5IjpbLTEwMjE4NTE3NDksLTUzMTQzNDY2OSwtMT
+UyMDM5MjkzMCwxNjY0MzU5MDA1LDYzNTUyMTY0OCwxNzAwOTAz
+NTgxLDE2MzQ5NjQyMDYsMjA4MjI5OTkyMl19
 -->
