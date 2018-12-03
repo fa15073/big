@@ -254,14 +254,14 @@ A misogynist
 9. "marriage is an institution—and who wants to live in an institution?"
   You will not make the ultimate *legal* commitment. Members of the opposite sex are great as lovers, roommates, apartment- or house-sharers, but *not* as lawfully wedded spouses. The ties that bind are too binding for you. You may possibly believe, and possibly, for yourself, be right, that a commitment is deeper and more meaningful if freedom is available without judicial proceedings.
 
-[//]: # "p 30"
+    A misogamist
 
-A misogamist
+[//]: # "p 30"
 
 10. ". . . that the flesh is heir to . . ."
 Self-denial, austerity, lonely contemplation—these are the characteristics of the good life, so you claim. The simplest food and the least amount of it that will keep body and soul together, combined with abstinence from fleshly, earthly pleasures, will eventually lead to spiritual perfection—that is your philosophy. 
 
-An ascetic
+    An ascetic
 
 **USING THE WORDS**
 
@@ -283,5 +283,6 @@ EKY-tra-vure
 AM'-ba-vurt' 
   *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
+eyJoaXN0b3J5IjpbNTY0OTAwNiwxNjM0OTY0MjA2LDIwODIyOT
+k5MjJdfQ==
 -->
