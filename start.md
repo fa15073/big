@@ -300,8 +300,8 @@ Can you work with the words?
 6. ambivert
 7. misanthrope
 8. misogynist
-7. misogamist
-8. ascetic
+9. misogamist
+10. ascetic
 a. 
 b. 
 c. 
@@ -312,19 +312,16 @@ g.
 h. 
 i. 
 j. 
-turns thoughts inward 
-hates marriage 
-talks about accomplishments 
-hates people 
-does not pursue pleasures of 
-the flesh 
-is interested in the welfare of 
-others 
-believes in self-advancement 
-turns thoughts both inward 
-and outward 
-hates women 
-turns thoughts outward
+a. turns thoughts inward
+b. hates marriage
+c. talks about accomplishments
+d. hates people
+e. does not pursue pleasures of the flesh
+f. is interested in the welfare of others 
+g. believes in self-advancement
+h. turns thoughts both inward and outward 
+I. hates women
+j. turns thoughts outward
 ```
 KEY: 1-g, 2-c, 3-f, 4-a, 5-j, 6-h, 7—d, 8-i, 9—b, 10—e
 ```
@@ -359,7 +356,7 @@ Can you recall the words?
 14. Who hates people?
 15. Whose interests are turned both inward and outward?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDY1NTE1MCwtNTMxNDM0NjY5LC0xNT
+eyJoaXN0b3J5IjpbLTM5MDkyNzkwMiwtNTMxNDM0NjY5LC0xNT
 IwMzkyOTMwLDE2NjQzNTkwMDUsNjM1NTIxNjQ4LDE3MDA5MDM1
 ODEsMTYzNDk2NDIwNiwyMDgyMjk5OTIyXX0=
 -->
