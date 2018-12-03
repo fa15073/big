@@ -269,20 +269,16 @@ You have been introduced to ten valuable words—but in each case, as you have n
   *Say each word aloud*. This is the first important step to complete mastery. As you hear a word in your own voice, think of its meaning. Are you quite clear about it? If not, reinforce your learning by rereading the explanatory paragraph or paragraphs.
 
 Can you pronounce the words?
-I. egoist 
-2. egotist 
-3. altruist 
-4. introvert 
-5. extrovert 
+1. egoist  EE'-gö-ist
+2. egotist  EE'-gö-tist
+3. altruist  AL'-tr6ö-ist
+4. introvert  IN'-tta-vure
+5. extrovert  
 6. ambivert 
-EE'-gö-ist 
-EE'-gö-tist 
-AL'-tr6ö-ist 
-IN'-tta-vure 
-EKY-tra-vure 
-AM'-ba-vurt' 
+
+ AM'-ba-vurt' 
   *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkyMzY4MTgsMTYzNDk2NDIwNiwyMD
+eyJoaXN0b3J5IjpbLTExNTU0NjE2OTAsMTYzNDk2NDIwNiwyMD
 gyMjk5OTIyXX0=
 -->
