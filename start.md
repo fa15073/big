@@ -258,12 +258,8 @@ A misogynist
 
 A misogamist
 
-10. ' 
-. . . that the flesh is heir to . . 
-Self-denial, austerity, lonely contemplation—these are the char- 
-acteristics of the good life, so you claim. The simplest food and 
-the least amount of it that will keep body and soul together, com- 
-bined with abstinence from fleshly, earthly pleasures, will eventu- 
+10. ". . . that the flesh is heir to . . ."
+Self-denial, austerity, lonely contemplation—these are the characteristics of the good life, so you claim. The simplest food and the least amount of it that will keep body and soul together, combined with abstinence from fleshly, earthly pleasures, will eventu- 
 ally lead to spiritual perfection—that is your philosophy. 
 An ascetic 
 USING THE WORDS 
@@ -290,5 +286,5 @@ EKY-tra-vure
 AM'-ba-vurt' 
   *See Introduction, Section 2, Master the pronunciation system. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NTcxOTU3LDIwODIyOTk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMzgyNjg2MTQsMjA4MjI5OTkyMl19
 -->
