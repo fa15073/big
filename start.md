@@ -402,15 +402,15 @@ ee-gö-SEN'-trik
 ee-gö-MAY'-nee-ak 
 ee'-gö-ma-M'-a-kal
  
-5. altruism 
-6. altruistic 
-7. to alternate (v.) 
-8. alternate (adj. or noun) 
-9. alternative 
-10. alteration 
-11. to alter
-altercation 
-alter ego 
+5. *altruism*
+6. *altruistic*
+7. to *alternate* (v.)
+8. *alternate* (adj. or noun)
+9. *alternative*
+10. *alteration*
+11. to *alter*
+12. *altercation*
+13. *alter ego*
 AL'-tröö-iz-am 
 al-tröö-IS'-tik 
 AWL'-tar-naye 
@@ -468,6 +468,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA5MDU5MzEsLTY3MDMyNzM0MCwtMT
+eyJoaXN0b3J5IjpbLTE0NzYyOTQ4MDAsLTY3MDMyNzM0MCwtMT
 U5MDk3MDMzM119
 -->
