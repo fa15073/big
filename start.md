@@ -198,8 +198,7 @@ When you have finished working with this book, you will no longer be the same pe
 **HOW ADULTS STOP BUILDING THEIR VOCABULARIES**
 
   Then, eventually, at some point in your adult life (unless you are the rare exception), you gradually lost your compulsive drive to discover, to figure out, to understand, to know.
-  Eventually, therefore, you gradually lost your need to increase your vocabulary—your need to learn the words that could verbalize your new discoveries, your new understanding, your new 
-knowledge.
+  Eventually, therefore, you gradually lost your need to increase your vocabulary—your need to learn the words that could verbalize your new discoveries, your new understanding, your new knowledge.
   Roland Gelatt, in a review of Caroline Pratt's book *I Learn from Children*, describes this phenomenon as follows:
 ```
    All normal human beings are born with a powerful urge to
@@ -514,7 +513,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDExMDA4OTQsLTE0MDUwODM3MDQsLT
-MwOTQ4NTU3NCwxMTI2MTAwMzA3LDEzNTM2MjY0MCwtNjcwMzI3
-MzQwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbLTgzOTA3NzU1MiwtMjE0MTEwMDg5NCwtMT
+QwNTA4MzcwNCwtMzA5NDg1NTc0LDExMjYxMDAzMDcsMTM1MzYy
+NjQwLC02NzAzMjczNDAsLTE1OTA5NzAzMzNdfQ==
 -->
