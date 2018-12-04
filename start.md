@@ -400,19 +400,13 @@ Digging a little into the derivation of three of our basic words, *egoist*, *ego
 5. *altruism*    AL'-tr$\bar {oo}$-iz-əm
 6. *altruistic*    al-tr$\bar {oo}$-IS'-tik
 7. to *alternate* (v.)    AWL'-tər-nayt
-8. *alternate* (adj. or noun)
-9. *alternative*
-10. *alteration*
-11. to *alter*
-12. *altercation*
-13. *alter ego*
+8. *alternate* (adj. or noun)    AWL'-tər-nət
+9. *alternative*    awl-TUR'-nə-tiv
+10. *alteration*    awl'-tər-AY'-shən
+11. to *alter*    AWL'-tər
+12. *altercation*    awl'-tər-KAY'-shən
+13. *alter ego*    AWL'-tər EE'-g$\bar o$
 
-AWL'-tər-nət
-awl-TUR'-nə-tiv
-awl'-tər-AY'-shən
-AWL'-tər
-awl'-tər-KAY'-shən 
-AWL'-tər EE'-g$\bar o$
 
 Can you work with the words? (I)
 You have seen how these thirteen words derive from the two Latin roots ego, I, self, and alter, other, and you have pronounced them aloud and thereby begun to make them part of your active vocabulary.
@@ -456,6 +450,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYxOTI2ODksMTM1MzYyNjQwLC02Nz
-AzMjczNDAsLTE1OTA5NzAzMzNdfQ==
+eyJoaXN0b3J5IjpbMTQwOTA0MDE1NywxMzUzNjI2NDAsLTY3MD
+MyNzM0MCwtMTU5MDk3MDMzM119
 -->
