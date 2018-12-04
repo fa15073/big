@@ -431,13 +431,79 @@ Can you work with the words? (Il)
 2. altruistic
 3. alternative
 
-a. change 
-b. other possible 
-c. interested in the welfare of others 
 
-
-
+4. 
+5. 
+6. 
+alteration 
+alter ego 
+alternate (adj.) 
+d. 
+e. 
+f. 
+one's other self 
+a choice 
+morbidly, obsessively 
+wrapped up in oneself 
+Do you understand the words? 
+If you have begun to understand these thirteen words, you will 
+be able to respond to the following questions. 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+YES 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+NO 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+Is rejection usually a blow to one's ego? 
+Are egocentric people easy to get along 
+with? 
+Does an egomaniac have a normal 
+personality? 
+Are egomaniacal tendencies a sign of 
+maturity? 
+Is altruism a characteristic of selfish 
+people? 
+Are altruistic tendencies common to 
+egoists? 
+Is an alternate plan necessarily inferior? 
+Does an alternative allow you some 
+freedom of choice? 
+Does alteration imply keeping things 
+the same? 
+Do excitable people often engage in 
+altercations? 
+Is your alter ego usually quite similar to 
+yourself? 
+KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no, 
+10—yes, 11—yes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTYyOTE5NywxMTI2MTAwMzA3LDEzNT
+eyJoaXN0b3J5IjpbMTIwMDg1OTIxMSwxMTI2MTAwMzA3LDEzNT
 M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
