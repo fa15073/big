@@ -392,18 +392,18 @@ And keeping in mind that *alter* means *other*, you can quickly understand words
 **USING THE WORDS**
 
 Can you pronounce the words? 
-Digging a little into the derivation of three of our basic words, *egoist*, *egotist*, and *altruist*, has put us in touch with two important Latin roots, *ego*, I, *self*, and *alter*, **other**, and has made it possible for us to explore, with little difficulty, many other words derived from these roots. Pause now, for a moment, to digest these new acquisitions, and to say them *aloud*.
-1. ego 
-2. egocentric 
-3. egomaniac 
-4. egomaniacal 
+Digging a little into the derivation of three of our basic words, *egoist*, *egotist*, and *altruist*, has put us in touch with two important Latin roots, *ego*, I, *self*, and *alter*, *other*, and has made it possible for us to explore, with little difficulty, many other words derived from these roots. Pause now, for a moment, to digest these new acquisitions, and to say them *aloud*.
+1. *ego* 
+2. *egocentric* 
+3. *egomaniac* 
+4. *egomaniacal* 
 EE'-gö 
 ee-gö-SEN'-trik 
 ee-gö-MAY'-nee-ak 
 ee'-gö-ma-M'-a-kal 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkzNzIzNTQsLTE1OTA5NzAzMzNdfQ
-==
+eyJoaXN0b3J5IjpbMTMwMDcyMjQ2LC0xNTkwOTcwMzMzXX0=
 -->
