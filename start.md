@@ -384,9 +384,44 @@ ORIGINS AND RELATED WORDS
 
 [//]: # "p 35"
 
-
+And keeping in mind that *alter* means *other*, you can quickly understand words like *alter* *ego*, *altercation*, and *alteration*. 
+  An *alteration* (awl'-to-RAY'-shan) is of course a change—a 
+making into something *other*. When you alter (AWL'-tar) your 
+plans, you make other plans. 
+An altercation (awl'-tar-KAY'-shan) is a verbal dispute. When 
+you have an altercation with someone, you have a violent disagree- 
+ment, a "fight" with words. And why? Because you have other 
+ideas, plans, or opinions than those of the person on the other side 
+of the argument. Altercation, by the way, is stronger than quarrel 
+or dispute—the sentiment is more heated, the disagreement is 
+likely to be angry or even hot-tempered, there may be recourse, if 
+the disputants are human, to profanity or obscenity. You have 
+altercations, in short, over pretty important issues, and the word 
+implies that you get quite excited. 
+Alter ego (AWL'-tor EE'-gö), which combines alter, other, 
+with ego, I, self, generally refers to someone with whom you are 
+so close that you both do the same things, think alike, react 
+similarly, and are, in temperament, almost mirror images of each 
+other. Any such friend is your other I, your other self, your alter 
+ego. 
+USING THE WORDS 
+Can you pronounce the words? 
+Digging a little into the derivation of three of our basic words, 
+egoist, egotist, and altruist, has put us in touch with two important 
+Latin roots, ego, I, self, and alter, other, and has made it possible 
+for us to explore, with little dificulty, many other words derived 
+from these roots. Pause now, for a moment, to digest these new 
+acquisitions, and to say them aloud. 
+1. ego 
+2. egocentric 
+3. egomaniac 
+4. egomaniacal 
+EE'-gö 
+ee-gö-SEN'-trik 
+ee-gö-MAY'-nee-ak 
+ee'-gö-ma-M'-a-kal 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA5NzAzMzNdfQ==
+eyJoaXN0b3J5IjpbMTIyOTg2NDg0MywtMTU5MDk3MDMzM119
 -->
