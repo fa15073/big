@@ -204,7 +204,7 @@ knowledge.
 ```
    All normal human beings are born with a powerful urge to
    learn. Almost all of them lose this urge, even before they
-   who are so have reached maturity. It is only the few...who are so
+   have reached maturity. It is only the few...who are so
    constituted that lack of learning becomes a nuisance. This is
    perhaps the most insidious of human tragedies.
 ```
@@ -514,7 +514,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDU0MDQ4NiwtMTQwNTA4MzcwNCwtMz
-A5NDg1NTc0LDExMjYxMDAzMDcsMTM1MzYyNjQwLC02NzAzMjcz
-NDAsLTE1OTA5NzAzMzNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDExMDA4OTQsLTE0MDUwODM3MDQsLT
+MwOTQ4NTU3NCwxMTI2MTAwMzA3LDEzNTM2MjY0MCwtNjcwMzI3
+MzQwLC0xNTkwOTcwMzMzXX0=
 -->
