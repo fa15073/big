@@ -455,20 +455,24 @@ If you have begun to understand these thirteen words, you will be able to respon
 1. Is rejection usually a blow to one's *ego*?
 2. Are *egocentric* people easy to get along with?
 3. Does an *egomaniac* have a normal personality?
-4. Are egomaniacal tendencies a sign of maturity?
-5. Is altruism a characteristic of selfish people?
-6. Are altruistic tendencies common to egoists?
-7. Is an alternate plan necessarily inferior?
-8. Does an alternative allow you some freedom of choice?
-9. Does alteration imply keeping things the same?
-10, Do excitable people often engage in altercations?
-11. Is your alter ego usually quite similar to 
-yourself?
+4. Are *egomaniacal* tendencies a sign of maturity?
+5. Is *altruism* a characteristic of selfish people?
+6. Are *altruistic* tendencies common to egoists?
+7. Is an *alternate* plan necessarily inferior?
+8. Does an *alternative* allow you some freedom of choice?
+9. Does *alteration* imply keeping things the same?
+10. Do excitable people often engage in *altercations*?
+11. Is your *alter ego* usually quite similar to yourself?
+
 ```
 KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no, 
 10—yes, 11—yes
 ```
+
+[//]: # "p 38"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc0NTg5NzgsMTEyNjEwMDMwNywxMz
-UzNjI2NDAsLTY3MDMyNzM0MCwtMTU5MDk3MDMzM119
+eyJoaXN0b3J5IjpbLTMwOTQ4NTU3NCwxMTI2MTAwMzA3LDEzNT
+M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
