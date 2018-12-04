@@ -422,18 +422,15 @@ You have seen how these thirteen words derive from the two Latin roots ego, I, s
 Are you ready to match definitions to words? 
 1. ego
 2. egocentric
-3. 
-altruism 
-4. 
-to alternate 
-5. 
-to alter 
-6. 
-altercation 
-Can you work with the words? (Il) 
-1. egomaniacal 
-2. altruistic 
-3. alternative 
+3. altruism
+4. to alternate
+5. to alter
+6. altercation
+
+Can you work with the words? (Il)
+1. egomaniacal
+2. altruistic
+3. alternative
 a. 
 b. 
 c. 
@@ -461,6 +458,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NDQ0NDM3LDEzNTM2MjY0MCwtNjcwMz
+eyJoaXN0b3J5IjpbOTg1MDQ1NTg5LDEzNTM2MjY0MCwtNjcwMz
 I3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
