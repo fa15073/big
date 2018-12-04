@@ -202,17 +202,11 @@ When you have finished working with this book, you will no longer be the same pe
 knowledge.
   Roland Gelatt, in a review of Caroline Pratt's book *I Learn from Children*, describes this phenomenon as follows:
 All normal human beings are born with a powerful urge to learn. Almost all of them lose this urge, even before they who are so have reached maturity. It is only the few...who are so constituted that lack of learning becomes a nuisance. This is perhaps the most insidious of human tragedies.
-  Children are wonders at increasing their vocabularies because of their "powerful urge to learn." They do not learn solely by 
-means of words, but as their knowledge increases, so does their 
-vocabulary—for words are the symbols of ideas and under- 
-standing. 
-(If you are a parent, you perhaps remember that crucial and 
-trying period in which your child constantly asked "Why?" The 
-"Why?" is the child's method of finding out. How many adults 
-that you know go about asking and thinking "Why?" How often 
-do you yourself do it?) 
-The adults who "lose this urge," who no longer feel that "lack 
-of learning becomes a nuisance," stop building their vocabularies. 
+  Children are wonders at increasing their vocabularies because of their "powerful urge to learn." They do not learn solely by means of words, but as their knowledge increases, so does their 
+vocabulary—for words are the symbols of ideas and understanding.
+  (If you are a parent, you perhaps remember that crucial and trying period in which your child constantly asked "Why?" The "Why?" is the child's method of finding out. How many adults 
+that you know go about asking and thinking "Why?" How often do you yourself do it?)
+  The adults who "lose this urge," who no longer feel that "lack of learning becomes a nuisance," stop building their vocabularies. 
 They stop learning, they stop growing intellectually, they stop 
 changing. When and if such a time comes, then, as Mr. Gelatt so 
 truly says, "This is perhaps the most insidious of human tragedies." But fortunately the process is far from irreversible.
@@ -516,7 +510,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MzQ0MDEzLC0xNDA1MDgzNzA0LC0zMD
-k0ODU1NzQsMTEyNjEwMDMwNywxMzUzNjI2NDAsLTY3MDMyNzM0
-MCwtMTU5MDk3MDMzM119
+eyJoaXN0b3J5IjpbLTIwMDQ4NjEyOTgsLTE0MDUwODM3MDQsLT
+MwOTQ4NTU3NCwxMTI2MTAwMzA3LDEzNTM2MjY0MCwtNjcwMzI3
+MzQwLC0xNTkwOTcwMzMzXX0=
 -->
