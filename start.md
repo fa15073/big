@@ -426,6 +426,9 @@ d. one's concept of oneself
 e. to take one, skip one, etc.
 f. philosophy of putting another's welfare above one's own
 
+```
+KEY: 1—d, 2—a, 3—f, 4—e, 5—b, 6—c
+```
 Can you work with the words? (Il)
 1. egomaniacal
 2. altruistic
@@ -495,10 +498,12 @@ the same?
 Do excitable people often engage in 
 altercations? 
 Is your alter ego usually quite similar to 
-yourself? 
+yourself?
+```
 KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no, 
 10—yes, 11—yes
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyNTYyNSwxMTI2MTAwMzA3LDEzNTM2Mj
-Y0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbLTY3MTIyMjU5NCwxMTI2MTAwMzA3LDEzNT
+M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
