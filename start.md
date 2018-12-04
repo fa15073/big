@@ -181,14 +181,11 @@ When you have finished working with this book, you will no longer be the same pe
 
 **HOW CHILDREN INCREASE THEIR VOCABULARIES**
 
-  The typical ten-year-old, you will recall, has a recognition vo- 
-cabulary of over twenty thousand words—and has been learning 
-many hundreds of new words every year since the age of four. 
-You were once that typical child. 
-You were once an accomplished virtuoso at vocabulary build- 
-ing. 
-What was your secret? 
-Did you spend hours every day poring over a dictionary? 
+  The typical ten-year-old, you will recall, has a recognition vocabulary of over twenty thousand words—and has been learning many hundreds of new words every year since the age of four. 
+  *You were once that typical child.*
+  *You were once an accomplished virtuoso at vocabulary building.*
+  What was your secret?
+  Did you spend hours every day poring over a dictionary?
 Did you lull yourself to sleep at night with Webster's Un- 
 abridged? 
 Did you keep notebooks full of all the new words you ever 
@@ -502,7 +499,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUzMzYyMTA5LC0xNDA1MDgzNzA0LC0zMD
+eyJoaXN0b3J5IjpbOTk4NjU5Mjg3LC0xNDA1MDgzNzA0LC0zMD
 k0ODU1NzQsMTEyNjEwMDMwNywxMzUzNjI2NDAsLTY3MDMyNzM0
 MCwtMTU5MDk3MDMzM119
 -->
