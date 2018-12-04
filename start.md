@@ -384,15 +384,9 @@ ORIGINS AND RELATED WORDS
 
 [//]: # "p 35"
 
-And keeping in mind that *alter* means *other*, you can quickly understand words like *alter* *ego*, *altercation*, and *alteration*. 
-  An *alteration* (awl'-to-RAY'-shan) is of course a change—a 
-making into something *other*. When you alter (AWL'-tar) your 
-plans, you make other plans. 
-An altercation (awl'-tar-KAY'-shan) is a verbal dispute. When 
-you have an altercation with someone, you have a violent disagree- 
-ment, a "fight" with words. And why? Because you have other 
-ideas, plans, or opinions than those of the person on the other side 
-of the argument. Altercation, by the way, is stronger than quarrel 
+And keeping in mind that *alter* means *other*, you can quickly understand words like *alter* *ego*, *altercation*, and *alteration*.
+  An *alteration* (awl'-tə-RAY'-shən) is of course a change—a making into something *other*. When you *alter* (AWL'-tər) your plans, you make *other* plans.
+  An *altercation* (awl'-tər-KAY'-shən) is a verbal dispute. When you have an *altercation* with someone, you have a violent disagreement, a "fight" with words. And why? Because you have *other* ideas, plans, or opinions than those of the person on the other side of the argument. Altercation, by the way, is stronger than quarrel 
 or dispute—the sentiment is more heated, the disagreement is 
 likely to be angry or even hot-tempered, there may be recourse, if 
 the disputants are human, to profanity or obscenity. You have 
@@ -423,5 +417,5 @@ ee'-gö-ma-M'-a-kal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTg2NDg0MywtMTU5MDk3MDMzM119
+eyJoaXN0b3J5IjpbMzYxODIxODIwLC0xNTkwOTcwMzMzXX0=
 -->
