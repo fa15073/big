@@ -179,8 +179,9 @@ When you have finished working with this book, you will no longer be the same pe
   And surely you cannot deny that such an experience will change you intellectually—
   Will have a discernible effect on your methods of thinking—on your store of information—on your ability to express your ideas—on your understanding of human problems.
 
-HOW CHILDREN INCREASE THEIR VOCABULARIES 
-The typical ten-year-old, you will recall, has a recognition vo- 
+**HOW CHILDREN INCREASE THEIR VOCABULARIES**
+
+  The typical ten-year-old, you will recall, has a recognition vo- 
 cabulary of over twenty thousand words—and has been learning 
 many hundreds of new words every year since the age of four. 
 You were once that typical child. 
@@ -501,7 +502,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIzMzUwODEsLTE0MDUwODM3MDQsLT
-MwOTQ4NTU3NCwxMTI2MTAwMzA3LDEzNTM2MjY0MCwtNjcwMzI3
-MzQwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbNDUzMzYyMTA5LC0xNDA1MDgzNzA0LC0zMD
+k0ODU1NzQsMTEyNjEwMDMwNywxMzUzNjI2NDAsLTY3MDMyNzM0
+MCwtMTU5MDk3MDMzM119
 -->
