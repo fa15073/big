@@ -448,40 +448,15 @@ f. morbidly, obsessively wrapped up in oneself
 KEY: 1—f, 2—c, 3—e, 4—a, 5—d, 6—b
 ```
 
+[//]: # "p 37"
+
 Do you understand the words? 
 If you have begun to understand these thirteen words, you will 
-be able to respond to the following questions. 
+be able to respond to the following questions.
+
 YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-YES 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-NO 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
+YE
+
 10. 
 11. 
 Is rejection usually a blow to one's ego? 
@@ -509,6 +484,6 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 10—yes, 11—yes
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTY2ODAyNSwxMTI2MTAwMzA3LDEzNT
+eyJoaXN0b3J5IjpbLTEwNDk0OTM1OCwxMTI2MTAwMzA3LDEzNT
 M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
