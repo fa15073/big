@@ -162,17 +162,17 @@ probably follow that he will do better work academically."
   You can, in fact, accomplish a tremendous gain in less than two to three months of concentrated effort, even if you do only One session a day—in less time if you do two or more sessions a day.
   Furthermore— 
   You can start improving your vocabulary immediately—and within a few days you can be cruising along at such a rapid rate that there will be an actual change in your thinking, in your ability to express your thoughts, and in your powers of understanding.
-  Does this sound as if I am promising you the whole world in a neat package with a pretty pink ribbon tied around it? I am. And I am willing to make such an unqualified promise because I have seen what happens to those of my students at New York University and at Rio Hondo College in Whittier, California, who make sincere, methodical efforts to learn more, many more, words. 
+  Does this sound as if I am promising you the whole world in a neat package with a pretty pink ribbon tied around it? I am. And I am willing to make such an unqualified promise because I have seen what happens to those of my students at New York University and at Rio Hondo College in Whittier, California, who make sincere, methodical efforts to learn more, many more, words.
 
 [//]: # "p 19"
 
 ## HOW TO START BUILDING YOUR VOCABULARY
-When you have finished working with this book, you will no longer be the same person. 
-  You can't be. 
+When you have finished working with this book, you will no longer be the same person.
+  You can't be.
   If you honestly read every page, if you do every exercise, if you take every test, if you follow every principle, you will go through an intellectual experience that will effect a radical change in you.
   For if you systematically increase your vocabulary, you will also sharpen and enrich your thinking; push back your intellectual horizons; build your self-assurance; improve your facility in handling the English language and thereby your ability to express your thoughts effectively; and acquire a deeper understanding of the world in general and of yourself in particular.
   Increasing your vocabulary does not mean merely learning the definitions of large numbers of obscure words; it does not mean memorizing scores of unrelated terms. What it means—what it can only mean—is becoming acquainted with the multitudinous and fascinating phenomena of human existence for which words are, obviously, only the verbal descriptions.
-  Increasing your vocabulary—properly, intelligently, and systematically—means treating yourself to an all-round, liberal education. 
+  Increasing your vocabulary—properly, intelligently, and systematically—means treating yourself to an all-round, liberal education.
 
 [//]: # "p 20"
 
@@ -473,6 +473,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTQ4NTU3NCwxMTI2MTAwMzA3LDEzNT
-M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbLTE0MDUwODM3MDQsLTMwOTQ4NTU3NCwxMT
+I2MTAwMzA3LDEzNTM2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcw
+MzMzXX0=
 -->
