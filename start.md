@@ -389,14 +389,10 @@ And keeping in mind that *alter* means *other*, you can quickly understand words
   An *altercation* (awl'-tər-KAY'-shən) is a verbal dispute. When you have an *altercation* with someone, you have a violent disagreement, a "fight" with words. And why? Because you have *other* ideas, plans, or opinions than those of the person on the *other* side of the argument. *Altercation*, by the way, is stronger than *quarrel* or *dispute*—the sentiment is more heated, the disagreement is likely to be angry or even hot-tempered, there may be recourse, if the disputants are human, to profanity or obscenity. You have *altercations*, in short, over pretty important issues, and the word implies that you get quite excited.
   Alter ego (AWL'-tər EE'-g$\bar o$), which combines *alter*, *other*, with *ego*, I, self, generally refers to someone with whom you are so close that you both do the same things, think alike, react similarly, and are, in temperament, almost mirror images of each other. Any such friend is your *other I,* your *other self,* your *alter ego.*
 
-USING THE WORDS 
+**USING THE WORDS**
+
 Can you pronounce the words? 
-Digging a little into the derivation of three of our basic words, 
-egoist, egotist, and altruist, has put us in touch with two important 
-Latin roots, ego, I, self, and alter, other, and has made it possible 
-for us to explore, with little dificulty, many other words derived 
-from these roots. Pause now, for a moment, to digest these new 
-acquisitions, and to say them aloud. 
+Digging a little into the derivation of three of our basic words, *egoist*, *egotist*, and *altruist*, has put us in touch with two important Latin roots, *ego*, I, *self*, and *alter*, **other**, and has made it possible for us to explore, with little difficulty, many other words derived from these roots. Pause now, for a moment, to digest these new acquisitions, and to say them *aloud*.
 1. ego 
 2. egocentric 
 3. egomaniac 
@@ -408,5 +404,6 @@ ee'-gö-ma-M'-a-kal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMDcyNzgwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbLTE5MDkzNzIzNTQsLTE1OTA5NzAzMzNdfQ
+==
 -->
