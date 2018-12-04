@@ -190,13 +190,11 @@ When you have finished working with this book, you will no longer be the same pe
   Did you keep notebooks full of all the new words you ever heard or read?
   Did you immediately look up the meaning of any new word that your parents or older members of your family used?
   Such procedures would have struck you as absurd then, as absurd as they would be for you today.
-  You had a much better, much more effective, and considerably 
-less self-conscious method. 
-Your method was the essence of simplicity: day in and day out 
-you kept learning; you kept squeezing every possible ounce of 
-learning out of every waking moment; you were an eternal ques- 
-tion box, for you had a constant and insatiable desire to know and 
-understand. 
+  You had a much better, much more effective, and considerably less self-conscious method. 
+  Your method was the essence of simplicity: day in and day out you kept learning; you kept squeezing every possible ounce of learning out of every waking moment; you were an eternal question box, for you had a constant and insatiable desire to know and understand.
+
+[//]: # "p 21"
+
 
 
 [//]: # "p 26"
@@ -495,7 +493,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDUzOTc0MSwtMTQwNTA4MzcwNCwtMz
+eyJoaXN0b3J5IjpbLTgwMDI4Nzc4MiwtMTQwNTA4MzcwNCwtMz
 A5NDg1NTc0LDExMjYxMDAzMDcsMTM1MzYyNjQwLC02NzAzMjcz
 NDAsLTE1OTA5NzAzMzNdfQ==
 -->
