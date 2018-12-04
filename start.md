@@ -430,21 +430,16 @@ Can you work with the words? (Il)
 1. egomaniacal
 2. altruistic
 3. alternative
+4. alteration 
+5. alter ego 
+6. alternate (adj.) 
+a. change
+b. other possible
+c. interested in the welfare of others
+d. one's other self 
+e. a choice 
+f. morbidly, obsessively wrapped up in oneself
 
-
-4. 
-5. 
-6. 
-alteration 
-alter ego 
-alternate (adj.) 
-d. 
-e. 
-f. 
-one's other self 
-a choice 
-morbidly, obsessively 
-wrapped up in oneself 
 Do you understand the words? 
 If you have begun to understand these thirteen words, you will 
 be able to respond to the following questions. 
@@ -504,6 +499,6 @@ yourself?
 KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no, 
 10—yes, 11—yes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDg1OTIxMSwxMTI2MTAwMzA3LDEzNT
-M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbNTIyNTYyNSwxMTI2MTAwMzA3LDEzNTM2Mj
+Y0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
