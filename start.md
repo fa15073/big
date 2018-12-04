@@ -407,6 +407,7 @@ Digging a little into the derivation of three of our basic words, *egoist*, *ego
 12. *altercation*    awl'-tər-KAY'-shən
 13. *alter ego*    AWL'-tər EE'-g$\bar o$
 
+[//]: # "p 36"
 
 Can you work with the words? (I)
 You have seen how these thirteen words derive from the two Latin roots ego, I, self, and alter, other, and you have pronounced them aloud and thereby begun to make them part of your active vocabulary.
@@ -450,6 +451,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTA0MDE1NywxMzUzNjI2NDAsLTY3MD
+eyJoaXN0b3J5IjpbMTEyNjEwMDMwNywxMzUzNjI2NDAsLTY3MD
 MyNzM0MCwtMTU5MDk3MDMzM119
 -->
