@@ -397,18 +397,16 @@ Digging a little into the derivation of three of our basic words, *egoist*, *ego
 2. *egocentric*    ee-g$\bar o$-SEN'-trik
 3. *egomaniac*    ee-g$\bar o$-MAY'-nee-ak
 4. *egomaniacal*    ee'-g$\bar o$-mə-NI'-ə-kəl 
-5. *altruism*
-6. *altruistic*
-7. to *alternate* (v.)
+5. *altruism*    AL'-tr$\bar {oo}$-iz-əm
+6. *altruistic*    al-tr$\bar {oo}$-IS'-tik
+7. to *alternate* (v.)    AWL'-tər-nayt
 8. *alternate* (adj. or noun)
 9. *alternative*
 10. *alteration*
 11. to *alter*
 12. *altercation*
 13. *alter ego*
-AL'-tröö-iz-əm
-al-tröö-IS'-tik
-AWL'-tər-nayt
+
 AWL'-tər-nət
 awl-TUR'-nə-tiv
 awl'-tər-AY'-shən
@@ -458,6 +456,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1MDQ1NTg5LDEzNTM2MjY0MCwtNjcwMz
-I3MzQwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbLTIwMjYxOTI2ODksMTM1MzYyNjQwLC02Nz
+AzMjczNDAsLTE1OTA5NzAzMzNdfQ==
 -->
