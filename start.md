@@ -451,39 +451,24 @@ KEY: 1—f, 2—c, 3—e, 4—a, 5—d, 6—b
 [//]: # "p 37"
 
 Do you understand the words? 
-If you have begun to understand these thirteen words, you will 
-be able to respond to the following questions.
-
-YES 
-YE
-
-10. 
-11. 
-Is rejection usually a blow to one's ego? 
-Are egocentric people easy to get along 
-with? 
-Does an egomaniac have a normal 
-personality? 
-Are egomaniacal tendencies a sign of 
-maturity? 
-Is altruism a characteristic of selfish 
-people? 
-Are altruistic tendencies common to 
-egoists? 
-Is an alternate plan necessarily inferior? 
-Does an alternative allow you some 
-freedom of choice? 
-Does alteration imply keeping things 
-the same? 
-Do excitable people often engage in 
-altercations? 
-Is your alter ego usually quite similar to 
+If you have begun to understand these thirteen words, you will be able to respond to the following questions.
+1. Is rejection usually a blow to one's *ego*?
+2. Are *egocentric* people easy to get along with?
+3. Does an *egomaniac* have a normal personality?
+4. Are egomaniacal tendencies a sign of maturity?
+5. Is altruism a characteristic of selfish people?
+6. Are altruistic tendencies common to egoists?
+7. Is an alternate plan necessarily inferior?
+8. Does an alternative allow you some freedom of choice?
+9. Does alteration imply keeping things the same?
+10, Do excitable people often engage in altercations?
+11. Is your alter ego usually quite similar to 
 yourself?
 ```
 KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no, 
 10—yes, 11—yes
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk0OTM1OCwxMTI2MTAwMzA3LDEzNT
-M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbLTE1Njc0NTg5NzgsMTEyNjEwMDMwNywxMz
+UzNjI2NDAsLTY3MDMyNzM0MCwtMTU5MDk3MDMzM119
 -->
