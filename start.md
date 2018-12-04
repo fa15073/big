@@ -401,9 +401,80 @@ EE'-gö
 ee-gö-SEN'-trik 
 ee-gö-MAY'-nee-ak 
 ee'-gö-ma-M'-a-kal 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+altruism 
+altruistic 
+to alternate (v.) 
+alternate (adj. or noun) 
+alternative 
+alteration 
+to alter 
+altercation 
+alter ego 
+AL'-tröö-iz-am 
+al-tröö-IS'-tik 
+AWL'-tar-naye 
+AWL'-tar-nat 
+awl-TUR'-na-tiv 
+awl'-tar-AY'-shan 
+AWL'-tar 
+awl'-tar-KAY'-shan 
+AWL'-tar EE'-gö 
+Can you work with the words? (I) 
+You have seen how these thirteen words derive from the two 
+Latin roots ego, I, self, and alter, other, and you have pronounced 
+them aloud and thereby begun to make them part of your active 
+vocabulary. 
+Are you ready to match definitions to words? 
+1. ego 
+2. 
+egocentric 
+3. 
+altruism 
+4. 
+to alternate 
+5. 
+to alter 
+6. 
+altercation 
+Can you work with the words? (Il) 
+1. egomaniacal 
+2. altruistic 
+3. alternative 
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+a. 
+b. 
+c. 
+one who is excessively fixated 
+on his own desires, needs, 
+etc. 
+to change 
+argument 
+one's concept of oneself 
+to take one, skip one, etc. 
+philosophy of putting an- 
+other's welfare above one's 
+own 
+a change 
+other possible 
+interested in the welfare of 
+others 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDcyMjQ2LC0xNTkwOTcwMzMzXX0=
+eyJoaXN0b3J5IjpbLTY3MDMyNzM0MCwtMTU5MDk3MDMzM119
 -->
