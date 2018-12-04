@@ -419,11 +419,17 @@ Are you ready to match definitions to words?
 4. to alternate
 5. to alter
 6. altercation
+a. one who is excessively fixated on his own desires, needs, etc.
+b. to change
+c. argument
+d. one's concept of oneself
+e. to take one, skip one, etc.
+f. philosophy of putting another's welfare above one's own
 
 Can you work with the words? (Il)
-1. egomaniacal
-2. altruistic
-3. alternative
+8. egomaniacal
+9. altruistic
+10. alternative
 a. 
 b. 
 c. 
@@ -433,20 +439,13 @@ f.
 a. 
 b. 
 c. 
-a. one who is excessively fixated on his own desires, needs, etc. 
-bto change 
-argument 
-one's concept of oneself 
-to take one, skip one, etc. 
-philosophy of putting another's welfare above one's own 
-a change 
+ange 
 other possible 
-interested in the welfare of 
-others 
+interested in the welfare of others 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NTczMjY1LDExMjYxMDAzMDcsMTM1Mz
-YyNjQwLC02NzAzMjczNDAsLTE1OTA5NzAzMzNdfQ==
+eyJoaXN0b3J5IjpbMjA2NDc0NzIyMSwxMTI2MTAwMzA3LDEzNT
+M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
