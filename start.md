@@ -406,23 +406,22 @@ Digging a little into the derivation of three of our basic words, *egoist*, *ego
 11. to *alter*
 12. *altercation*
 13. *alter ego*
-AL'-tröö-iz-əm 
-al-tröö-IS'-tik 
-AWL'-tər-nate 
-AWL'-tar-nat 
-awl-TUR'-na-tiv 
-awl'-tar-AY'-shan 
-AWL'-tar 
-awl'-tar-KAY'-shan 
-AWL'-tar EE'-gö
+AL'-tröö-iz-əm
+al-tröö-IS'-tik
+AWL'-tər-nayt
+AWL'-tər-nət
+awl-TUR'-nə-tiv
+awl'-tər-AY'-shən
+AWL'-tər
+awl'-tər-KAY'-shən 
+AWL'-tər EE'-g$\bar o$
 
-Can you work with the words? (I) 
+Can you work with the words? (I)
 You have seen how these thirteen words derive from the two Latin roots ego, I, self, and alter, other, and you have pronounced them aloud and thereby begun to make them part of your active vocabulary.
 
 Are you ready to match definitions to words? 
-1. ego 
-2. 
-egocentric 
+1. ego
+2. egocentric
 3. 
 altruism 
 4. 
@@ -462,6 +461,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMzNDM2NTMsMTM1MzYyNjQwLC02Nz
-AzMjczNDAsLTE1OTA5NzAzMzNdfQ==
+eyJoaXN0b3J5IjpbNzQ0NDQ0NDM3LDEzNTM2MjY0MCwtNjcwMz
+I3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
