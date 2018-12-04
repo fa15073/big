@@ -427,25 +427,17 @@ e. to take one, skip one, etc.
 f. philosophy of putting another's welfare above one's own
 
 Can you work with the words? (Il)
-8. egomaniacal
-9. altruistic
-10. alternative
-a. 
-b. 
-c. 
-d. 
-e. 
-f. 
-a. 
-b. 
-c. 
-ange 
-other possible 
-interested in the welfare of others 
+1. egomaniacal
+2. altruistic
+3. alternative
+
+a. change 
+b. other possible 
+c. interested in the welfare of others 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDc0NzIyMSwxMTI2MTAwMzA3LDEzNT
+eyJoaXN0b3J5IjpbLTc1OTYyOTE5NywxMTI2MTAwMzA3LDEzNT
 M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
