@@ -419,12 +419,11 @@ awl-TUR'-na-tiv
 awl'-tar-AY'-shan 
 AWL'-tar 
 awl'-tar-KAY'-shan 
-AWL'-tar EE'-gö 
+AWL'-tar EE'-gö
+
 Can you work with the words? (I) 
-You have seen how these thirteen words derive from the two 
-Latin roots ego, I, self, and alter, other, and you have pronounced 
-them aloud and thereby begun to make them part of your active 
-vocabulary. 
+You have seen how these thirteen words derive from the two Latin roots ego, I, self, and alter, other, and you have pronounced them aloud and thereby begun to make them part of your active vocabulary.
+
 Are you ready to match definitions to words? 
 1. ego 
 2. 
@@ -468,6 +467,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYyOTQ4MDAsLTY3MDMyNzM0MCwtMT
-U5MDk3MDMzM119
+eyJoaXN0b3J5IjpbMTM1MzYyNjQwLC02NzAzMjczNDAsLTE1OT
+A5NzAzMzNdfQ==
 -->
