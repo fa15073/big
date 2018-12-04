@@ -429,6 +429,7 @@ f. philosophy of putting another's welfare above one's own
 ```
 KEY: 1—d, 2—a, 3—f, 4—e, 5—b, 6—c
 ```
+
 Can you work with the words? (Il)
 1. egomaniacal
 2. altruistic
@@ -442,6 +443,10 @@ c. interested in the welfare of others
 d. one's other self 
 e. a choice 
 f. morbidly, obsessively wrapped up in oneself
+
+```
+KEY: 1—f, 2—c, 3—e, 4—a, 5—d, 6—b
+```
 
 Do you understand the words? 
 If you have begun to understand these thirteen words, you will 
@@ -504,6 +509,6 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 10—yes, 11—yes
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTIyMjU5NCwxMTI2MTAwMzA3LDEzNT
+eyJoaXN0b3J5IjpbLTg4NTY2ODAyNSwxMTI2MTAwMzA3LDEzNT
 M2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcwMzMzXX0=
 -->
