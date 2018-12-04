@@ -202,7 +202,12 @@ When you have finished working with this book, you will no longer be the same pe
 knowledge.
   Roland Gelatt, in a review of Caroline Pratt's book *I Learn from Children*, describes this phenomenon as follows:
 ```
-   All normal human beings are born with a powerful urge to learn. Almost all of them lose this urge, even before they who are so have reached maturity. It is only the few...who are so constituted that lack of learning becomes a nuisance. This is perhaps the most insidious of human tragedies.```
+   All normal human beings are born with a powerful urge to
+   learn. Almost all of them lose this urge, even before they
+   who are so have reached maturity. It is only the few...who are so
+   constituted that lack of learning becomes a nuisance. This is
+   perhaps the most insidious of human tragedies.
+```
   Children are wonders at increasing their vocabularies because of their "powerful urge to learn." They do not learn solely by means of words, but as their knowledge increases, so does their 
 vocabulary—for words are the symbols of ideas and understanding.
   (If you are a parent, you perhaps remember that crucial and trying period in which your child constantly asked "Why?" The "Why?" is the child's method of finding out. How many adults 
@@ -509,7 +514,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDA2MDg0MCwtMTQwNTA4MzcwNCwtMz
+eyJoaXN0b3J5IjpbLTU3NDU0MDQ4NiwtMTQwNTA4MzcwNCwtMz
 A5NDg1NTc0LDExMjYxMDAzMDcsMTM1MzYyNjQwLC02NzAzMjcz
 NDAsLTE1OTA5NzAzMzNdfQ==
 -->
