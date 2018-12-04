@@ -176,6 +176,34 @@ When you have finished working with this book, you will no longer be the same pe
 
 [//]: # "p 20"
 
+  And surely you cannot deny that such an experience will change you intellectually—
+  Will have a discernible effect on your methods of thinking—on your store of information—on your ability to express your ideas—on your understanding of human problems.
+
+HOW CHILDREN INCREASE THEIR VOCABULARIES 
+The typical ten-year-old, you will recall, has a recognition vo- 
+cabulary of over twenty thousand words—and has been learning 
+many hundreds of new words every year since the age of four. 
+You were once that typical child. 
+You were once an accomplished virtuoso at vocabulary build- 
+ing. 
+What was your secret? 
+Did you spend hours every day poring over a dictionary? 
+Did you lull yourself to sleep at night with Webster's Un- 
+abridged? 
+Did you keep notebooks full of all the new words you ever 
+heard or read? 
+Did you immediately look up the meaning of any new word that 
+your parents or older members of your family used? 
+Such procedures would have struck you as absurd then, as ab- 
+surd as they would be for you today. 
+You had a much better, much more effective, and considerably 
+less self-conscious method. 
+Your method was the essence of simplicity: day in and day out 
+you kept learning; you kept squeezing every possible ounce of 
+learning out of every waking moment; you were an eternal ques- 
+tion box, for you had a constant and insatiable desire to know and 
+understand. 
+
 
 [//]: # "p 26"
 
@@ -473,7 +501,7 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUwODM3MDQsLTMwOTQ4NTU3NCwxMT
-I2MTAwMzA3LDEzNTM2MjY0MCwtNjcwMzI3MzQwLC0xNTkwOTcw
-MzMzXX0=
+eyJoaXN0b3J5IjpbLTE3MjIzMzUwODEsLTE0MDUwODM3MDQsLT
+MwOTQ4NTU3NCwxMTI2MTAwMzA3LDEzNTM2MjY0MCwtNjcwMzI3
+MzQwLC0xNTkwOTcwMzMzXX0=
 -->
