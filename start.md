@@ -433,16 +433,12 @@ f.
 a. 
 b. 
 c. 
-one who is excessively fixated 
-on his own desires, needs, 
-etc. 
-to change 
+a. one who is excessively fixated on his own desires, needs, etc. 
+bto change 
 argument 
 one's concept of oneself 
 to take one, skip one, etc. 
-philosophy of putting an- 
-other's welfare above one's 
-own 
+philosophy of putting another's welfare above one's own 
 a change 
 other possible 
 interested in the welfare of 
@@ -451,6 +447,6 @@ others
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjEwMDMwNywxMzUzNjI2NDAsLTY3MD
-MyNzM0MCwtMTU5MDk3MDMzM119
+eyJoaXN0b3J5IjpbMzA3NTczMjY1LDExMjYxMDAzMDcsMTM1Mz
+YyNjQwLC02NzAzMjczNDAsLTE1OTA5NzAzMzNdfQ==
 -->
