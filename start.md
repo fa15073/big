@@ -216,6 +216,28 @@ changing. When and if such a time comes, then, as Mr. Gelatt so truly says, "Thi
 
 [//]: # "p 22"
 
+  If you have lost the "powerful urge to learn," you can regain it—you can regain your need to discover, to figure out, to understand, to know.
+  And thus you can start increasing your vocabulary at the same rate as when you were a child.
+  I am not spouting airy theory. For over thirty-five years I have worked with thousands of adults in my college courses in vocabulary improvement, and l can state as a fact, and without qualification, that:
+  *If you can recapture the "powerful urge to learn" with which you were born, you can go on increasing your vocabulary at a prodigious rate—* 
+  *No matter what your present age.*
+
+
+
+**WHY AGE MAKES LITTLE DIFFERENCE IN VOCABULARY BUILDING**
+
+  I repeat, *no matter what your present age.*
+  You may be laboring under a delusion common to many older people.
+  You may think that after you pass your twenties you rapidly and inevitably lose your ability to learn.
+  That is simply not true.
+  There is no doubt that the years up to eighteen or twenty are the best period for learning. Your own experience no doubt bears that out. And of course *for most people* more learning goes on faster up to the age of eighteen or twenty than ever after, even if they live to be older than Methuselah. (That is why vocabulary increases so rapidly for the first twenty years of life and comparatively at a snail's pace thereafter.)
+  But (and follow me closely)— 
+  The fact that most learning is accomplished before the age of twenty does not mean that very little learning can be achieved beyond that age.
+  What *is* done by most people and what can be done under proper guidance and motivation are two very, very different things—as scientific experiments have conclusively shown.
+
+[//]: # "p 23"
+
+
 
 [//]: # "p 26"
 
@@ -557,5 +579,5 @@ an inability to read with normal skill.
 
 [//]: # "p 40"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkzNjA1ODldfQ==
+eyJoaXN0b3J5IjpbMzEwOTQ3MzY5LC0xNTM5MzYwNTg5XX0=
 -->
