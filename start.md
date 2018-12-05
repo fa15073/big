@@ -233,7 +233,7 @@ changing. When and if such a time comes, then, as Mr. Gelatt so truly says, "Thi
   There is no doubt that the years up to eighteen or twenty are the best period for learning. Your own experience no doubt bears that out. And of course *for most people* more learning goes on faster up to the age of eighteen or twenty than ever after, even if they live to be older than Methuselah. (That is why vocabulary increases so rapidly for the first twenty years of life and comparatively at a snail's pace thereafter.)
   But (and follow me closely)— 
   The fact that most learning is accomplished before the age of twenty does not mean that very little learning can be achieved beyond that age.
-  What *is* done by most people and what can be done under proper guidance and motivation are two very, very different things—as scientific experiments have conclusively shown.
+  What *is* done by most people and what *can* be done under proper guidance and motivation are two very, very different things—as scientific experiments have conclusively shown.
 
 [//]: # "p 23"
 
@@ -579,5 +579,5 @@ an inability to read with normal skill.
 
 [//]: # "p 40"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwOTQ3MzY5LC0xNTM5MzYwNTg5XX0=
+eyJoaXN0b3J5IjpbLTM4MzQ0MzYxOSwtMTUzOTM2MDU4OV19
 -->
