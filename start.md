@@ -200,13 +200,13 @@ When you have finished working with this book, you will no longer be the same pe
   Then, eventually, at some point in your adult life (unless you are the rare exception), you gradually lost your compulsive drive to discover, to figure out, to understand, to know.
   Eventually, therefore, you gradually lost your need to increase your vocabulary—your need to learn the words that could verbalize your new discoveries, your new understanding, your new knowledge.
   Roland Gelatt, in a review of Caroline Pratt's book *I Learn from Children*, describes this phenomenon as follows:
-```
-   All normal human beings are born with a powerful urge to
-   learn. Almost all of them lose this urge, even before they
-   have reached maturity. It is only the few...who are so
-   constituted that lack of learning becomes a nuisance. This is
-   perhaps the most insidious of human tragedies.
-```
+
+>   All normal human beings are born with a powerful urge to
+>   learn. Almost all of them lose this urge, even before they
+>   have reached maturity. It is only the few...who are so
+>   constituted that lack of learning becomes a nuisance. This is
+>   perhaps the most insidious of human tragedies.
+
   Children are wonders at increasing their vocabularies because of their "powerful urge to learn." They do not learn solely by means of words, but as their knowledge increases, so does their 
 vocabulary—for words are the symbols of ideas and understanding.
   (If you are a parent, you perhaps remember that crucial and trying period in which your child constantly asked "Why?" The "Why?" is the child's method of finding out. How many adults 
@@ -511,9 +511,51 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 [//]: # "p 38"
 
+Can you recall the words? 
+  Have you learned these words so well that you can summon each one from your mind when a brief definition is offered? Review first if necessary; then, without further reference to previous pages, write the correct word in each blank. Make sure to check your spelling when you refer to the Key.
+1. one's other self
+    A_________________________
+2. to change
+    A_________________________
+3. a heated dispute
+    A_________________________
+4. excessively, morbidly obsessed with one's own needs, desires, or ambitions
+    E_________________________
+5. unselfish; more interested in the welfare of others than in one's own
+    A_________________________
+6. utterly involved with oneself; self-centered
+    E_________________________
+7. a choice
+    A_________________________
+8. one who substitutes for another
+    A_________________________
 
+
+```
+KEY: 1—alter ego, 2—alter, 3—altercation, 4—egomaniacal,
+5 altruistic, 6—egocentric, 7—alternative, 8—alternate
+```
+
+(End of Session 2) 
+
+
+[//]: # "p 39"
+
+**SESSION 3**
+
+ORIGINS AND RELATED WORDS
+
+1. depends how you turn
+
+  *Introvert, extrovert,* and *ambivert* are built on the Latin verb *verto,* to turn. If your thoughts are constantly turned inward (*intro-*), you are an *introvert*; outward (*extro-*), an *extrovert*; and in both directions (*ambi-*), an *ambivert*. The prefix *ambi-*, both, is also found in *ambidextrous* (am'-bə-DEKS'-trəs), *able to use both hands with equal skill*. The noun is *ambidexterity* (am'-bə-deks-TAIR'-ə-tee).
+  *Dexterous* (DEKS'-tə-rəs) means *skillful*, the noun *dexterity* (deks-TAIR'-ə-tee) is *skill*. The ending *-ous* is a common adjective suffix (*famous*, *dangerous*, *perilous*, etc.); *-ity* is a common noun suffix (*vanity*, *quality*, *simplicity*, etc.).
+  (Spelling caution: Note that the letter following the *t-* in *ambidextrous* is *-r*, but that in dexterous the next letter is *-e*.)
+  *Dexter* is actually the Latin word for *right hand*—in the *ambidextrous* person, both hands are *right hands*, so to speak.
+  The right hand is traditionally the more skillful one; it is only within recent decades that we have come to accept that "lefties" or "southpaws" are just as normal as anyone else—and the term *left-handed* is still used as a synonym of *awkward*.
+  The Latin word for the *left hand* is *sinister*. This same word, in English, means *threatening, evil,* or *dangerous*, a further commentary on our early suspiciousness of left-handed persons. There may still be some parents who insist on forcing left-handed children to change (though left-handedness is inherited, and as much an integral part of its possessor as eye color or nose shape), with various unfortunate results to the child—sometimes stuttering or 
+an inability to read with normal skill.
+
+[//]: # "p 40"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTA3NzU1MiwtMjE0MTEwMDg5NCwtMT
-QwNTA4MzcwNCwtMzA5NDg1NTc0LDExMjYxMDAzMDcsMTM1MzYy
-NjQwLC02NzAzMjczNDAsLTE1OTA5NzAzMzNdfQ==
+eyJoaXN0b3J5IjpbLTE1MzkzNjA1ODldfQ==
 -->
