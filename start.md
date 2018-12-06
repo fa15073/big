@@ -541,8 +541,9 @@ KEY: 1—yes, 2—no, 3—no, 4—no, 5—no, 6—no, 7—no, 8—yes, 9—no,
 
 Can you recall the words? 
   Have you learned these words so well that you can summon each one from your mind when a brief definition is offered? Review first if necessary; then, without further reference to previous pages, write the correct word in each blank. Make sure to check your spelling when you refer to the Key.
-1. one's other self
-    A_________________________
+|||
+|:-------|:---------------|
+|1. one's other self | A_________________________ |
 2. to change
     A_________________________
 3. a heated dispute
@@ -634,7 +635,7 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0OTY4NDExLC04OTcwNjg1MDksLTE0MT
-U1MzY0NjQsMzIxMjUwNjU1LDExNTkwNjIyOTYsLTM4MzQ0MzYx
-OSwtMTUzOTM2MDU4OV19
+eyJoaXN0b3J5IjpbNDY1MzkzODM1LDc2NDk2ODQxMSwtODk3MD
+Y4NTA5LC0xNDE1NTM2NDY0LDMyMTI1MDY1NSwxMTU5MDYyMjk2
+LC0zODM0NDM2MTksLTE1MzkzNjA1ODldfQ==
 -->
