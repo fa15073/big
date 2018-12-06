@@ -640,8 +640,8 @@ anthropological
 8. 
 9. 
 10. 
-Person 
-misanthrope or 
+|Person|
+|misanthrope or 
 misanthropist 
 misogynist 
 gynecologist 
@@ -665,7 +665,7 @@ anthropologist
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzA2ODUwOSwtMTQxNTUzNjQ2NCwzMj
-EyNTA2NTUsMTE1OTA2MjI5NiwtMzgzNDQzNjE5LC0xNTM5MzYw
-NTg5XX0=
+eyJoaXN0b3J5IjpbLTM3MjA2NDI4MywtODk3MDY4NTA5LC0xND
+E1NTM2NDY0LDMyMTI1MDY1NSwxMTU5MDYyMjk2LC0zODM0NDM2
+MTksLTE1MzkzNjA1ODldfQ==
 -->
