@@ -587,10 +587,7 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 
 2. love, hate, and marriage 
 
-*Misanthrope*, *misogynist*, and *misogamist* are built on the Greek root *misein*, to hate. The misanthrope hates mankind (Greek an. 
-thropos, mankind); the misogynist hates women (Greek gyne, 
-woman); the misogamist hates marriage (Greek gamos, mar- 
-riage). 
+*Misanthrope*, *misogynist*, and *misogamist* are built on the Greek root *misein*, to hate. The misanthrope hates mankind (Greek anthropos, mankind); the misogynist hates women (Greek gyne, woman); the misogamist hates marriage (Greek gamos, marriage).
 Anthropos, mankind, is also found in anthropology (an-thra- 
 POL'-a-jee), the study of the development of the human race; 
 and in philanthropist (fa-LAN'-thra-pist), one who loves man- 
@@ -609,6 +606,6 @@ polys means many.)
 [//]: # "p 41"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjAxOTg1OCwxMTU5MDYyMjk2LC0zOD
+eyJoaXN0b3J5IjpbLTMxNzc3NTM1MywxMTU5MDYyMjk2LC0zOD
 M0NDM2MTksLTE1MzkzNjA1ODldfQ==
 -->
