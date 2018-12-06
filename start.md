@@ -457,9 +457,9 @@ And keeping in mind that *alter* means *other*, you can quickly understand words
 Can you pronounce the words? 
 Digging a little into the derivation of three of our basic words, *egoist*, *egotist*, and *altruist*, has put us in touch with two important Latin roots, *ego*, I, *self*, and *alter*, *other*, and has made it possible for us to explore, with little difficulty, many other words derived from these roots. Pause now, for a moment, to digest these new acquisitions, and to say them *aloud*.
 1. *ego*    EE'-gō
-2. *egocentric*    ee-g$\bar o$-SEN'-trik
-3. *egomaniac*    ee-g$\bar o$-MAY'-nee-ak
-4. *egomaniacal*    ee'-g$\bar o$-mə-NI'-ə-kəl 
+2. *egocentric*    ee-gō-SEN'-trik
+3. *egomaniac*    ee-gō-MAY'-nee-ak
+4. *egomaniacal*    ee'-gō-mə-NI'-ə-kəl 
 5. *altruism*    AL'-tr$\bar {oo}$-iz-əm
 6. *altruistic*    al-tr$\bar {oo}$-IS'-tik
 7. to *alternate* (v.)    AWL'-tər-nayt
@@ -468,7 +468,7 @@ Digging a little into the derivation of three of our basic words, *egoist*, *ego
 10. *alteration*    awl'-tər-AY'-shən
 11. to *alter*    AWL'-tər
 12. *altercation*    awl'-tər-KAY'-shən
-13. *alter ego*    AWL'-tər EE'-g$\bar o$
+13. *alter ego*    AWL'-tər EE'-gō
 
 [//]: # "p 36"
 
@@ -580,6 +580,6 @@ an inability to read with normal skill.
 
 [//]: # "p 40"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI1MjQxNTAsMTE1OTA2MjI5NiwtMz
+eyJoaXN0b3J5IjpbLTE2MTA1MzE5NzYsMTE1OTA2MjI5NiwtMz
 gzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
