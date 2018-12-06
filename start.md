@@ -617,23 +617,12 @@ polygamy
 polygyny 
 polyandry 
 philanthropy 
-anthropology 
-
-misanthropic 
-misogynous or 
- 
- 
- 
- 
- 
- 
- 
- 
+anthropolog
  
 | Person | Practice, etc. | Adjective |
 |:-------|:---------------|:----------|
-|1. misanthrope or misanthropist|||
-|2. misogynist||misogynistic|
+|1. misanthrope or misanthropist||misanthropic|
+|2. misogynist||misogynous or misogynistic|
 |3. gynecologist||gynecological|
 |4. monogamist||monogamous|
 |5. bigamist||bigamous|
@@ -656,7 +645,7 @@ misogynous or
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODk2MjY4MSwtODk3MDY4NTA5LC0xND
-E1NTM2NDY0LDMyMTI1MDY1NSwxMTU5MDYyMjk2LC0zODM0NDM2
-MTksLTE1MzkzNjA1ODldfQ==
+eyJoaXN0b3J5IjpbNDczMTE5OTEwLC04OTcwNjg1MDksLTE0MT
+U1MzY0NjQsMzIxMjUwNjU1LDExNTkwNjIyOTYsLTM4MzQ0MzYx
+OSwtMTUzOTM2MDU4OV19
 -->
