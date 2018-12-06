@@ -599,22 +599,13 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 [//]: # "p 41"
 
   So *monogamy* is the custom of only *one* marriage (at a time). 
-  *Bigamy*, by etymology, is *two* marriages—in actuality, the un-
-lawful act of contracting another marriage without divorcing one's 
-current legal spouse. 
-And polygamy, by derivation many marriages, and therefore ety- 
-mologically denoting plural marriage for either males or females, 
-in current usage generally refers to the custom practiced in earlier 
-times by the Mormons, and before them by King Solomon, in 
-which the man has as many wives as he can afford financially 
-and/or emotionally. The correct, but rarely used, term for this 
-custom is polygyny (po-LIJ'-a-nee)—polys, many, plus gyne, 
-woman. 
-What if a woman has two or more husbands, a form of mar- 
-riage practiced in the Himalaya Mountains of Tibet? That custom 
-is called polyandry (pol-ee-AN'-dree), from polys plus Greek 
-andros, male. 
-3. making friends with sufxes 
+  *Bigamy*, by etymology, is *two* marriages—in actuality, the unlawful act of contracting another marriage without divorcing one's current legal spouse. 
+  And *polygamy*, by derivation many marriages, and therefore etymologically denoting plural marriage for either males or females, in current usage generally refers to the custom practiced in earlier times by the Mormons, and before them by King Solomon, in which the man has as many wives as he can afford financially and/or emotionally. The correct, but rarely used, term for this 
+custom is polygyny (po-LIJ'-a-nee)—polys, many, plus gyne, woman. 
+  What if a woman has two or more husbands, a form of marriage practiced in the Himalaya Mountains of Tibet? That custom is called polyandry (pol-ee-AN'-dree), from polys plus Greek andros, male.
+ 
+3. making friends with sufxes
+4
 English words have various forms, using certain sumxes for 
 nouns referring to persons, other sumxes for practices, attitudes, 
 philosophies, etc, and still others for adjectives. 
@@ -642,16 +633,16 @@ polygynous
 polyandrous 
 philanthropic 
 anthropological 
-1. 
-2. 
-3. 
-4. 
 5. 
 6. 
 7. 
 8. 
 9. 
 10. 
+11. 
+12. 
+13. 
+14. 
 Person 
 misanthrope or 
 misanthropist 
@@ -678,6 +669,6 @@ for a practice, attitude, etc.; and -ic or -ous for an adjective.
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODgxOTcyMiwzMjEyNTA2NTUsMTE1OT
+eyJoaXN0b3J5IjpbLTQ4NzA0MjU1MSwzMjEyNTA2NTUsMTE1OT
 A2MjI5NiwtMzgzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
