@@ -544,20 +544,13 @@ Can you recall the words?
 |||
 |:-------|:---------------|
 |1. one's other self | A_________________________ |
-2. to change
-    A_________________________
-3. a heated dispute
-    A_________________________
-4. excessively, morbidly obsessed with one's own needs, desires, or ambitions
-    E_________________________
-5. unselfish; more interested in the welfare of others than in one's own
-    A_________________________
-6. utterly involved with oneself; self-centered
-    E_________________________
-7. a choice
-    A_________________________
-8. one who substitutes for another
-    A_________________________
+|2. to change | A_________________________ |
+|3. a heated dispute | A_________________________ |
+|4. excessively, morbidly obsessed with one's own needs, desires, or ambitions | E_________________________ |
+|5. unselfish; more interested in the welfare of others than in one's own | A_________________________ |
+|6. utterly involved with oneself; self-centered | E_________________________ |
+|7. a choice | A_________________________ |
+|8. one who substitutes for another | A_________________________ |
 
 
 ```
@@ -635,7 +628,7 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzkzODM1LDc2NDk2ODQxMSwtODk3MD
-Y4NTA5LC0xNDE1NTM2NDY0LDMyMTI1MDY1NSwxMTU5MDYyMjk2
-LC0zODM0NDM2MTksLTE1MzkzNjA1ODldfQ==
+eyJoaXN0b3J5IjpbMTI0MDIxMTM4MSw3NjQ5Njg0MTEsLTg5Nz
+A2ODUwOSwtMTQxNTUzNjQ2NCwzMjEyNTA2NTUsMTE1OTA2MjI5
+NiwtMzgzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
