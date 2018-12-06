@@ -581,15 +581,12 @@ an inability to read with normal skill.
 [//]: # "p 40"
 
   The French word for the *left hand* is *gauche*, and, as you would suspect, when we took this word over into English we invested it with an uncomplimentary meaning. Call someone *gauche* (GŌSH) and you imply clumsiness, generally social rather than physical. (We're right back to our age-old misconception that left-handed people are less skillful than right-handed ones.) A *gauche* remark 
-is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; *gaucherie* (GŌ'-sha-ree) is an awkward, clumsy, tactless, embarrassing way of saying things or of handling situations.
-The gauche person is totally without finesse. 
-And the French word for the right hand is droit, which we have 
-used in building our English word adroit (a-DROYT'). Needless 
-to say, adroit, like dexterous, means skillful, but especially in the 
-exercise of the mental facilities. Like gauche, adroit, or its noun 
+is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; *gaucherie* (GŌ'-sha-ree) is an awkward, clumsy, tactless, embarrassing way of saying things or of handling situations. The *gauche* person is totally without finesse.
+  And the French word for the *right hand* is *droit*, which we have used in building our English word adroit (a-DROYT'). Needless to say, *adroit*, like *dexterous*, means *skillful*, but especially in the exercise of the mental facilities. Like gauche, adroit, or its noun 
 adroitness, usually is used figuratively. The adroit person is quick- 
 witted, can get out of diffcult spots cleverly, can handle situations 
-ingeniously. Adroitness is, then, quite the opposite of gaucherie. 
+ingeniously. Adroitness is, then, quite the opposite of *gaucherie*.
+
 2. love, hate, and marriage 
 Misanthrope, misogynist, and misogamist are built on the Greek 
 root misein, to hate. The misanthrope hates mankind (Greek an. 
@@ -614,6 +611,6 @@ polys means many.)
 [//]: # "p 41"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI3MTc3MDcsMTE1OTA2MjI5NiwtMz
+eyJoaXN0b3J5IjpbLTEzODIwMzIyOTcsMTE1OTA2MjI5NiwtMz
 gzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
