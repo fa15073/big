@@ -614,10 +614,10 @@ gynecology
 monogamy 
 bigamy 
 polygamy 
-polygyny 
-polyandry 
-philanthropy 
-anthropolog
+
+
+
+
  
 | Person | Practice, etc. | Adjective |
 |:-------|:---------------|:----------|
@@ -626,11 +626,11 @@ anthropolog
 |3. gynecologist||gynecological|
 |4. monogamist||monogamous|
 |5. bigamist||bigamous|
-|6. polygamist||polygamous|
-|7. polygynist||polygynous|
-|8. polyandrist||polyandrous|
-|9. philanthropist||philanthropic|
-|10. anthropologist||anthropological|
+|6. polygamist | polygyny | polygamous |
+|7. polygynist | polygyny | polygynous |
+|8. polyandrist | polyandry | polyandrous |
+|9. philanthropist | philanthropy | philanthropic |
+|10. anthropologist | anthropology | anthropological |
 
   You will note, then, that *-ist* is a common suffix for a person; *-y* for a practice, attitude, etc.; and *-ic* or *-ous* for an adjective. 
 
@@ -645,7 +645,7 @@ anthropolog
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMTE5OTEwLC04OTcwNjg1MDksLTE0MT
+eyJoaXN0b3J5IjpbNjU2NTQ0Nzg2LC04OTcwNjg1MDksLTE0MT
 U1MzY0NjQsMzIxMjUwNjU1LDExNTkwNjIyOTYsLTM4MzQ0MzYx
 OSwtMTUzOTM2MDU4OV19
 -->
