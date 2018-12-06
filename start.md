@@ -16,6 +16,8 @@ $\dot a$$\ddot u$
 Ī
 ī
 ə
+Ā
+ā
 
 [//]: # "p 11"
 
@@ -596,7 +598,8 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 
 [//]: # "p 41"
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMjUwNjU1LDExNTkwNjIyOTYsLTM4Mz
-Q0MzYxOSwtMTUzOTM2MDU4OV19
+eyJoaXN0b3J5IjpbNjA1MTAwNDMwLDMyMTI1MDY1NSwxMTU5MD
+YyMjk2LC0zODM0NDM2MTksLTE1MzkzNjA1ODldfQ==
 -->
