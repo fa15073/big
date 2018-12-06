@@ -607,7 +607,7 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 
   English words have various forms, using certain suffixes for nouns referring to persons, other suffixes for practices, attitudes, philosophies, etc, and still others for adjectives. 
   Consider: 
-Practice, etc. 
+
 misanthropy 
 misogyny 
 gynecology 
@@ -618,7 +618,7 @@ polygyny
 polyandry 
 philanthropy 
 anthropology 
-Adjective 
+
 misanthropic 
 misogynous or 
 misogynistic 
@@ -640,9 +640,9 @@ anthropological
 8. 
 9. 
 10. 
-|Person|
-|misanthrope or 
-misanthropist 
+| Person | Practice, etc. | Adjective |
+|:--------|: -------------:|----------|
+|misanthrope or misanthropist|
 misogynist 
 gynecologist 
 monogamist 
@@ -665,7 +665,7 @@ anthropologist
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjA2NDI4MywtODk3MDY4NTA5LC0xND
+eyJoaXN0b3J5IjpbMTI4NTk3MzA1MCwtODk3MDY4NTA5LC0xND
 E1NTM2NDY0LDMyMTI1MDY1NSwxMTU5MDYyMjk2LC0zODM0NDM2
 MTksLTE1MzkzNjA1ODldfQ==
 -->
