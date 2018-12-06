@@ -601,12 +601,12 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
   So *monogamy* is the custom of only *one* marriage (at a time). 
   *Bigamy*, by etymology, is *two* marriages—in actuality, the unlawful act of contracting another marriage without divorcing one's current legal spouse.
   And *polygamy*, by derivation many marriages, and therefore etymologically denoting plural marriage for either males *or* females, in current usage generally refers to the custom practiced in earlier times by the Mormons, and before them by King Solomon, in which the man has as many wives as he can afford financially and/or emotionally. The correct, but rarely used, term for this 
-custom is *polygyny* (po-LIJ'-a-nee)—*polys*, many, plus *gyne*, woman. 
+custom is *polygyny* (pə-LIJ'-ə-nee)—*polys*, many, plus *gyne*, woman. 
   What if a woman has two or more husbands, a form of marriage practiced in the Himalaya Mountains of Tibet? That custom is called *polyandry* (pol-ee-AN'-dree), from *polys* plus Greek *andros*, male.
  
 3. making friends with suffixes 
 
-  English words have various forms, using certain suffixes for nouns referring to persons, other suffixes for practices, attitudes, philosophies, etc. and still others for adjectives. 
+  English words have various forms, using certain suffixes for nouns referring to persons, other suffixes for practices, attitudes, philosophies, etc, and still others for adjectives. 
   Consider: 
 Practice, etc. 
 misanthropy 
@@ -653,8 +653,7 @@ polygynist
 polyandrist 
 philanthropist 
 anthropologist 
-You will note, then, that -ist is a common sumx for a person; -y 
-for a practice, attitude, etc.; and -ic or -ous for an adjective. 
+  You will note, then, that *-ist* is a common suffix for a person; *-y* for a practice, attitude, etc.; and *-ic* or *-ous* for an adjective. 
 
 [//]: # "p 42"
 
@@ -667,6 +666,6 @@ for a practice, attitude, etc.; and -ic or -ous for an adjective.
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxMjY5NTgsMzIxMjUwNjU1LDExNT
-kwNjIyOTYsLTM4MzQ0MzYxOSwtMTUzOTM2MDU4OV19
+eyJoaXN0b3J5IjpbMTM1MTQwMDU3NiwzMjEyNTA2NTUsMTE1OT
+A2MjI5NiwtMzgzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
