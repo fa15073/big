@@ -621,37 +621,27 @@ anthropology
 
 misanthropic 
 misogynous or 
-misogynistic 
-gynecological 
-monogamous 
-bigamous 
-polygamous 
-polygynous 
-polyandrous 
-philanthropic 
-anthropological 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 | Person | Practice, etc. | Adjective |
 |:-------|:---------------|:----------|
 |1. misanthrope or misanthropist|||
-|2. misogynist|||
-|3. gynecologist|||
-|4. monogamist|||
-|5. bigamist|||
-|6. polygamist|||
-|7. polygynist|||
-|8. polyandrist|||
-|9. philanthropist|||
-|10. anthropologist|||
+|2. misogynist||misogynistic|
+|3. gynecologist||gynecological|
+|4. monogamist||monogamous|
+|5. bigamist||bigamous|
+|6. polygamist||polygamous|
+|7. polygynist||polygynous|
+|8. polyandrist||polyandrous|
+|9. philanthropist||philanthropic|
+|10. anthropologist||anthropological|
 
   You will note, then, that *-ist* is a common suffix for a person; *-y* for a practice, attitude, etc.; and *-ic* or *-ous* for an adjective. 
 
@@ -666,7 +656,7 @@ anthropological
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTU2OTMyNywtODk3MDY4NTA5LC0xND
+eyJoaXN0b3J5IjpbLTM2ODk2MjY4MSwtODk3MDY4NTA5LC0xND
 E1NTM2NDY0LDMyMTI1MDY1NSwxMTU5MDYyMjk2LC0zODM0NDM2
 MTksLTE1MzkzNjA1ODldfQ==
 -->
