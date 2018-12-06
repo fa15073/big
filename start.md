@@ -342,7 +342,7 @@ Can you pronounce the words?
 
 [//]: # "p 31"
 
-7. misanthrope    MIS'-ən-thr$\bar o$p'
+7. misanthrope    MIS'-ən-thrōp'
 8. misogynist    mə-SOJ'-ə-nist
 9. misogamist    mə-SOG'-ə-mist
 10. ascetic    ə-SET'-ik
@@ -433,10 +433,10 @@ ORIGINS AND RELATED WORDS
 
 [//]: # "p 34"
 
-  If you are an egocentric (ee'-g$\bar o$-SEN'-trik), you consider yourself the *center* of the universe—you are an extreme form of the *egoist*. And if you are an *egomaniac* (ee-g$\bar o$-MAY'-nee-ak), you carry *egoism* to such an extreme that your needs, desires, and interests have become a morbid obsession, a *mania*. The *egoist* or *egotist* is obnoxious, the egocentric is intolerable, and the egomaniac is dangerous and slightly mad.
+  If you are an egocentric (ee'-gō-SEN'-trik), you consider yourself the *center* of the universe—you are an extreme form of the *egoist*. And if you are an *egomaniac* (ee-gō-MAY'-nee-ak), you carry *egoism* to such an extreme that your needs, desires, and interests have become a morbid obsession, a *mania*. The *egoist* or *egotist* is obnoxious, the egocentric is intolerable, and the egomaniac is dangerous and slightly mad.
   *Egocentric* is both a noun ("What an egocentric her new roommate is!") and an adjective ("He is the most egocentric person I have ever met!")
   To derive the adjective form of *egomaniac*, add *-al*, a common adjective suffix. Say the adjective aloud: 
-    *egomaniacal*    ee'-g$\bar o$-mə-NI'-ə-kəl
+    *egomaniacal*    ee'-gō-mə-NI'-ə-kəl
     
 2. others
 
@@ -450,13 +450,13 @@ ORIGINS AND RELATED WORDS
 And keeping in mind that *alter* means *other*, you can quickly understand words like *alter* *ego*, *altercation*, and *alteration*.
   An *alteration* (awl'-tə-RAY'-shən) is of course a change—a making into something *other*. When you *alter* (AWL'-tər) your plans, you make *other* plans.
   An *altercation* (awl'-tər-KAY'-shən) is a verbal dispute. When you have an *altercation* with someone, you have a violent disagreement, a "fight" with words. And why? Because you have *other* ideas, plans, or opinions than those of the person on the *other* side of the argument. *Altercation*, by the way, is stronger than *quarrel* or *dispute*—the sentiment is more heated, the disagreement is likely to be angry or even hot-tempered, there may be recourse, if the disputants are human, to profanity or obscenity. You have *altercations*, in short, over pretty important issues, and the word implies that you get quite excited.
-  Alter ego (AWL'-tər EE'-g$\bar o$), which combines *alter*, *other*, with *ego*, I, self, generally refers to someone with whom you are so close that you both do the same things, think alike, react similarly, and are, in temperament, almost mirror images of each other. Any such friend is your *other I,* your *other self,* your *alter ego.*
+  Alter ego (AWL'-tər EE'-gō), which combines *alter*, *other*, with *ego*, I, self, generally refers to someone with whom you are so close that you both do the same things, think alike, react similarly, and are, in temperament, almost mirror images of each other. Any such friend is your *other I,* your *other self,* your *alter ego.*
 
 **USING THE WORDS**
 
 Can you pronounce the words? 
 Digging a little into the derivation of three of our basic words, *egoist*, *egotist*, and *altruist*, has put us in touch with two important Latin roots, *ego*, I, *self*, and *alter*, *other*, and has made it possible for us to explore, with little difficulty, many other words derived from these roots. Pause now, for a moment, to digest these new acquisitions, and to say them *aloud*.
-1. *ego*    EE'-g$\bar o$
+1. *ego*    EE'-gō
 2. *egocentric*    ee-g$\bar o$-SEN'-trik
 3. *egomaniac*    ee-g$\bar o$-MAY'-nee-ak
 4. *egomaniacal*    ee'-g$\bar o$-mə-NI'-ə-kəl 
@@ -580,6 +580,6 @@ an inability to read with normal skill.
 
 [//]: # "p 40"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTA2MjI5NiwtMzgzNDQzNjE5LC0xNT
-M5MzYwNTg5XX0=
+eyJoaXN0b3J5IjpbLTE0NjI1MjQxNTAsMTE1OTA2MjI5NiwtMz
+gzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
