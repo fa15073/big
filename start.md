@@ -586,8 +586,8 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
   And the French word for the *right hand* is *droit*, which we have used in building our English word adroit (ə-DROYT'). Needless to say, *adroit*, like *dexterous*, means *skillful*, but especially in the exercise of the mental facilities. Like *gauche*, *adroit*, or its noun *adroitness*, usually is used figuratively. The adroit person is quick-witted, can get out of difficult spots cleverly, can handle situations ingeniously. *Adroitness* is, then, quite the opposite of *gaucherie*.
 
 2. love, hate, and marriage 
-Misanthrope, misogynist, and misogamist are built on the Greek 
-root misein, to hate. The misanthrope hates mankind (Greek an. 
+
+*Misanthrope*, *misogynist*, and *misogamist* are built on the Greek root *misein*, to hate. The misanthrope hates mankind (Greek an. 
 thropos, mankind); the misogynist hates women (Greek gyne, 
 woman); the misogamist hates marriage (Greek gamos, mar- 
 riage). 
@@ -609,6 +609,6 @@ polys means many.)
 [//]: # "p 41"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODMzNjM0MiwxMTU5MDYyMjk2LC0zOD
+eyJoaXN0b3J5IjpbMTc1MjAxOTg1OCwxMTU5MDYyMjk2LC0zOD
 M0NDM2MTksLTE1MzkzNjA1ODldfQ==
 -->
