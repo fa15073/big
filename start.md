@@ -601,8 +601,8 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
   So *monogamy* is the custom of only *one* marriage (at a time). 
   *Bigamy*, by etymology, is *two* marriages—in actuality, the unlawful act of contracting another marriage without divorcing one's current legal spouse.
   And *polygamy*, by derivation many marriages, and therefore etymologically denoting plural marriage for either males *or* females, in current usage generally refers to the custom practiced in earlier times by the Mormons, and before them by King Solomon, in which the man has as many wives as he can afford financially and/or emotionally. The correct, but rarely used, term for this 
-custom is polygyny (po-LIJ'-a-nee)—polys, many, plus gyne, woman. 
-  What if a woman has two or more husbands, a form of marriage practiced in the Himalaya Mountains of Tibet? That custom is called polyandry (pol-ee-AN'-dree), from polys plus Greek andros, male.
+custom is *polygyny* (po-LIJ'-a-nee)—*polys*, many, plus *gyne*, woman. 
+  What if a woman has two or more husbands, a form of marriage practiced in the Himalaya Mountains of Tibet? That custom is called *polyandry* (pol-ee-AN'-dree), from *polys* plus Greek andros, male.
  
 3. making friends with suffixes 
 
@@ -669,6 +669,6 @@ for a practice, attitude, etc.; and -ic or -ous for an adjective.
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDA0NDkxNCwzMjEyNTA2NTUsMTE1OT
+eyJoaXN0b3J5IjpbMTg0MTUyMTMyNiwzMjEyNTA2NTUsMTE1OT
 A2MjI5NiwtMzgzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
