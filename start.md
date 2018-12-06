@@ -624,6 +624,7 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 
 [//]: # "p 42"
 
+
 ō
 Ō
 Ī
@@ -633,7 +634,7 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUwNDY5MDMsLTg5NzA2ODUwOSwtMT
-QxNTUzNjQ2NCwzMjEyNTA2NTUsMTE1OTA2MjI5NiwtMzgzNDQz
-NjE5LC0xNTM5MzYwNTg5XX0=
+eyJoaXN0b3J5IjpbNzY0OTY4NDExLC04OTcwNjg1MDksLTE0MT
+U1MzY0NjQsMzIxMjUwNjU1LDExNTkwNjIyOTYsLTM4MzQ0MzYx
+OSwtMTUzOTM2MDU4OV19
 -->
