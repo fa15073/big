@@ -618,12 +618,12 @@ polygyny
 polyandry 
 philanthropy 
 anthropology 
-A djective 
+Adjective 
 misanthropic 
 misogynous or 
 misogynistic 
 gynecological 
-monogamoüs 
+monogamous 
 bigamous 
 polygamous 
 polygynous 
@@ -665,6 +665,7 @@ anthropologist
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU1MzY0NjQsMzIxMjUwNjU1LDExNT
-kwNjIyOTYsLTM4MzQ0MzYxOSwtMTUzOTM2MDU4OV19
+eyJoaXN0b3J5IjpbLTg5NzA2ODUwOSwtMTQxNTUzNjQ2NCwzMj
+EyNTA2NTUsMTE1OTA2MjI5NiwtMzgzNDQzNjE5LC0xNTM5MzYw
+NTg5XX0=
 -->
