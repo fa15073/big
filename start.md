@@ -12,6 +12,7 @@ $\grave a$
 $\hat a$
 $\tilde a$
 $\dot a$$\ddot u$
+ō
 
 [//]: # "p 11"
 
@@ -330,8 +331,8 @@ You have been introduced to ten valuable words—but in each case, as you have n
   *Say each word aloud*. This is the first important step to complete mastery. As you hear a word in your own voice, think of its meaning. Are you quite clear about it? If not, reinforce your learning by rereading the explanatory paragraph or paragraphs.
 
 Can you pronounce the words?
-1. egoist    EE'-g$\bar o$-ist
-2. egotist    EE'-g$\bar o$-tist
+1. egoist    EE'-gō-ist
+2. egotist    EE'-gō-tist
 3. altruist    AL'-tr$\bar {oo}$-ist
 4. introvert    IN'-trə-vurt'
 5. extrovert    EKS'-trə-vurt'
@@ -579,5 +580,6 @@ an inability to read with normal skill.
 
 [//]: # "p 40"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzQ0MzYxOSwtMTUzOTM2MDU4OV19
+eyJoaXN0b3J5IjpbMTE1OTA2MjI5NiwtMzgzNDQzNjE5LC0xNT
+M5MzYwNTg5XX0=
 -->
