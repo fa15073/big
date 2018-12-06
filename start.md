@@ -641,17 +641,18 @@ anthropological
 9. 
 10. 
 | Person | Practice, etc. | Adjective |
-|:--------|: -------------:|----------|
-|misanthrope or misanthropist|
-misogynist 
-gynecologist 
-monogamist 
-bigamist 
-polygamist 
-polygynist 
-polyandrist 
-philanthropist 
-anthropologist 
+|:-------|:---------------|:----------|
+|1. misanthrope or misanthropist|||
+|2. misogynist|||
+|3. gynecologist|||
+|4. monogamist|||
+|5. bigamist|||
+|6. polygamist|||
+|7. polygynist|||
+|8. polyandrist|||
+|9. philanthropist|||
+|10. anthropologist|||
+
   You will note, then, that *-ist* is a common suffix for a person; *-y* for a practice, attitude, etc.; and *-ic* or *-ous* for an adjective. 
 
 [//]: # "p 42"
@@ -665,7 +666,7 @@ anthropologist
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk3MzA1MCwtODk3MDY4NTA5LC0xND
+eyJoaXN0b3J5IjpbMTkxOTU2OTMyNywtODk3MDY4NTA5LC0xND
 E1NTM2NDY0LDMyMTI1MDY1NSwxMTU5MDYyMjk2LC0zODM0NDM2
 MTksLTE1MzkzNjA1ODldfQ==
 -->
