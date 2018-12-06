@@ -1,4 +1,3 @@
-ə
 $\bar {oo}$
 $\check {oo}$
 $\fbox {\vphantom{b}a. test}$
@@ -14,6 +13,9 @@ $\tilde a$
 $\dot a$$\ddot u$
 ō
 Ō
+Ī
+ī
+ə
 
 [//]: # "p 11"
 
@@ -595,6 +597,6 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 [//]: # "p 41"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mjk3NTI1MiwxMTU5MDYyMjk2LC0zOD
-M0NDM2MTksLTE1MzkzNjA1ODldfQ==
+eyJoaXN0b3J5IjpbMzIxMjUwNjU1LDExNTkwNjIyOTYsLTM4Mz
+Q0MzYxOSwtMTUzOTM2MDU4OV19
 -->
