@@ -579,7 +579,9 @@ ORIGINS AND RELATED WORDS
 an inability to read with normal skill.
 
 [//]: # "p 40"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA1MzE5NzYsMTE1OTA2MjI5NiwtMz
-gzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
+eyJoaXN0b3J5IjpbMjA1NzgzMjUzMiwxMTU5MDYyMjk2LC0zOD
+M0NDM2MTksLTE1MzkzNjA1ODldfQ==
 -->
