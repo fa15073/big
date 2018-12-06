@@ -580,9 +580,7 @@ an inability to read with normal skill.
 
 [//]: # "p 40"
 
-The French word for the left hand is gauche, and, as you would suspect, when we took this word over into English we invested it 
-with an uncomplimentary meaning. Call someone gauche (GÖSH) 
-and you imply clumsiness, generally social rather than physical. 
+The French word for the *left hand* is *gauche*, and, as you would suspect, when we took this word over into English we invested it with an uncomplimentary meaning. Call someone gauche (GŌSH) and you imply clumsiness, generally social rather than physical.
 (We're right back to our age-old misconception that left-handed 
 people are less skillful than right-handed ones.) A gauche remark 
 is tactless; a gauche offer of sympathy is so bumbling as to be em- 
@@ -620,6 +618,6 @@ polys means many.)
 [//]: # "p 41"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDk1MzM5NywxMTU5MDYyMjk2LC0zOD
+eyJoaXN0b3J5IjpbLTk4MjU3ODg1NywxMTU5MDYyMjk2LC0zOD
 M0NDM2MTksLTE1MzkzNjA1ODldfQ==
 -->
