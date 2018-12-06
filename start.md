@@ -607,26 +607,14 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 
   English words have various forms, using certain suffixes for nouns referring to persons, other suffixes for practices, attitudes, philosophies, etc, and still others for adjectives. 
   Consider: 
-
-misanthropy 
-misogyny 
-gynecology 
-monogamy 
-bigamy 
-polygamy 
-
-
-
-
- 
 | Person | Practice, etc. | Adjective |
 |:-------|:---------------|:----------|
-|1. misanthrope or misanthropist||misanthropic|
-|2. misogynist||misogynous or misogynistic|
-|3. gynecologist||gynecological|
-|4. monogamist||monogamous|
-|5. bigamist||bigamous|
-|6. polygamist | polygyny | polygamous |
+|1. misanthrope or misanthropist | misanthropy | misanthropic |
+|2. misogynist | misogyny | misogynous or misogynistic |
+|3. gynecologist | gynecology | gynecological |
+|4. monogamist | monogamy | monogamous |
+|5. bigamist | bigamy | bigamous |
+|6. polygamist | polygamy | polygamous |
 |7. polygynist | polygyny | polygynous |
 |8. polyandrist | polyandry | polyandrous |
 |9. philanthropist | philanthropy | philanthropic |
@@ -645,7 +633,7 @@ polygamy
 ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NTQ0Nzg2LC04OTcwNjg1MDksLTE0MT
-U1MzY0NjQsMzIxMjUwNjU1LDExNTkwNjIyOTYsLTM4MzQ0MzYx
-OSwtMTUzOTM2MDU4OV19
+eyJoaXN0b3J5IjpbLTE0MDUwNDY5MDMsLTg5NzA2ODUwOSwtMT
+QxNTUzNjQ2NCwzMjEyNTA2NTUsMTE1OTA2MjI5NiwtMzgzNDQz
+NjE5LC0xNTM5MzYwNTg5XX0=
 -->
