@@ -580,8 +580,46 @@ an inability to read with normal skill.
 
 [//]: # "p 40"
 
+The French word for the left hand is gauche, and, as you would suspect, when we took this word over into English we invested it 
+with an uncomplimentary meaning. Call someone gauche (GÖSH) 
+and you imply clumsiness, generally social rather than physical. 
+(We're right back to our age-old misconception that left-handed 
+people are less skillful than right-handed ones.) A gauche remark 
+is tactless; a gauche offer of sympathy is so bumbling as to be em- 
+barrassing; gaucherie (GÖ'-sha-ree) is an awkward, clumsy, tact- 
+less, embarrassing way of saying things or of handling situations. 
+The gauche person is totally without finesse. 
+And the French word for the right hand is droit, which we have 
+used in building our English word adroit (a-DROYT'). Needless 
+to say, adroit, like dexterous, means skillful, but especially in the 
+exercise of the mental facilities. Like gauche, adroit, or its noun 
+adroitness, usually is used figuratively. The adroit person is quick- 
+witted, can get out of diffcult spots cleverly, can handle situations 
+ingeniously. Adroitness is, then, quite the opposite of gaucherie. 
+2. love, hate, and marriage 
+Misanthrope, misogynist, and misogamist are built on the Greek 
+root misein, to hate. The misanthrope hates mankind (Greek an. 
+thropos, mankind); the misogynist hates women (Greek gyne, 
+woman); the misogamist hates marriage (Greek gamos, mar- 
+riage). 
+Anthropos, mankind, is also found in anthropology (an-thra- 
+POL'-a-jee), the study of the development of the human race; 
+and in philanthropist (fa-LAN'-thra-pist), one who loves man- 
+kind and shows such love by making substantial financial contri- 
+butions to charitable organizations or by donating time and energy 
+to helping those in need. 
+The root gyne, v man, is also found in gynecologist t ,'iF o- 
+KOV-a-3ist or jin-KOV-a-jist), the medical specialis 
+ho 
+treats female disorders. And the root gamos, marriage, occurs also 
+in monogamy (ma-NOG'-a-mee), bigamy (BIG'-a-mee), and 
+polygamy (pa-Llff-o-mee). 
+(As we will discover later, monos means one, bi- means two, 
+polys means many.) 
+
+[//]: # "p 41"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzgzMjUzMiwxMTU5MDYyMjk2LC0zOD
+eyJoaXN0b3J5IjpbLTIzMDk1MzM5NywxMTU5MDYyMjk2LC0zOD
 M0NDM2MTksLTE1MzkzNjA1ODldfQ==
 -->
