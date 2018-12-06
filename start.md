@@ -598,8 +598,8 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 
 [//]: # "p 41"
 
-So monogamy is the custom of only one marriage (at a time). 
-Bigamy, by etymology, is two marriages—in actuality, the un- 
+  So *monogamy* is the custom of only *one* marriage (at a time). 
+  *Bigamy*, by etymology, is *two* marriages—in actuality, the un-
 lawful act of contracting another marriage without divorcing one's 
 current legal spouse. 
 And polygamy, by derivation many marriages, and therefore ety- 
@@ -669,8 +669,15 @@ for a practice, attitude, etc.; and -ic or -ous for an adjective.
 
 [//]: # "p 42"
 
+ō
+Ō
+Ī
+ī
+ə
+Ā
+ā
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg2MzE0NDIsMzIxMjUwNjU1LDExNT
-kwNjIyOTYsLTM4MzQ0MzYxOSwtMTUzOTM2MDU4OV19
+eyJoaXN0b3J5IjpbLTU2ODgxOTcyMiwzMjEyNTA2NTUsMTE1OT
+A2MjI5NiwtMzgzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
 -->
