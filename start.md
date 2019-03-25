@@ -626,9 +626,10 @@ is tactless; a *gauche* offer of sympathy is so bumbling as to be embarrassing; 
 ə
 Ā
 ā
-
+**Softmax of an edge detector:** To calculate the softmax normalization, we taking each value [latex background="ffffff"]{x}[/latex] of the kernel and apply [latex background="ffffff"]{e^x}[/latex]. After that we divide by the sum of all [latex background="ffffff"]{e^x}[/latex]. Please note that this technique to calculate the softmax will be fine for most convolution kernels, but for more complex data the computation is a bit different to ensure numerical stability (floating point computation is inherently unstable for very large and very small values and you have to carefully navigate around troubles in this case).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDIxMTM4MSw3NjQ5Njg0MTEsLTg5Nz
-A2ODUwOSwtMTQxNTUzNjQ2NCwzMjEyNTA2NTUsMTE1OTA2MjI5
-NiwtMzgzNDQzNjE5LC0xNTM5MzYwNTg5XX0=
+eyJoaXN0b3J5IjpbMTk1NTQyOTYxMSwxMjQwMjExMzgxLDc2ND
+k2ODQxMSwtODk3MDY4NTA5LC0xNDE1NTM2NDY0LDMyMTI1MDY1
+NSwxMTU5MDYyMjk2LC0zODM0NDM2MTksLTE1MzkzNjA1ODldfQ
+==
 -->
